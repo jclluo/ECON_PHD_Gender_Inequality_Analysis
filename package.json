@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --max-buffer 1024MB"
+    "deploy": "node deploy.js"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +38,7 @@
   },
   "homepage": "https://jclluo.github.io/Gender_composition_STEM/",
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.3.0"
   }
 }
