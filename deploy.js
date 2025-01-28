@@ -25,7 +25,7 @@ try {
   execSync('git commit -m "Deploy to GitHub Pages"');
   
   // Push to gh-pages branch - using main or HEAD instead of master
-  execSync('git push --force https://github.com/jclluo/Gender_composition_STEM.git HEAD:gh-pages');
+  execSync('git push --force https://github.com/jclluo/ECON_PHD_Gender_Inequality_Analysis.git HEAD:gh-pages');
   
   // Clean up
   process.chdir('..');
