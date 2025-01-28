@@ -1,0 +1,157 @@
+-----------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\micro\OneDrive\Desktop\econlab_project\resu
+> lts\gender_gap_PhD_STEM_analysis.txt
+  log type:  text
+ opened on:   3 Dec 2024, 01:05:51
+
+. 
+. /* get percentage of each placement_type */
+. tab placement_type
+
+            placement_type |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+                  Academic |        502       60.48       60.48
+                Consultant |          4        0.48       60.96
+                 Economist |         22        2.65       63.61
+                    Fellow |         12        1.45       65.06
+                Government |         73        8.80       73.86
+                  Industry |        114       13.73       87.59
+International Organization |         42        5.06       92.65
+                     Other |         52        6.27       98.92
+                   Postdoc |          9        1.08      100.00
+---------------------------+-----------------------------------
+                     Total |        830      100.00
+
+. 
+. /* get percentage of academic */
+. tab academic
+
+   academic |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        494       40.66       40.66
+          1 |        721       59.34      100.00
+------------+-----------------------------------
+      Total |      1,215      100.00
+
+. 
+. /* get percentage of postdocs */
+. tab postdoc
+
+    postdoc |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        738       88.92       88.92
+          1 |         92       11.08      100.00
+------------+-----------------------------------
+      Total |        830      100.00
+
+. 
+. /* get percentage of students from each university */
+. tab university
+
+                university |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+       Columbia University |        282       19.34       19.34
+                   Cornell |          8        0.55       19.89
+                       NYU |         19        1.30       21.19
+   Northwestern University |         30        2.06       23.25
+               UC Berkeley |        302       20.71       43.96
+                UC Chicago |         19        1.30       45.27
+                      UCSD |         16        1.10       46.36
+                  UChicago |         18        1.23       47.60
+University of Pennsylvania |        295       20.23       67.83
+                      Yale |        469       32.17      100.00
+---------------------------+-----------------------------------
+                     Total |      1,458      100.00
+
+. 
+. /* get placement_types by university */
+. bysort university: tab placement_type
+
+-----------------------------------------------------------------
+-> university = 
+no observations
+
+-----------------------------------------------------------------
+-> university = Columbia University
+
+            placement_type |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+                  Academic |        158       58.30       58.30
+                Government |         32       11.81       70.11
+                  Industry |         62       22.88       92.99
+International Organization |         19        7.01      100.00
+---------------------------+-----------------------------------
+                     Total |        271      100.00
+
+-----------------------------------------------------------------
+-> university = Cornell
+no observations
+
+-----------------------------------------------------------------
+-> university = NYU
+no observations
+
+-----------------------------------------------------------------
+-> university = Northwestern University
+no observations
+
+-----------------------------------------------------------------
+-> university = UC Berkeley
+
+            placement_type |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+                  Academic |        178       64.26       64.26
+                Consultant |          4        1.44       65.70
+                 Economist |         22        7.94       73.65
+                    Fellow |         12        4.33       77.98
+                     Other |         52       18.77       96.75
+                   Postdoc |          9        3.25      100.00
+---------------------------+-----------------------------------
+                     Total |        277      100.00
+
+-----------------------------------------------------------------
+-> university = UC Chicago
+no observations
+
+-----------------------------------------------------------------
+-> university = UCSD
+no observations
+
+-----------------------------------------------------------------
+-> university = UChicago
+no observations
+
+-----------------------------------------------------------------
+-> university = University of Pennsylvania
+
+            placement_type |      Freq.     Percent        Cum.
+---------------------------+-----------------------------------
+                  Academic |        166       58.87       58.87
+                Government |         41       14.54       73.40
+                  Industry |         52       18.44       91.84
+International Organization |         23        8.16      100.00
+---------------------------+-----------------------------------
+                     Total |        282      100.00
+
+-----------------------------------------------------------------
+-> university = Yale
+no observations
+
+
+. 
+. /* check accuracy of gender_guess */
+. gen gender_accuracy = (gender_guess == gender_manual)
+
+. tab gender_accuracy
+
+gender_accu |
+       racy |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        607       41.04       41.04
+          1 |        872       58.96      100.00
+------------+-----------------------------------
+      Total |      1,479      100.00
+
+. 
+. cap log close

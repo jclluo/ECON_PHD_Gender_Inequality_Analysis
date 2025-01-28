@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gender_composition_STEM/static/css/main.ab76ee3b.css",
+    "main.js": "/Gender_composition_STEM/static/js/main.9447df74.js",
+    "index.html": "/Gender_composition_STEM/index.html",
+    "main.ab76ee3b.css.map": "/Gender_composition_STEM/static/css/main.ab76ee3b.css.map",
+    "main.9447df74.js.map": "/Gender_composition_STEM/static/js/main.9447df74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab76ee3b.css",
+    "static/js/main.9447df74.js"
+  ]
+}
