@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ECON_PHD_Gender_Inequality_Analysis/static/css/main.e2a88e4e.css",
+    "main.js": "/ECON_PHD_Gender_Inequality_Analysis/static/js/main.e7582989.js",
+    "index.html": "/ECON_PHD_Gender_Inequality_Analysis/index.html",
+    "main.e2a88e4e.css.map": "/ECON_PHD_Gender_Inequality_Analysis/static/css/main.e2a88e4e.css.map",
+    "main.e7582989.js.map": "/ECON_PHD_Gender_Inequality_Analysis/static/js/main.e7582989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a88e4e.css",
+    "static/js/main.e7582989.js"
+  ]
+}
