@@ -1,0 +1,120 @@
+,name,placement_type,past_institution,year,university,department,academic,postdoc,employment_type,gender_guess,gender_manual
+0,Sandy Campbell,Postdoc,"University of California, Los Angeles",2024.0,UC Berkeley,HASS,0,1,Postdoc,female,female
+1,Andrew Choi,Postdoc,University College London,2024.0,UC Berkeley,HASS,0,1,Postdoc,male,male
+2,Tianyu Han,Assistant Professor,Hong Kong University of Science and Technology,2024.0,UC Berkeley,HASS,1,0,Academic,Male,Male
+3,Lukas Leucht,Assistant Professor,University of Oxford,2024.0,UC Berkeley,HASS,1,0,Academic,male,male
+4,Kimberlyn Munevar,Assistant Professor,Texas A&M University,2024.0,UC Berkeley,HASS,1,0,Academic,female,female
+5,Miguel Ortiz,Assistant Professor,University of British Columbia – Vancouver School of Economics,2024.0,UC Berkeley,HASS,1,0,Academic,male,male
+6,Charlotte (Charlie) Townsend,Postdoc,Cornell University – ILR School,2024.0,UC Berkeley,HASS,0,1,Postdoc,female,female
+7,Matteo Tranchero,Assistant Professor,University of Pennsylvania – The Wharton School,2024.0,UC Berkeley,HASS,1,0,Academic,male,male
+8,Stephen Baum,Postdoc,Washington University in St. Louis,2023.0,UC Berkeley,HASS,0,1,Postdoc,male,male
+9,Derek Brown,Assistant Professor,Columbia Business School,2023.0,UC Berkeley,HASS,1,0,Academic,male,male
+10,Can Huang,Assistant Professor,University of Illinois Urbana-Champaign,2023.0,UC Berkeley,HASS,1,0,Academic,female,female
+11,Jinsung Hwang,Assistant Professor,Hankuk University of Foreign Studies,2023.0,UC Berkeley,HASS,1,0,Academic,male,male
+12,Maris Jensen,Assistant Professor,University of Iowa,2023.0,UC Berkeley,HASS,1,0,Academic,female,female
+13,Dominik Jurek,Associate,Cornerstone Research,2023.0,UC Berkeley,HASS,0,0,Other,male,male
+14,Sooji Kim,Associate,Cornerstone Research,2023.0,UC Berkeley,HASS,0,0,Other,female,female
+15,Sonya Mishra,Assistant Professor,Dartmouth College – Tuck School of Business,2023.0,UC Berkeley,HASS,1,0,Academic,female,female
+16,Melissa Wang,Data Scientist,Yendo,2023.0,UC Berkeley,HASS,0,0,Other,female,female
+17,Simon Xu,Scientist,Harvard University – Harvard Business School,2023.0,UC Berkeley,HASS,0,0,Other,male,male
+18,Jesse (Yunfei) Yao,Assistant Professor,The Chinese University of Hong Kong,2023.0,UC Berkeley,HASS,1,0,Academic,male,male
+19,Xiao Yin,Lecturer,University College London,2023.0,UC Berkeley,HASS,0,0,Other,female,female
+20,Fan Zhang,Assistant Professor,Nova School of Business and Economics,2023.0,UC Berkeley,HASS,1,0,Academic,male,male
+21,Samanvaya Agarwal,Senior Associate,Charles River Associates,2022.0,UC Berkeley,HASS,0,0,Other,female,female
+22,Kristin Donnelly,Assistant Professor,University of Chicago – Booth,2022.0,UC Berkeley,HASS,1,0,Academic,female,female
+23,Łukasz Langer,PhD Associate,Cornerstone Research,2022.0,UC Berkeley,HASS,0,0,Other,male,male
+24,Petr Martynov,Economist,Uber,2022.0,UC Berkeley,HASS,0,0,Other,male,male
+25,Alexey Sinyashin,Senior Associate,Charles River Associates,2022.0,UC Berkeley,HASS,0,0,Other,male,male
+26,Daniel H. Stein,People Data Scientist,Searchlight,2022.0,UC Berkeley,HASS,0,0,Other,male,male
+27,Young Yoon,Staff Data Scientist,Walmart Global Tech,2022.0,UC Berkeley,HASS,0,0,Other,female,female
+28,Byung Hyun Ahn,Researcher,Dimensional Fund Advisors,2021.0,UC Berkeley,HASS,1,0,Academic,male,male
+29,Andres Gonzalez-Lira,"Postdoctoral Associate, Yale; Assistant Professor",Pontificia Universidad Católica de Chile,2021.0,UC Berkeley,HASS,1,1,Postdoc,male,male
+30,Muhammad Yasir Khan,Assistant Professor,University of Pittsburgh,2021.0,UC Berkeley,HASS,1,0,Academic,male,male
+31,Mohammad Abbas Rezaei,Data Scientist,Uber,2021.0,UC Berkeley,HASS,0,0,Other,male,male
+32,Thiago Scot,Research Economist,World Bank’s Development Impact Group (DIME),2021.0,UC Berkeley,HASS,0,0,Other,male,male
+33,Mehmet Seflek,Data Scientist,neo.tax,2021.0,UC Berkeley,HASS,0,0,Other,male,male
+34,Vincent Skiera,Quantitative Researcher,Two Sigma Investments,2021.0,UC Berkeley,HASS,1,0,Academic,male,male
+35,Gauri Subramani,Assistant Professor,Lehigh University,2021.0,UC Berkeley,HASS,1,0,Academic,female,female
+36,Stephen Walker,Consultant,Self-employed,2021.0,UC Berkeley,HASS,0,0,Other,male,male
+37,Zihao (Harry) Zhou,Assistant Professor,University College London – School of Management,2021.0,UC Berkeley,HASS,1,0,Academic,male,male
+38,Abhay Aneja,Assistant Professor,Berkeley Law,,UC Berkeley,HASS,1,0,Academic,male,male
+39,Laura Boudreau,Assistant Professor,Columbia Business School – Economics Division,,UC Berkeley,HASS,1,0,Academic,female,female
+40,Rachel Habbert,Senior Behavioral Scientist,Cultivate,,UC Berkeley,HASS,0,0,Other,female,female
+41,Hyoseok Kang,Assistant Professor,USC,,UC Berkeley,HASS,1,0,Academic,male,male
+42,Richard Lu,Data Scientist,Square,,UC Berkeley,HASS,0,0,Other,male,male
+43,Paulo Manoel,Assistant Professor,University of Kentucky,,UC Berkeley,HASS,1,0,Academic,male,male
+44,Eddie Ning,Assistant Professor,Cheung Kong Graduate School of Business,,UC Berkeley,HASS,1,0,Academic,male,male
+45,Michael O’Donnell,Assistant Professor,Georgetown,,UC Berkeley,HASS,1,0,Academic,male,male
+46,Derek Schatz,Senior Consulting Analyst,Accenture,,UC Berkeley,HASS,0,0,Other,male,male
+47,Daron Sharps,Data Science Fellow,Insight,,UC Berkeley,HASS,0,0,Other,male,male
+48,Carlos Avenancio-León,"Postdoc, Assistant Professor",Indiana University – Bloomington,,UC Berkeley,HASS,1,1,Postdoc,male,male
+49,Nan Chen,Assistant Professor,National University of Singapore,,UC Berkeley,HASS,1,0,Academic,female,female
+50,Tristan Fitzgerald,Assistant Professor,Texas A&M University,,UC Berkeley,HASS,1,0,Academic,male,male
+51,Sheisha Kulkarni,"Postdoc, Assistant Professor",The University of Virginia,,UC Berkeley,HASS,1,1,Postdoc,female,female
+52,Henry Laurion,Assistant Professor,University of Colorado Boulder,,UC Berkeley,HASS,1,0,Academic,male,male
+53,Sibo Lu,Data Scientist,Upwork,,UC Berkeley,HASS,0,0,Other,male,male
+54,Sanaz Mobasseri,Assistant Professor,Boston University,,UC Berkeley,HASS,1,0,Academic,female,female
+55,Andrew Schwartz,Visiting Assistant Professor,University of Georgia,,UC Berkeley,HASS,1,0,Academic,male,male
+56,Aisling Scott,People Analytics Team,Facebook,,UC Berkeley,HASS,0,0,Other,female,female
+57,Samuel Tan,Assistant Professor,Singapore Management University,,UC Berkeley,HASS,1,0,Academic,male,male
+58,Yoonha Kim,Visiting Assistant Professor,Georgetown University,,UC Berkeley,HASS,1,0,Academic,male,male
+59,Sanket Korgaonkar,Assistant Professor of Real Estate,Pennsylvania State University,,UC Berkeley,HASS,1,0,Academic,male,male
+60,Jeffrey Kuhn,Assistant Professor,University of North Carolina at Chapel Hill,,UC Berkeley,HASS,1,0,Academic,male,male
+61,Haoyang Liu,Assistant Professor,Florida State University,,UC Berkeley,HASS,1,0,Academic,male,male
+62,Parham Holakouee,Principal and Head of Operations,"Global Innovation Catalyst, LCC",,UC Berkeley,HASS,0,0,Other,male,male
+63,Weiyi Ng,Assistant Professor,National University of Singapore,,UC Berkeley,HASS,1,0,Academic,female,female
+64,Hannah Perfecto,Assistant Professor of Marketing,Washington University in St. Louis,,UC Berkeley,HASS,1,0,Academic,female,female
+65,Santiago Truffa,Visiting Assistant Professor,Tulane University,,UC Berkeley,HASS,1,0,Academic,male,male
+66,Yu Wang,Assistant Professor,University of Houston,,UC Berkeley,HASS,1,0,Academic,male,male
+67,Calvin Zhang,Financial Economist,Philadelphia Federal Reserve Bank,,UC Berkeley,HASS,0,0,Other,male,male
+68,Zachary Zhong,Assistant Professor,University of Toronto,,UC Berkeley,HASS,1,0,Academic,male,male
+69,Korcan Ak,Quantitative Research Analyst,Marshall Wace North America LP,,UC Berkeley,HASS,0,0,Other,male,male
+70,Kate Ashley,Assistant Professor,Montclair State University,,UC Berkeley,HASS,1,0,Academic,female,female
+71,Moshe Barach,Visiting Assistant Professor,Georgetown University,,UC Berkeley,HASS,1,0,Academic,male,male
+72,Aya Bellicha,Data Scientist,Ten-X,,UC Berkeley,HASS,0,0,Other,female,female
+73,Andy Chen,Postdoctoral Research and Teaching Fellow,University of British Columbia,,UC Berkeley,HASS,0,1,Postdoc,male,male
+74,Angus Hildreth,Assistant Professor of Management and Organizations,The Samuel Curtis Johnson Graduate School of Management at Cornell University,,UC Berkeley,HASS,1,0,Academic,male,male
+75,Yu Jin Kim,Assistant Professor,Shanghai Science and Technology University (Shanghai Tech),,UC Berkeley,HASS,1,0,Academic,female,female
+76,Nirupama Kulkarni,Research Director,Centre for Advanced Financial Research and Learning (CAFRAL),,UC Berkeley,HASS,0,0,Other,male,male
+77,Raymond Leung,Assistant Professor,Cheung Kong Graduate School of Business,,UC Berkeley,HASS,1,0,Academic,male,male
+78,Ryan Liu,Quantitative Researcher,BlackRock,,UC Berkeley,HASS,1,0,Academic,male,male
+79,Jenn Logg,Post-Doctoral Fellow,Harvard University,,UC Berkeley,HASS,0,0,Other,female,female
+80,Gigi Perry,Founder and Partner,Dr. Hagit Perry,,UC Berkeley,HASS,0,0,Other,male,male
+81,Scott Roeder,Postdoctoral Researcher,Washington University in St. Louis,,UC Berkeley,HASS,1,1,Postdoc,male,male
+82,Jim Ryans,Assistant Professor,London Business School,,UC Berkeley,HASS,1,0,Academic,male,male
+83,Eliot Sherman,Assistant Professor,London Business School,,UC Berkeley,HASS,1,0,Academic,male,male
+84,Yu-Man Tam,Financial Economist,Office of the Comptroller of the Currency,,UC Berkeley,HASS,0,0,Other,unknown,male
+85,Xinxin Wang,Assistant Professor,The University of North Carolina at Chapel Hill,,UC Berkeley,HASS,1,0,Academic,unknown,female
+86,Jenny Zha,Assistant Professor,George Washington University,,UC Berkeley,HASS,1,0,Academic,female,female
+87,Anna Amirdjanova,Economist,Board of Governors of the Federal Reserve System,,UC Berkeley,HASS,0,0,Other,female,female
+88,Jiakai Chen,Assistant Professor,University of Hawaii – Manoa,,UC Berkeley,HASS,1,0,Academic,unknown,male
+89,Yu-Ping Chen,Assistant Professor,National Taiwan University College of Management,,UC Berkeley,HASS,1,0,Academic,unknown,male
+90,Bo Cowgill,Assistant Professor,Columbia University,,UC Berkeley,HASS,1,0,Academic,male,male
+91,Francesco D’Acunto,Assistant Professor,"University of Maryland, College Park",,UC Berkeley,HASS,1,0,Academic,male,male
+92,Ronald Espinosa,Quantitative Research Analyst,Pacific Investment Management Company (PIMCO),,UC Berkeley,HASS,0,0,Other,male,male
+93,Tarek Ghani,Assistant Professor,Washington University in St. Louis – Olin Business School,,UC Berkeley,HASS,1,0,Academic,male,male
+94,Minah Jung,Assistant Professor,New York University,,UC Berkeley,HASS,1,0,Academic,female,female
+95,T. Tony Ke,Assistant Professor,Massachusetts Institute of Technology,,UC Berkeley,HASS,1,0,Academic,unknown,male
+96,Brian Reschke,Assistant Professor,Brigham Young University,,UC Berkeley,HASS,1,0,Academic,male,male
+97,Alexander Van Zant,Post-Doctoral Research Fellow,University of Pennsylvania – Wharton,,UC Berkeley,HASS,0,0,Other,male,male
+98,Ying Zhu,Post-Doctoral Research Fellow,Michigan State University,,UC Berkeley,HASS,0,0,Other,unknown,female
+99,Brian Ayash,Assistant Professor,Cal Poly San Luis Obispo,,UC Berkeley,HASS,1,0,Academic,male,male
+100,Ron Berman,Assistant Professor,University of Pennsylvania,,UC Berkeley,HASS,1,0,Academic,male,male
+101,Fernando Comiran,Assistant Professor,University of San Francisco,,UC Berkeley,HASS,1,0,Academic,male,male
+102,Isaac Hacamo,Assistant Professor,Indiana University – Bloomington,,UC Berkeley,HASS,1,0,Academic,male,male
+103,Bo Liao,Senior Industrial & Operations Engineer,Sandisk Corporation,,UC Berkeley,HASS,0,0,Other,male,male
+104,So Eun Park,Assistant Professor,The University of British Columbia,,UC Berkeley,HASS,1,0,Academic,unknown,female
+105,Subprasiri (Jackie) Siriviriyakul,Assistant Professor,Baruch College – The City University of New York,,UC Berkeley,HASS,1,0,Academic,unknown,male
+106,Michael Weber,Assistant Professor,University of Chicago,,UC Berkeley,HASS,1,0,Academic,male,male
+107,Pablo Hernandez,Assistant Professor,New York University Abu Dhabi,,UC Berkeley,HASS,1,0,Academic,male,male
+108,Paulo Issler,Post-Doctorate,"University of California, Berkeley – Fisher Center for Real Estate and Urban Economics",,UC Berkeley,HASS,0,0,Other,male,male
+109,Tongil (TI) Kim,Assistant Professor,Emory University,,UC Berkeley,HASS,1,0,Academic,female,female
+110,Amy Nguyen-Chyung,Assistant Professor,University of Michigan,,UC Berkeley,HASS,1,0,Academic,female,female
+111,Pratish Patel,Assistant Professor,Cal Poly San Luis Obispo,,UC Berkeley,HASS,1,0,Academic,unknown,female
+112,Harm Schuett,Assistant Professor,WHU – Otto Beisheim School of Management,,UC Berkeley,HASS,1,0,Academic,male,male
+113,Orie Shelef,Post-Doctorate,Stanford University,,UC Berkeley,HASS,0,0,Other,female,female
+114,Shubhranshu Singh,Assistant Professor,Johns Hopkins University,,UC Berkeley,HASS,1,0,Academic,unknown,male
+115,Mary Kate Stimmler,Researcher,"Google, Inc.",,UC Berkeley,HASS,1,0,Academic,female,female
+116,Estelle (Yuan) Sun,Assistant Professor,Boston University,,UC Berkeley,HASS,1,0,Academic,female,female
+117,Aydin Uysal,Researcher,"Menta Capital, LLC",,UC Berkeley,HASS,1,0,Academic,male,male
+118,Fiona Kun Yao,Assistant Professor,"University of Illinois, Urbana-Champaign",,UC Berkeley,HASS,1,0,Academic,female,female

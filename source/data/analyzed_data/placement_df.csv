@@ -1,0 +1,635 @@
+,name,university,year,field,placement,research_fields,academic,private_company,government,gender_guess,gender
+0,Vivan Aluoch,UCSD,2023.0,Development and Labor Economics,Analysis Group,,0,1,0,female,female
+1,Hannah Bae,UCSD,2023.0,Health and Public,"Michigan State University, postdoc at Stanford University",,1,0,0,female,female
+2,Evgenii Baranov,UCSD,2023.0,Micro Theory,Penn State University,,1,0,0,male,male
+3,Amanda Bonheur,UCSD,2023.0,Behavioral and Labor Economics,RAND Corporation,,0,1,0,female,female
+4,Edoardo Briganti,UCSD,2023.0,Macroeconomics,Bank of Canada,,0,1,1,male,male
+5,Tjeerd de Vries,UCSD,2023.0,Finance and Econometrics,"HEC Paris, Finance Department",,0,0,1,male,male
+6,Tanner Eastmond,UCSD,2023.0,Labor Economics,Brigham Young University,,1,0,0,male,male
+7,Stefan Faridani,UCSD,2023.0,Econometrics,Georgia Tech,,0,0,0,male,male
+8,Carlos Goes,UCSD,2023.0,International Trade,World Bank Group,,0,0,1,male,male
+9,Zachary Hall,UCSD,2023.0,Applied Micro,Western Alliance Bank,,0,1,0,male,male
+10,Jinhyeon Han,UCSD,2023.0,Labor Economics,Korea Insurance Research Institute (KIRI),,1,0,0,unknown,male
+11,Songyu He,UCSD,2023.0,Behavioral and Experimental,postdoc at Royal Holloway University of London,,1,0,0,unknown,female
+12,Xiameng Hua,UCSD,2023.0,Relational Contract,Western Alliance Bank and Arizona State University,,1,1,0,unknown,female
+13,Malte Lammert,UCSD,2023.0,Micro Theory,"PriceWaterhouseCoopers, Germany",,0,0,0,male,male
+14,Frances Lu,UCSD,2023.0,Development and Labor Economics,"California Department of Social Services' Research, Automation, and Data Division",,0,1,1,female,female
+15,Diana Martinez,UCSD,2023.0,Development and Labor Economics,Allegheny County DHS,,0,0,0,female,female
+16,Anjali Pai,UCSD,2023.0,Economics of Education,Abt Global,,0,0,0,female,female
+17,Sabareesh Ramachandran,UCSD,2023.0,Development and Public Economics,"Indian School of Business, Hyderabad; postdoc at University of Chicago",,1,0,0,unknown,male
+18,Rebecca Royer,UCSD,2023.0,Behavioral and Experimental,postdoc at University of Chicago,,1,0,0,female,female
+19,Ali Uppal,UCSD,2023.0,Macroeconomics,"Imperial College Business School, Finance Department",,1,0,1,male,male
+20,Ha Vu,UCSD,2023.0,Environmental Economics,International Institute for Applied Systems Analysis (IIASA),,1,0,1,male,male
+21,Hanyi Wang,UCSD,2023.0,Environmental Economics,German Institute of Development and Sustainability,,1,0,0,unknown,female
+22,Kevin Winseck,UCSD,2023.0,Environmental Economics,Amazon,,0,1,0,male,male
+23,Adrian Wolanski,UCSD,2023.0,Behavioral and Experimental,Purdue University,,1,0,0,male,male
+24,Jin Xi,UCSD,2023.0,Econometrics,"Chinese Academy of Sciences, Center for Forecasting Science",,0,0,0,female,female
+25,Bei Luo,UCSD,2022.0,Environmental,Amazon,,0,1,0,andy,female
+26,Connor Redpath,UCSD,2022.0,"Labor, Law & Economics",FDIC,,0,0,0,male,male
+27,Daniel Pellatt,UCSD,2022.0,Econometrics,Bank of New York Mellon,,0,1,0,male,male
+28,Danil Dmitriev,UCSD,2022.0,"Micro, Political Economy",Yale University Institute for Social and Policy Studies,,1,0,1,male,male
+29,Ellen Liaw,UCSD,2022.0,Public and Labor,Bates White,,0,0,0,female,female
+30,Freddie Papazyan,UCSD,2022.0,Political Economy and Micro Theory,Texas Tech University,,1,0,0,male,male
+31,Haitian Xie,UCSD,2022.0,Econometrics and Micro Theory,"Peking University, Guanghua School of Management",,1,0,0,unknown,male
+32,Katherine Rittenhouse,UCSD,2022.0,Public and Labor,UT Austin LBJ School,,1,0,0,female,female
+33,Minki Kim,UCSD,2022.0,Macro and Developement,University of Mannheim,,1,0,0,unknown,male
+34,Nikolay Kudrin,UCSD,2022.0,Econometrics,Queen’s University,,1,0,0,male,male
+35,Parker Rogers,UCSD,2022.0,Public and Health,"NBER, then Indiana University Kelley School of Business",,1,0,0,male,male
+36,Radhika Goyal,UCSD,2022.0,Public and Development,IMF,,0,0,1,female,female
+37,Shunsuke Hori,UCSD,2022.0,Macro and Labor,Hitotsubashi University,,1,0,0,male,male
+38,Wanchang Zhang,UCSD,2022.0,Micro Theory,The Chinese University of Hong Kong,,1,0,0,unknown,male
+39,Wei-Lin Chen,UCSD,2022.0,Development and Public,Auckland University of Technology,,1,0,0,andy,male
+40,Wesley Howden,UCSD,2022.0,Environmental,"Wesleyan University, postdoc at U of Arizona",,1,0,0,male,male
+41,Tyler Paul,UCSD,2022.0,Macro and International,University of Toronto,,1,0,0,male,male
+42,Alyssa Brown,UCSD,2021.0,Applied Micro,Consumer Financial Protection Bureau,,0,0,1,female,female
+43,Yu-Chang Chen,UCSD,2021.0,Applied Micro,National Taiwan University,,1,0,1,andy,male
+44,Anastasiia Faikina,UCSD,2021.0,Development,Convoy,,0,0,0,female,female
+45,Paul Feldman,UCSD,2021.0,Experimental,Texas A&M (Ag Econ),,0,0,0,male,male
+46,Zhiyun Jiang,UCSD,2021.0,Applied Micro,JPMorgan Chase & Co.,,0,1,0,unknown,female
+47,Arushi Kaushik,UCSD,2021.0,Development,Amazon,,0,1,0,female,female
+48,Arman Khachiyan,UCSD,2021.0,Applied Econometrics,University of San Francisco,,1,0,0,male,male
+49,Youngju Lee,UCSD,2021.0,Applied Micro,Charles River Associates,,0,1,0,unknown,female
+50,Aleksandr Levkun,UCSD,2021.0,Micro Theory,CERGE-EI (postdoc),,1,0,0,male,male
+51,Jacob Orchard,UCSD,2021.0,Macro,Federal Reserve Board of Governors,,0,0,1,male,male
+52,Sophie Sheng,UCSD,2021.0,Applied Micro,Linkedin,,0,0,0,female,female
+53,Jackson Somers,UCSD,2021.0,Environmental,"University of Connecticut , Storrs (AgEcon)",,1,0,0,male,male
+54,Pietro Spini,UCSD,2021.0,Econometrics,University of Bristol,,1,0,0,male,male
+55,Tara Sullivan,UCSD,2021.0,Applied Micro,Wayfair,,0,0,0,female,female
+56,Mitchell VanVuren,UCSD,2021.0,Macro,Yale (post doc at Y-RISE MacMillan Center),,0,0,0,male,male
+57,Davide Viviano,UCSD,2021.0,Econometrics,"Harvard University (Econ), post doc at Stanford",,1,0,0,male,male
+58,Jianan Yang,UCSD,2021.0,Applied. Micro,"Peking University (Institute for Global Health), post doc at Stanford",,1,0,0,unknown,male
+59,Linyan Zhu,UCSD,2021.0,Macro,LSE (Finance),,0,0,0,unknown,female
+60,Zack Goodman,UCSD,2020.0,AppliedMicro,Recidiviz,,0,0,0,male,male
+61,Keri Hu,UCSD,2020.0,Micro Theory,HKU accounting,,0,0,0,female,female
+62,Alex Kellogg,UCSD,2020.0,Experimental,Google,,0,1,0,male,male
+63,Jonathan Leganza,UCSD,2020.0,Macro,Clemson,,0,0,0,male,male
+64,Yibun Liu,UCSD,2020.0,Applied Micro,NUS accounting (four year),,0,0,0,unknown,male
+65,Bruno Lopez-Videla,UCSD,2020.0,Development,Amazon,,0,1,0,male,male
+66,Xiao Ma,UCSD,2020.0,Applied Micro,Peiking University Business School,,1,0,0,andy,female
+67,Julian Martinex Iriarte,UCSD,2020.0,Econometrics,UCSC,,0,0,0,male,male
+68,Alex Masucci,UCSD,2020.0,Macro,Amazon,,0,1,0,male,male
+69,Alejandro Nakab,UCSD,2020.0,Applied Micro,U Torcuato Di Tella and Universidad de Montevideo,,0,0,0,male,male
+70,Camila Navajas,UCSD,2020.0,Applied Micro,U Torcuato Di Tella,,0,0,0,female,female
+71,Masha Titova,UCSD,2020.0,Micro Theory,Vanderbilt,,0,0,0,female,female
+72,Wendy Zeng,UCSD,2020.0,Applied Micro,USDA,,0,0,1,female,female
+73,Becky Fraenkel,UCSD,2019.0,Applied Micro,UCSD Data Science Institute (post-doc),,1,0,0,female,female
+74,Chelsea Swete,UCSD,2019.0,Applied Micro,IMPAQ,,0,0,0,female,female
+75,Kye Lippold,UCSD,2019.0,Applied Micro,Treasury Office of Tax Analysis,,0,0,1,andy,male
+76,Nobu Nakazawa,UCSD,2019.0,Applied Micro,Hitotsubashi University,,1,0,0,unknown,male
+77,Sam Krumholz,UCSD,2019.0,Applied Micro,Department of Justice Antitrust,,0,0,1,male,male
+78,Stephanie Khoury,UCSD,2019.0,Applied Micro,Intensity,,0,0,0,female,female
+79,Yang Wang,UCSD,2019.0,Applied Micro,Shanghai Jiao Tong University,,1,0,0,andy,male
+80,Jiajun Lu,UCSD,2019.0,Applied Micro,Zhejiang University,,1,0,0,unknown,male
+81,Runjing Lu,UCSD,2019.0,Applied Micro/Finance,University of Alberta,,1,0,0,unknown,female
+82,Remy Levin,UCSD,2019.0,Behavioral/Experimental,University of Connecticut (visiting assistant professor),,1,0,0,male,male
+83,Wayne Sandholtz,UCSD,2019.0,Development,Nova University of Lisbon,,1,0,0,male,male
+84,Won-Ki Seo,UCSD,2019.0,Econometrics,University of Sydney,,1,0,0,male,male
+85,Chu Alex Yu,UCSD,2019.0,Environmental,Wake Forest University,,1,0,0,andy,male
+86,Daniel Leff,UCSD,2019.0,Macro,Wayfair,,0,0,0,male,male
+87,Daniela Vidart,UCSD,2019.0,Macro,University of Connecticut,,1,0,0,female,female
+88,Lam Nguyen,UCSD,2019.0,Macro,Citi,,0,0,0,male,male
+89,Olga Denislamova,UCSD,2019.0,Macro,University of Toronto St. George (teaching stream),,1,0,0,female,female
+90,Shihan Xie,UCSD,2019.0,Macro,University of Illinios Urbana-Champaign,,1,0,0,unknown,male
+91,Shuning Mao,UCSD,2019.0,Macro,Capital One,,0,1,0,unknown,female
+92,Yuehui Amber Wang,UCSD,2019.0,Micro Theory,Lyft,,0,0,0,unknown,female
+93,Patrick Bloom,UCSD,2019.0,,,,0,0,0,male,male
+94,Pablo Ruiz Junco,UCSD,2018.0,Applied Micro,Google,,0,1,0,male,male
+95,Briana Sullivan,UCSD,2018.0,Applied Micro,U.S. Census Bureau,,0,0,1,female,female
+96,Dodge Cahan,UCSD,2018.0,Applied Micro,University of Alberta,,1,0,0,unknown,male
+97,Naveen Basavanhally,UCSD,2018.0,Applied Micro,Amazon,,0,1,0,male,male
+98,Paul Feldman,UCSD,2018.0,Behavioral/Experimental,Johns Hopkins University (post-doc),,1,0,0,male,male
+99,Seung-Keun Martinez,UCSD,2018.0,Behavioral/Experimental,University of Nottingham,,1,0,0,unknown,male
+100,Vinayak Alladi,UCSD,2018.0,Behavioral/Experimental,Southwestern University of Finance and Economics (post-doc),,1,0,0,unknown,male
+101,Wenxin Xie,UCSD,2018.0,Development,Santa Clara University,,1,0,0,unknown,female
+102,Yaein Baek,UCSD,2018.0,Econometrics,HSBC Business School at Peking University,,1,0,0,unknown,female
+103,Kevin Ray,UCSD,2018.0,Environmental,National Oceanic and Atmospheric Administration (post-doc),,1,0,1,male,male
+104,Fanglin Sun,UCSD,2018.0,Environmental,Amazon,,0,1,0,unknown,female
+105,Xueying Lu,UCSD,2018.0,Environmental,Nankai University,,1,0,0,unknown,female
+106,Yanjun Liao,UCSD,2018.0,Environmental,The Wharton School (post-doc),,1,0,0,unknown,male
+107,Chen Liu,UCSD,2018.0,International,National University of Singapore,,1,0,1,andy,male
+108,Emilien Gouin-Bonenfant,UCSD,2018.0,Macro,Columbia University,,1,0,0,male,male
+109,Xu Zhang,UCSD,2018.0,Macro,Bank of Canada,,0,1,1,andy,male
+110,Ying Feng,UCSD,2018.0,Macro,National University of Singapore,,1,0,1,andy,female
+111,Eul Noh,UCSD,2018.0,Macro,Freddie Mac,,0,0,0,andy,male
+112,Yifei Lyu,UCSD,2018.0,Macro,New Zealand Treasury,,0,0,1,unknown,female
+113,Ce Liu,UCSD,2018.0,Micro Theory,Michigan State University,,1,0,0,andy,male
+114,Desmond Ang,UCSD,2017.0,Applied Micro,Harvard Kennedy School,,1,0,0,male,male
+115,Grant Johnson,UCSD,2017.0,Applied Micro,RAND,,0,0,0,male,male
+116,Jason Bigenho,UCSD,2017.0,Applied Micro,Amazon,,0,1,0,male,male
+117,Xiaxin Wang,UCSD,2017.0,Applied Micro,Fudan University (University of Michigan post-doc),,1,0,0,unknown,female
+118,Yann Panassie,UCSD,2017.0,Applied Micro,GAO Financial Markets,,0,0,0,male,male
+119,Diego Vera-Cossio,UCSD,2017.0,Development,Inter-American Development Bank,,0,1,0,male,male
+120,Mauricio Romero,UCSD,2017.0,Development,ITAM,,0,0,0,male,male
+121,Zhenting Sun,UCSD,2017.0,Econometrics,Peking University,,1,0,0,unknown,male
+122,Asad Dossani,UCSD,2017.0,Finance,Colorado State University,,1,0,0,male,male
+123,Erin Giffin,UCSD,2017.0,Micro Theory,Colby College,,1,0,0,female,female
+124,Pedram Heydari,UCSD,2017.0,Micro Theory,Geisinger Health System (post-doc),,1,0,0,unknown,male
+125,Xuan Ding,UCSD,2017.0,Micro Theory/Finance,JP Morgan,,0,0,0,andy,female
+126,Boris Wong,UCSD,2016.0,Applied Micro,Vanguard,,0,0,0,male,male
+127,Claudio Labanca,UCSD,2016.0,Applied Micro,Monash University,,1,0,0,male,male
+128,David Coyne,UCSD,2016.0,Applied Micro,FTC Antitrust,,0,0,1,male,male
+129,Kilian Heilmann,UCSD,2016.0,Applied Micro,USC Dornsife (post-doc),,1,0,0,male,male
+130,Elizabeth Royer,UCSD,2016.0,Applied Micro,RAND,,0,0,0,female,female
+131,Mitch Downey,UCSD,2016.0,Applied Micro,Stockholm Institute for International Economic Studies,,1,0,1,male,male
+132,Onyi Lam,UCSD,2016.0,Applied Micro,Pew Research Center,,0,1,0,unknown,female
+133,Sam Young,UCSD,2016.0,Applied Micro,Amazon,,0,1,0,male,male
+134,Sieuwerd Gaastra,UCSD,2016.0,Applied Micro,Compass Lexecon,,0,0,0,unknown,male
+135,Wei You,UCSD,2016.0,Applied Micro,NYU Furman Center (post-doc),,1,0,0,andy,male
+136,Vincent Leah-Martin,UCSD,2016.0,Behavioral/Experimental,Amazon,,0,1,0,male,male
+137,Shanthi Manian,UCSD,2016.0,Development,Washington State University,,1,0,0,unknown,female
+138,Qihui Chen,UCSD,2016.0,Econometrics,Chinese University of Hong Kong,,1,0,0,unknown,male
+139,Roy Allen,UCSD,2016.0,Econometrics,University of Western Ontario,,1,0,0,male,male
+140,Yinchu Zhu,UCSD,2016.0,Econometrics,University of Oregon,,1,0,0,unknown,male
+141,Isla Globus-Harris,UCSD,2016.0,Environmental,Colgate University,,1,0,0,female,female
+142,Jeffrey Shrader,UCSD,2016.0,Environmental,Columbia University,,1,0,0,male,male
+143,Erin Wolcott,UCSD,2016.0,Macro,Middlebury College,,1,0,0,female,female
+144,Irina Zhecheva,UCSD,2016.0,Macro,Amazon,,0,1,0,female,female
+145,Jue Wang,UCSD,2016.0,Macro,Furman University,,1,0,0,andy,female
+146,Leland Farmer,UCSD,2016.0,Macro,University of Virginia,,1,0,0,male,male
+147,Mike Sharifi,UCSD,2016.0,Macro,Goldman Sachs,,0,1,0,male,male
+148,Nelson Lind,UCSD,2016.0,Macro,Emory University,,1,0,0,male,male
+149,Wenbin Wu,UCSD,2016.0,Macro,Fudan University,,1,0,0,unknown,male
+150,Erik Lillethun,UCSD,2016.0,Micro Theory,Colgate University,,1,0,0,male,male
+151,John Rehbeck,UCSD,2016.0,Micro Theory,Ohio State University,,1,0,0,male,male
+152,Zachary Breig,UCSD,2016.0,Micro Theory,University of Queensland,,1,0,0,male,male
+153,Zheng Huang,UCSD,2016.0,Micro Theory,Nankai University,,1,0,0,andy,male
+154,Adam Greenberg,UCSD,2015.0,Behavioral/Experimental,UCLA (post-doc),,1,0,0,male,male
+155,Alison Sanchez,UCSD,2015.0,Behavioral/Experimental,University of San Diego,,1,0,0,female,female
+156,Arman Rezaee,UCSD,2015.0,Development,UC Davis,,0,0,0,male,male
+157,Michael Levere,UCSD,2015.0,Development,Mathematica,,0,0,0,male,male
+158,Sarojini Hirshleifer,UCSD,2015.0,Development,UC Riverside,,0,0,0,female,female
+159,Jungbin Hwang,UCSD,2015.0,Econometrics,University of Connecticut,,1,0,0,unknown,male
+160,Brigitte Roth Tran,UCSD,2015.0,Environmental,Federal Reserve Board,,0,0,1,female,female
+161,Ayal Chen-Zion,UCSD,2015.0,Industrial Organization,Amazon,,0,1,0,male,male
+0,Pedro Isaac Chavez Lopez,UC Riverside,2024.0,,"Economist, Bank of Mexico",,0,1,0,male,male
+1,Da Gong,UC Riverside,2024.0,,"Lecturer, School of Business, SUNY Geneseo",,1,0,0,andy,male
+2,Jingyan Guo,UC Riverside,2024.0,,"Associate, Cirque Analytics, Los Angeles",,0,1,0,unknown,female
+3,Yong Ju Lee,UC Riverside,2024.0,,"Assistant Professor, Department of Mathematics and Computer Science, Ashland University, Ohio",,1,0,1,male,male
+4,Dayang Li,UC Riverside,2024.0,,"Assistant Professor, Department of Economics, Xi’an Jiaotong-Liverpool University",,1,0,1,unknown,female
+5,Xinchan Lu,UC Riverside,2024.0,,"Assistant Professor, Department of Economics, Grinnell College",,1,0,1,unknown,female
+6,Anh Tran,UC Riverside,2024.0,,"Research Scientist, College of Business, University of Florida",,1,1,0,female,female
+7,Andong Yan,UC Riverside,2024.0,,"Postdoc Fellow, Enterprise Sustainability Global Research Institute, University of Hong Kong",,1,0,0,unknown,male
+8,Yongli Chen,UC Riverside,2023.0,,"Assistant Research Fellow (Assistant Professor), Nankai University",,1,1,0,unknown,male
+9,Opinder Kaur,UC Riverside,2023.0,,"Clinical Assistant Professor (tenure track), SUNY Buffalo, New York",,1,0,0,unknown,female
+10,Ryoji Jinushi,UC Riverside,2023.0,,"Assistant Professor, Seikei University, Tokyo",,1,0,0,male,male
+11,Yaojue Xu,UC Riverside,2023.0,,"Visiting Assistant Professor, Colby College",,1,0,0,unknown,male
+12,Saman Banafti,UC Riverside,2022.0,,"Economist at Amazon, ",,0,1,0,male,male
+13,Justin Dang,UC Riverside,2022.0,,"Assistant Professor of Economics, Knauss School of Business, University of San Diego",,1,0,0,male,male
+14,Taghi Farzad,UC Riverside,2022.0,,"Economist at Fannie Mae, ",,0,0,0,male,male
+15,Tao Wang,UC Riverside,2022.0,,"Assistant Professor, Department of Economics, University of Victoria (Canada)",,1,0,1,andy,male
+16,Yanchao Yang,UC Riverside,2022.0,,"Clinical Instructor, Department of Economics, DePaul University",,1,0,1,unknown,male
+17,Zhuozhen Zhao,UC Riverside,2022.0,,"Economist at Digonex (Emmis Dynamic Pricing LLC.) Indianapolis, IN",,0,1,0,unknown,female
+18,Quanfeng Zhou,UC Riverside,2022.0,,"Assistant Professor, School of Public Economics and Administration, Shanghai University of Finance and Economics",,1,0,1,unknown,male
+19,Chia-Lo Chen,UC Riverside,2021.0,,"Visiting Assistant Professor, Musashi University, Tokyo, Japan.",,1,0,0,unknown,male
+20,Kai Chen,UC Riverside,2021.0,,"Market Intelligence Analyst, Li Auto Inc.",,0,1,0,male,male
+21,Varlam Kutateladze,UC Riverside,2021.0,,"Economist, Amazon.com",,0,1,0,male,male
+22,Ali Mehrabani,UC Riverside,2021.0,,"Assistant Professor, Southern Illinois University",,1,0,0,male,male
+23,Mirewuti Muhetaer,UC Riverside,2021.0,,"Senior Analyst, Citi Group",,0,1,0,unknown,male
+24,Ekaterina Seregina,UC Riverside,2021.0,,"Assistant Professor of Economics and Finance, Colby College",,1,0,0,female,female
+25,Xiaolu Zhu,UC Riverside,2021.0,,"Assistant Professor, Huazhong University of Science and Technology",,1,0,0,unknown,female
+26,Deepshikha Batheja,UC Riverside,2020.0,,"Post-Doctoral Fellow, Center for Disease Dynamics, Economics & Policy, New Delhi",,1,0,1,female,female
+27,Christian Gunadi,UC Riverside,2020.0,,"Postdoctoral Scholar, Herbert Wertheim School of Public Health and Human Longevity, UC San Diego",,1,0,1,male,male
+28,Seolah Kim,UC Riverside,2020.0,,"Assistant Professor, Albion College",,1,0,0,unknown,female
+29,Shahnaz Parsaeian,UC Riverside,2020.0,,"Assistant Professor of Economics, University of Kansas",,1,0,0,female,female
+30,Yoon Jae Ro,UC Riverside,2020.0,,"Research Fellow – Korean Institute for International Economic Policy (KIEP), ",,1,0,1,andy,male
+31,Matthew Taylor,UC Riverside,2020.0,,"Full-Time Lecturer, California State University, East Bay",,1,0,0,male,male
+32,Ran Wang,UC Riverside,2020.0,,"Economist – Amazon, ",,0,1,0,female,female
+33,Peng Zhao,UC Riverside,2020.0,,"Assistant Professor, Hunan University",,1,0,0,andy,male
+34,Jianghao Chu,UC Riverside,2019.0,,"Economic Data Scientist, Ford Motor Company",,0,1,0,unknown,male
+35,Mingyuan Jia,UC Riverside,2019.0,,"Assistant Professor, South China Normal University",,1,0,0,unknown,male
+36,Yun Luo,UC Riverside,2019.0,,"Quantitative Model Analyst, US Bank",,0,1,0,andy,female
+37,Yi Mao,UC Riverside,2019.0,,"Assistant Professor of Statistics, Azusa Pacific University",,1,0,0,andy,male
+38,Hien Nguyen,UC Riverside,2019.0,,"Assistant Professor, Cal Poly Pomona",,1,0,0,female,female
+39,Hanbyul Ryu,UC Riverside,2019.0,,"Associate Research Fellow, Korea Institute for International Economic Policy",,1,0,1,unknown,male
+40,Shiyun Zhang,UC Riverside,2019.0,,"Postdoc – Aarhus University, Denmark",,1,0,0,unknown,female
+41,Neha Agarwal,UC Riverside,2018.0,,"Lecturer, University of Otago Dunedin",,1,0,0,female,female
+42,Ali Bagherpour,UC Riverside,2018.0,,"Quantitative Modeler and Data Scientist, Fannie Mae, Washington DC",,0,0,0,male,male
+43,Bo-Yu Chen,UC Riverside,2018.0,,"Data Science Fellow, Insight Data Science, New York",,0,0,0,andy,male
+44,Miroslav Gabrovski,UC Riverside,2018.0,,"Assistant Professor, University of Hawaii Manoa",,1,0,0,male,male
+45,SungJun Huh,UC Riverside,2018.0,,"Assistant Professor, Marquette University",,1,0,0,male,male
+46,Jonathan Kuzfeld,UC Riverside,2018.0,,"Visiting Assistant Professor, Bates College",,1,0,0,male,male
+47,Tasneem Raihan,UC Riverside,2018.0,,"Financial Economist, A2F Consulting",,0,1,0,unknown,female
+48,He Wang,UC Riverside,2018.0,,"Assistant Professor, University of International Business and Economics, China”",,1,0,1,andy,male
+49,Evan Wigton-Jones,UC Riverside,2018.0,,"Assistant Professor, Husson University",,1,0,0,male,male
+50,Hao Xu,UC Riverside,2018.0,,"Economist, Ford Motor Company",,0,1,0,andy,male
+51,Zhi Zhao,UC Riverside,2018.0,,"Assistant Professor, Southwestern University of Finance and Economics, China",,1,0,0,andy,male
+52,Arpita Bhattacharjee,UC Riverside,2017.0,,"University of Leeds, UK – Research Fellow",,1,1,0,female,female
+53,Bai Huang,UC Riverside,2017.0,,"Central University of Finance and Economics, China",,1,0,0,female,female
+54,Deepak Singhania,UC Riverside,2017.0,,"EPoD, Harvard University, India – Research Fellow",,1,1,0,male,male
+55,Riyad Abubaker,UC Riverside,2016.0,,"American University of Kuwait, ",,1,0,0,male,male
+56,Anaka Aiyar,UC Riverside,2016.0,,"Cornell University, Post-Doc",,1,0,0,unknown,female
+57,Shreya Bhattacherjee,UC Riverside,2016.0,,"Key Bank, Cleveland, OH",,0,1,0,female,female
+58,Najrin Khanom,UC Riverside,2016.0,,"North Central College, Naperville, IL",,1,0,0,unknown,female
+59,Michael Levine,UC Riverside,2016.0,,"San Bernardino Valley College, ",,1,0,0,male,male
+60,Juan Carlos Lopez,UC Riverside,2016.0,,"University of Denver, CO",,1,0,0,male,male
+61,Xuefeng Pan,UC Riverside,2016.0,,"University of International Business and Economics, Beijing, China",,1,0,1,unknown,male
+62,Vilma Sarshar,UC Riverside,2016.0,,"St. Mary’s College of California, Moraga, CA",,1,0,0,female,female
+63,Amber Urrutia,UC Riverside,2016.0,,"Santa Monica College, CA",,1,0,0,female,female
+64,Yan Ge,UC Riverside,2015.0,,"Central University of Finance and Economics, China",,1,0,0,male,male
+65,Wen Kong,UC Riverside,2015.0,,"Southwestern University of Finance and Economics, China",,1,0,0,andy,male
+66,Pallavi Panda,UC Riverside,2015.0,,"School of Business, SUNY, Geneseo, New York",,1,0,0,female,female
+67,Huiling Zhang,UC Riverside,2015.0,,"Ernst & Young, San Jose, CA",,0,0,0,unknown,female
+68,Dong Zhou,UC Riverside,2015.0,,"Shanghai Jiao Tong University, China",,1,0,0,andy,male
+69,Zhiming Fu,UC Riverside,2014.0,,"Sichuan University, China",,1,0,0,unknown,male
+70,Cheng Jiang,UC Riverside,2014.0,,"Temple University, PA",,1,0,0,andy,male
+71,Mingming Jiang,UC Riverside,2014.0,,"Shandong University, China",,1,0,0,unknown,male
+72,Dongpeng Liu,UC Riverside,2014.0,,"Nanjing University, China",,1,0,0,unknown,male
+73,Huansha Wang,UC Riverside,2014.0,,"CapitalOne, ",,0,1,0,unknown,female
+74,Jie Wei,UC Riverside,2014.0,,"Huazhong University of Science and Technology, China",,1,0,0,andy,female
+75,Ru Zhang,UC Riverside,2014.0,,"JP Morgan Chase, ",,0,1,0,andy,female
+76,Gerald Daniels,UC Riverside,2013.0,,"Howard University, Washington, DC",,1,0,0,male,male
+77,Aparajita Dasgupta,UC Riverside,2013.0,,"Population Council, New Delhi, India, Post-Doc",,1,0,0,female,female
+78,Bradley Franklin,UC Riverside,2013.0,,"International Water Management Institute, Post-Doc",,1,0,1,male,male
+79,Venoo Kakar,UC Riverside,2013.0,,"San Francisco State University, CA",,1,0,0,unknown,female
+80,Rama Kumar,UC Riverside,2013.0,,"Chapman University, CA",,1,0,0,male,male
+81,Wei Lin,UC Riverside,2013.0,,"Capital University of Economics and Business, Beijing, China",,1,1,0,andy,male
+82,Mi Lu,UC Riverside,2013.0,,"Fiduciary Research and Consulting, CA and University of Ghent, Belgium, Post-Doc",,1,1,0,andy,female
+83,Muhammad Majid,UC Riverside,2013.0,,"University of Pennsylvania, Post-Doc",,1,0,0,male,male
+84,Javier Santiago Ortiz Correa,UC Riverside,2013.0,,"University of Brasilia, Brazil",,1,0,0,male,male
+85,Yingying Sun,UC Riverside,2013.0,,"Huazhong University of Science and Technology, Wuhan, China",,1,0,0,unknown,female
+86,Zhou Xi,UC Riverside,2013.0,,"JP Morgan Chase, ",,0,1,0,andy,male
+87,Kate Choi,UC Riverside,2012.0,,"University of California, Los Angeles – Post Doc",,1,0,0,female,female
+88,Sarah Daway,UC Riverside,2012.0,,"University of the Philippines, ",,1,0,0,female,female
+89,Anca Sirbu,UC Riverside,2012.0,,"West Virginia University, WV",,1,0,0,female,female
+90,Yundong Tu,UC Riverside,2012.0,,"Peking University, Beijing, China",,1,0,0,unknown,male
+91,Yun Wang,UC Riverside,2012.0,,"University of International Business and Economics, Beijing, China",,1,0,1,andy,female
+92,Grace Waner Gu,UC Riverside,2011.0,,"CRC Health Group, CA",,0,1,0,female,female
+93,Monica Jain,UC Riverside,2011.0,,"International Food Policy Research Institute, ",,1,0,1,female,female
+94,Masanori Kuroki,UC Riverside,2011.0,,"Arkansas Tech University, AR",,1,0,0,male,male
+95,Steve Levkoff,UC Riverside,2011.0,,"University of California, San Diego",,1,0,0,male,male
+96,Xiangbo Liu,UC Riverside,2011.0,,"Renmin University of China, ",,1,0,0,unknown,male
+97,Chandler Lutz,UC Riverside,2011.0,,"Copenhagen Business School, Denmark",,1,0,0,male,male
+98,Charles Mutsalklisana,UC Riverside,2011.0,,"Bank of America, Los Angeles, CA",,0,1,0,male,male
+99,Getachew Nigatu,UC Riverside,2011.0,,"California State University, Fullerton",,1,0,0,unknown,male
+100,Neha Raykar,UC Riverside,2011.0,,"Public Health Foundation of India, ",,0,0,1,female,female
+101,Deniz Baglan,UC Riverside,2010.0,,"Howard University, DC",,1,0,0,female,female
+102,Trinidad Beleche,UC Riverside,2010.0,,"US Food and Drug Administration, ",,0,0,1,female,female
+103,Hung-Lin Chen,UC Riverside,2010.0,,"Chapman University, CA",,1,0,0,unknown,male
+104,Insu Kim,UC Riverside,2010.0,,"Bank of Korea, ",,0,1,1,unknown,male
+105,Wing Yu Leung,UC Riverside,2010.0,,"Hong Kong Monetary Authority, ",,0,0,0,andy,female
+106,Jie Li,UC Riverside,2010.0,,"HSBC, USA",,0,0,0,andy,female
+107,Arindam Nandi,UC Riverside,2010.0,,"Center for Disease Dynamics, Economics and Policy, Washington DC",,0,0,1,unknown,male
+108,Aditi Bhattacharyya,UC Riverside,2009.0,,"Sam Houston State University, Texas",,1,0,0,female,female
+109,Daniel Farhat,UC Riverside,2009.0,,"University of Otgao in Dunedin, New Zealand",,1,0,0,male,male
+110,Ozan Isler,UC Riverside,2009.0,,"Dogus University, Istanbul",,1,0,0,male,male
+111,Shruti Kapoor,UC Riverside,2009.0,,"Occidental College, Los Angeles, CA",,1,0,0,female,female
+112,Emre Yoldas,UC Riverside,2009.0,,"Bentley University, Massachusetts",,1,0,0,male,male
+113,Serhat Kologlugil,UC Riverside,2008.0,,"Isik University, Turkey",,1,0,0,male,male
+114,Ernesto Rattia Lima,UC Riverside,2008.0,,"Banco de Mexico (Central Bank of Mexico), Mexico City",,0,1,1,male,male
+115,Weiqiang Qian,UC Riverside,2008.0,,"Demandtec Inc., CA",,0,1,0,unknown,male
+116,Zeynep Senyuz,UC Riverside,2008.0,,"University of New Hampshire, ",,1,0,0,female,female
+117,Jaehee Son,UC Riverside,2008.0,,"Samsung Research Institute of Finance, Korea",,1,0,0,unknown,female
+118,Xiaoyu Wu,UC Riverside,2008.0,,"Ramapo College of New Jersey, ",,1,0,0,unknown,female
+119,Lopamudra Banerjee,UC Riverside,2007.0,,"New School for Social Research, The New School",,1,1,0,unknown,female
+120,Subhadip Chattopadhyay,UC Riverside,2007.0,,"J.D. Power & Associates, MI",,0,1,0,unknown,male
+121,Huiyu Huang,UC Riverside,2007.0,,"PanAgora Asset Management, Boston",,0,0,0,unknown,female
+122,Sucharita Sinha,UC Riverside,2007.0,,"College of St. Benedict/St. Johns University, MN",,1,0,0,unknown,female
+123,Christie Byun,UC Riverside,2006.0,,"Rose Hulman Institute of Technology, Indiana",,1,0,0,female,female
+124,Anirban Dasgupta,UC Riverside,2006.0,,"Institute of Social Studies, Netherlands",,1,0,0,unknown,male
+125,Shatakshee Dhongde,UC Riverside,2006.0,,"Rochester Institute of Technology, New York, now at Georgia Tech",,1,0,0,unknown,female
+126,David Kauper,UC Riverside,2006.0,,"Central College, Iowa",,1,0,0,male,male
+127,Yang Yang,UC Riverside,2006.0,,"Wells Fargo, San Francisco",,0,0,0,andy,male
+128,Monica Das,UC Riverside,2005.0,,"Skidmore College, ",,1,0,0,female,female
+129,Bernard Gress,UC Riverside,2005.0,,"Freddie Mac, VA",,0,0,0,male,male
+130,Xiao Huang,UC Riverside,2005.0,,"Kennesaw State University, ",,1,0,0,andy,female
+131,Alan Krause,UC Riverside,2005.0,,"York University, UK",,1,0,0,male,male
+132,Xiangdong Long,UC Riverside,2005.0,,"University of Cambridge, UK",,1,0,0,unknown,male
+133,Wei Sun,UC Riverside,2005.0,,"Khimetrics Inc., ",,0,1,0,andy,male
+134,Heather Tierney,UC Riverside,2005.0,,"College of Charleston, ",,1,0,0,female,female
+135,Weiping Yang,UC Riverside,2005.0,,"Bank One, ",,0,1,0,unknown,male
+136,Yong Bao,UC Riverside,2004.0,,"University of Texas, San Antonio; now at Purdue University",,1,0,0,male,male
+137,Dustin Chambers,UC Riverside,2004.0,,"Salisbury University, ",,1,0,0,male,male
+138,Amy Ickowitz,UC Riverside,2004.0,,"Clark University, ",,1,0,0,female,female
+139,Witsaroot Pariyaprasert,UC Riverside,2004.0,,"Assumption University, Thailand",,1,0,0,unknown,male
+140,Savvina Chowdhury,UC Riverside,2003.0,,"California State University, Bakersfield",,1,0,0,unknown,female
+141,Daniel Henderson,UC Riverside,2003.0,,"Binghamton University, ",,1,0,0,male,male
+142,Zuzana Janko,UC Riverside,2003.0,,"University of Calgary, ",,1,0,0,female,female
+143,Santosh Mishra,UC Riverside,2003.0,,"Oregon State University, ",,1,0,0,female,female
+144,Sushama Murty,UC Riverside,2003.0,,"University of Warwick, ",,1,0,0,unknown,female
+145,Luis Brunstein,UC Riverside,2002.0,,"Rowan University, Glassboro, NJ.",,1,0,0,male,male
+146,Roger Conover,UC Riverside,2002.0,,"University of Warwick, ",,1,0,0,male,male
+147,Fang Dong,UC Riverside,2002.0,,"Providence College, ",,1,0,0,andy,female
+148,Rahel Kassahun,UC Riverside,2002.0,,"World Bank, Washington",,0,0,1,female,female
+149,Debasri Mukherjee,UC Riverside,2002.0,,"Western Michigan University, ",,1,0,0,unknown,female
+150,Gurleen Popli,UC Riverside,2002.0,,"Millersville University; now at University of Sheffield, UK",,1,0,0,unknown,female
+151,Amber Casolari,UC Riverside,2001.0,,"Glendale Community College, ",,1,0,0,female,female
+152,Indranil Dutta,UC Riverside,2001.0,,"University of East Anglia, UK; now at University of Sheffield, UK",,1,0,0,unknown,male
+153,Lisa Mohanty,UC Riverside,2001.0,,"University of Michigan, Dearborn; now at Staten Island University",,1,0,0,female,female
+154,Kusum Mundra,UC Riverside,2001.0,,"San Diego State University, ",,1,0,0,female,female
+155,Bassam Yousif,UC Riverside,2001.0,,"California State University, Fullerton; now at Indiana State University",,1,0,0,male,male
+156,Chengxuan Yu,UC Riverside,2001.0,,"Siena College, ",,1,0,0,unknown,male
+157,Mark Brenner,UC Riverside,2000.0,,"Political Economy Research Institute, University of Massachusetts, Amherst",,1,0,0,male,male
+158,Subodh Kumar,UC Riverside,2000.0,,"Citi Group, ",,0,1,0,unknown,male
+159,German Zarate,UC Riverside,2000.0,,"State University of New York, Cortland",,1,0,0,male,male
+160,Jay Hamilton,UC Riverside,1999.0,,"John Jay College of Criminal Justice, ",,1,0,0,male,male
+161,Sherman Ho,UC Riverside,1999.0,,"Providian Financial, San Francisco",,0,0,0,male,male
+162,Robert Pedace,UC Riverside,1999.0,,"University of Redlands, Redlands, CA.",,1,0,0,male,male
+163,Diana Alacorn,UC Riverside,1999.0,,"Inter-American Development Bank, ",,0,1,0,female,female
+164,Robert Breunig,UC Riverside,1999.0,,"Australian National University, Canberra",,1,0,1,male,male
+165,Anjan Chakrabarti,UC Riverside,1999.0,,"University of Calcutta, Calcutta, India",,1,0,0,andy,male
+166,Achin Chakrabarti,UC Riverside,1999.0,,"Institute of Development Studies, Calcutta, India",,1,0,0,unknown,male
+167,Indraneel Dasgupta,UC Riverside,1999.0,,"University of Nottingtam, UK",,1,0,0,unknown,male
+168,Ranjeeta Ghiara,UC Riverside,1999.0,,"California State University, San Marcos",,1,0,0,female,female
+169,Mwangi wa Githinji,UC Riverside,1999.0,,"University of Massachusetts, Amherst",,1,0,0,unknown,male
+170,Craig Gundersen,UC Riverside,1999.0,,"United States Department of Agriculture; now at Iowa State University, ",,1,0,1,male,male
+171,Jocelyn Hammaker,UC Riverside,1999.0,,"Ohio University, ",,1,0,0,female,female
+172,Chiehwei Hung,UC Riverside,1999.0,,"Feng Chia University, Taiwan",,1,0,0,unknown,male
+173,Insong Jang,UC Riverside,1999.0,,"University of Bonn, Germany; now Vrije Universiteit, Netherlands",,1,0,0,unknown,male
+174,Thomas Kelly,UC Riverside,1999.0,,"Middlebury College, ",,1,0,0,male,male
+175,Terry McKinley,UC Riverside,1999.0,,"United Nations Development Programme, ",,0,0,0,male,male
+176,Philip Park,UC Riverside,1999.0,,"Columbia University (in an international studies area job), ",,1,0,1,male,male
+177,Judy Posnikoff,UC Riverside,1999.0,,"Pacific Alternative Asset Management Company, ",,0,1,0,female,female
+178,Nilanjana Roy,UC Riverside,1999.0,,"University of Victoria, ",,1,0,0,unknown,female
+179,Eric Van Tassel,UC Riverside,1999.0,,"University of Queensland, Australia; now at Florida Atlantic University",,1,0,0,male,male
+180,Mark Tengesdal,UC Riverside,1999.0,,"Texas Woman’s University, ",,1,0,0,male,male
+181,Patricia Watters,UC Riverside,1999.0,,"Pacific Alternative Asset Management Company, ",,0,1,0,female,female
+182,Barbara Weins,UC Riverside,1999.0,,"Pennsylvania State University, Altoona",,1,0,0,female,female
+183,Rong-Chang Wu,UC Riverside,1999.0,,"Shin Chien University, Taiwan",,1,0,0,andy,male
+184,Eduardo Zepeda,UC Riverside,1999.0,,"United Nations Development Programme, ",,0,0,0,male,male
+185,Zhong-Guo Zhou,UC Riverside,1999.0,,"California State University, Northridge",,1,0,0,andy,male
+0,Alaa Abdelfattah,UC Davis,2024.0,,"Assistant Professor, Occidental College",,1,0,0,male,male
+1,Seungjin Baek,UC Davis,2024.0,,"Junior Economist, OECD",,0,0,0,unknown,male
+2,Reem Zaiour,UC Davis,2024.0,,"Assistant Professor, Vanderbilt University",,1,0,0,female,female
+3,Jinyoung Seo,UC Davis,2024.0,,"Assistant Professor, Wake Forest University",,1,0,0,unknown,male
+4,Baiyu Zhou,UC Davis,2024.0,,"Senior Associate, Charles River Associates",,0,1,0,unknown,female
+5,Jou-Chun Lin,UC Davis,2024.0,,"Assistant Professor, National Taipei University",,1,0,1,unknown,female
+6,Eunju Lee,UC Davis,2024.0,,"Assistant Professor, Louisiana State University",,1,0,0,unknown,female
+7,Reid Taylor,UC Davis,2024.0,,"Economist, Federal Reserve Bank of Dallas",,0,1,1,male,male
+8,Sebastian Amador-Torres,UC Davis,2024.0,,"Assistant Professor, University of Kentucky - Lexington",,1,0,0,male,male
+9,Deokjay Jeong,UC Davis,2023.0,,"Post-Doc, SSK Inclusive Economic Policy Research Team",,1,1,1,unknown,male
+10,Yumeng Gu,UC Davis,2023.0,,"Economist, IMF",,0,0,1,unknown,female
+11,Yijing Wang,UC Davis,2023.0,,"Assistant Professor, Massey University",,1,0,0,unknown,female
+12,Shotaro Nakamura,UC Davis,2023.0,,"Economist, Federal Trade Commission",,0,0,1,male,male
+13,Ninghui Li,UC Davis,2023.0,,"Assistant Professor, Nankai University",,1,0,0,unknown,female
+14,Manho Kang,UC Davis,2023.0,,"Assistant Professor, Georgia Tech",,1,0,0,unknown,male
+15,Luis Avalos-Trujillo,UC Davis,2023.0,,"Assistant Professor, Anáhuac University",,1,0,0,male,male
+16,Konstantin Kunze,UC Davis,2023.0,,"Post-Doc, Rochester University",,1,0,0,male,male
+17,Hanguo Huang,UC Davis,2023.0,,"Assistant Professor, Shandong University",,1,0,0,unknown,male
+18,Gonzalo Basante-Pereira,UC Davis,2023.0,,"Assistant Professor, University of New Hampshire",,1,0,0,male,male
+19,Giuseppe Ippedico,UC Davis,2023.0,,"Assistant Professor, University of Nottingham",,1,0,0,male,male
+20,Ece Ozge Emeksiz,UC Davis,2023.0,,"Economist, IMF",,0,0,1,female,female
+21,Thiago DE LUCENA COELHO,UC Davis,2022.0,,"Assistant professor, SDSU",,1,0,0,unknown,male
+22,Ethan FELLICH,UC Davis,2022.0,,"Economist, Department of the Treasury",,0,0,1,male,male
+23,Minsu KIM,UC Davis,2022.0,,"Economist, Bank of Korea",,0,1,1,unknown,male
+24,Hyok Jung KIM,UC Davis,2022.0,,"Associate research fellow, Korea Institute for International Economic Policy",,1,0,1,andy,male
+25,Alice LI,UC Davis,2023.0,,"Economist, U.S. Department of Justice",,0,0,1,female,female
+26,Mingxi LI,UC Davis,2022.0,,"Assistant professor, East China University of Science and Technology Business School",,1,0,0,unknown,male
+27,Arian SEIFODDINI,UC Davis,2022.0,,"Economist, FTC",,0,0,1,male,male
+28,Keisuke TEEPLE,UC Davis,2022.0,,"Assistant professor, University of Waterloo",,1,0,0,male,male
+29,Iwunze UGO,UC Davis,2022.0,,"Research fellow, PPIC",,1,1,0,unknown,male
+30,Eden VOLKOV,UC Davis,2022.0,,"Research associate, EBRI",,0,1,0,female,female
+31,Justin WILTSHIRE,UC Davis,2022.0,,"Lecturer (Assistant prof), University of Queensland",,1,0,0,male,male
+32,Marina LOVCHIKOVA,UC Davis,2021.0,,"Economist, CoveredCA",,0,0,0,female,female
+33,Josh GRELEWICZ,UC Davis,2021.0,,"Economist, US Census Bureau",,0,0,1,male,male
+34,Johannes MATSCHKE,UC Davis,2021.0,,"Economist, Kansas City Federal Reserve Bank",,0,1,1,male,male
+35,Patricia TECLES,UC Davis,2021.0,,"Director for Trade Studies, Ministry of Development, Industry, and Trade, Brazil",,0,1,1,female,female
+36,Rizki SIREGAR,UC Davis,2021.0,,"Postdoctoral Fellow, Mainz, Germany",,1,0,0,unknown,male
+37,Derek RURY,UC Davis,2021.0,,"Postdoctoral Fellow, Chicago Harris School",,1,0,0,male,male
+38,Matthew CURTIS,UC Davis,2021.0,,"Postdoctoral Fellow, European Center for Advanced Research in Economics and Statistics, Brussels & Louvain La Neuve University, Belgium",,1,1,0,male,male
+39,Geoff SCHNORR,UC Davis,2021.0,,"Postdoctoral Research Fellow, California Policy Lab (UCLA)",,1,1,1,male,male
+40,Camila SAEZ,UC Davis,2021.0,,"Asst. Prof., Duke Kunshan University",,1,0,0,female,female
+41,Tamoghna HALDER,UC Davis,2021.0,,"Asst. Prof., Azim Premji University Bangalore",,1,0,0,unknown,male
+42,Sukjoon LEE,UC Davis,2021.0,,"Asst. Prof., NYU Shanghai",,0,0,0,unknown,male
+43,Haopeng SHEN,UC Davis,2021.0,,"Asst. Prof., Nanjing University School of Economics",,1,0,0,unknown,male
+44,Ezgi KURT,UC Davis,2021.0,,"Asst. Prof., Bentley University",,1,0,0,female,female
+45,Hang ZHOU,UC Davis,2020.0,,"Asst.Prof. in Finance, Shanghai University of Finance and Economics",,1,0,0,andy,male
+46,Dakyung SEONG,UC Davis,2020.0,,"Lecturer (Asst.Prof.), University of Syndey",,1,0,0,unknown,male
+47,Cynthia VAN DER WERF,UC Davis,2020.0,,"Asst. Prof., Louisiana State University",,1,0,0,female,female
+48,Briana BALLIS,UC Davis,2020.0,,"Asst. Prof., UC Merced",,0,0,0,female,female
+49,Zhixian LIN,UC Davis,2020.0,,"Postdoctoral Research Fellow, University of Michigan",,1,1,0,unknown,male
+50,Chris JOHNSON,UC Davis,2020.0,,", PricewaterhouseCoopers",,0,0,0,male,male
+51,Anna IGNATENKO,UC Davis,2020.0,,"Asst. Prof., LMU Munich",,0,0,0,female,female
+52,Annie HINES,UC Davis,2020.0,,"Associate, Cornerstone Research",,0,1,0,female,female
+53,Xuan FEI,UC Davis,2019.0,,"Economist, State Administration of Foreign Exchange (SAFE) of the People's Republic of China, Central Bank of China",,0,1,1,andy,female
+54,Khaled KHEIRAVAR,UC Davis,2019.0,,"Research Economist, California Air Resources Board",,0,1,0,male,male
+55,Yuzuru KUMON,UC Davis,2019.0,,"Visiting Assistant Professor, Bocconi University",,1,0,0,male,male
+56,Matt NAVEN,UC Davis,2019.0,,"Assistant Professor, Washington and Lee University",,1,0,0,male,male
+57,Siobhan O'KEEFE,UC Davis,2019.0,,"Assistant Professor, Davidson College",,1,0,0,female,female
+58,Andrew PADOVANI,UC Davis,2019.0,,"Statistical/Data Analyst, UC Davis School of Medicine",,1,0,0,male,male
+59,Sarah QUINCY,UC Davis,2019.0,,"Assistant Professor, Vanderbilt University",,1,0,0,female,female
+60,William SWANSON,UC Davis,2019.0,,"Research Economist, Economics Research Service (USDA)",,0,1,1,male,male
+61,Tingting ZHU,UC Davis,2019.0,,"Assistant Professor, Shanghai University of Finance and Economics",,1,0,0,unknown,female
+62,Mingzhi XU,UC Davis,2018.0,,"Assistant Professor, Peking University - Institute of New Structural Economics",,1,0,0,unknown,male
+63,Tian XIA,UC Davis,2018.0,,"Assistant Professor, Beijing Normal University",,1,0,0,andy,male
+64,Jaerim CHOI,UC Davis,2018.0,,"Assistant Professor, University of Hawaii at Manoa",,1,0,0,unknown,male
+65,Joseph KOPECKY,UC Davis,2018.0,,"Assistant Professor, Trinity College Dublin",,1,0,0,male,male
+66,James ARCHSMITH,UC Davis,2018.0,,"Assistant Professor, University of Maryland - Agricultural and Resource Economics",,1,0,0,male,male
+67,Chuan HE,UC Davis,2018.0,,"Assistant Professor, Huazhong University of Science and Technology",,1,0,0,andy,male
+68,Chenghao HU,UC Davis,2018.0,,"Assistant Professor, San Francisco State University",,1,0,0,unknown,male
+69,Chi-Yuan TSAI,UC Davis,2018.0,,"Assistant Professor, National Chengchi University",,1,0,1,unknown,male
+70,Yujung SUH,UC Davis,2018.0,,"Associate Research Fellow, Korea Energy Economics Institute",,1,0,0,unknown,female
+71,Felipe AVILES LUCERO,UC Davis,2017.0,,", ( this information is not yet available )",,0,0,0,male,male
+72,Qi HAN,UC Davis,2017.0,,"Asst. Prof., Southwestern University of Finance and Economics",,1,0,0,andy,female
+73,Jiwon LEE,UC Davis,2017.0,,"Economist, Bank of Korea",,0,1,1,unknown,female
+74,Yingxue LI,UC Davis,2017.0,,"Asst. Prof., Xi'an Jiaotong University",,1,0,0,unknown,female
+75,Stephen SUN,UC Davis,2017.0,,"Special Lecturer (Adjunct Asst. Prof), Hitotsubashi Institute for Advanced Study",,1,0,0,male,male
+76,Zhe YANG,UC Davis,2017.0,,"Asst. Prof., Jinan University",,1,0,0,andy,male
+77,Lijuan YIN,UC Davis,2017.0,,"Asst. Prof., Jinan University",,1,0,0,unknown,female
+78,Il Hyun CHO,UC Davis,2017.0,,", Korea Energy Economics Institute",,1,0,0,male,male
+79,Michel GROSZ,UC Davis,2017.0,,"Sr. Analyst / PhD Economist, abt Associates",,0,1,0,male,male
+80,Esra KOSE,UC Davis,2017.0,,"Asst. Prof., Bucknell University",,1,0,0,female,female
+81,Jongkwan LEE,UC Davis,2017.0,,"Associate Research Fellow, Korea Development Institute",,1,0,0,unknown,male
+82,Seungduck LEE,UC Davis,2017.0,,"Economist, Bank of Korea",,0,1,1,unknown,male
+83,Tao LIU,UC Davis,2017.0,,"Asst. Prof., Central University of Finance & Economics",,1,0,0,andy,male
+84,Lester LUSHER,UC Davis,2017.0,,"Asst. Prof., University of Hawaii at Manoa",,1,0,0,male,male
+85,Luca MACEDONI,UC Davis,2017.0,,"Asst. Prof., Aarhus University",,1,0,0,male,male
+86,Ariel PIHL,UC Davis,2017.0,,"Fellowship / Postdoc, University of Gothenburg",,1,0,0,male,male
+87,Akira SASAHARA,UC Davis,2017.0,,"Asst. Prof., University of Idaho",,1,0,0,male,male
+88,Vladimir TYAZHELNIKOV,UC Davis,2017.0,,"Asst. Prof., University of Sydney",,1,0,0,male,male
+89,Vasil YASENOV,UC Davis,2017.0,,"Postdoc Fellow, Goldman School in UC Berkeley",,1,0,0,male,male
+90,Jae Wook JUNG,UC Davis,2016.0,,"Associate Research Fellow, Korea Institute for International Economic Policy",,1,0,1,andy,male
+91,Ludmila POLIAKOVA,UC Davis,2016.0,,"Lecturer, Johns Hopkins University",,1,0,0,female,female
+92,Gaetano BASSO,UC Davis,2016.0,,"Research Fellow, Bank of Italy",,1,1,0,male,male
+93,Chloe EAST,UC Davis,2016.0,,"Asst. Prof., University of Colorado, Denver",,1,0,0,female,female
+94,Ji Hyun PARK,UC Davis,2016.0,,"Associate Research Fellow, Korea Information Society Development Institute (KISDI)",,1,0,0,andy,female
+95,Na'ama SHENHAV,UC Davis,2016.0,,"Asst. Prof., Dartmouth College",,1,0,0,unknown,female
+96,Kevin WILLIAMS,UC Davis,2016.0,,"Asst. Prof., University of Utah",,1,0,0,male,male
+97,Wenjun MA,UC Davis,2015.0,,"Lecturer, Shenzhen University",,1,0,0,unknown,male
+98,Angsoka PAUNDRALINGGA,UC Davis,2015.0,,"Economist, Bank Indonesia",,0,1,0,unknown,female
+99,Kyunghun KIM,UC Davis,2015.0,,"Associate Research Fellow, Korea Institute for International Economic Policy (KIEP)",,1,0,1,unknown,male
+100,Hee Yeul WOO,UC Davis,2015.0,,"Lecturer, Calif. State University of East Bay in Hayward, CA",,1,0,0,female,female
+101,Massimo ANELLI,UC Davis,2015.0,,"Asst. Prof., Bocconi Univ.",,0,0,0,male,male
+102,Andrew FOOTE,UC Davis,2015.0,,"Economist, U.S. Census Bureau",,0,0,1,male,male
+103,Elira KUKA,UC Davis,2015.0,,"Asst. Prof., Southern Methodist Univ.",,0,0,0,female,female
+104,Oscar MENDEZ MEDINA,UC Davis,2015.0,,"Program Associate, Alfred P. Sloan Foundation",,0,0,0,male,male
+105,Keita OIKAWA,UC Davis,2015.0,,"Researcher, Ministry of Economy, Trade & Industry (in Japan)",,0,1,1,male,male
+106,Kevin SHIH,UC Davis,2015.0,,"Asst. Prof., Rensselaer Polytechnic Institute",,1,0,0,male,male
+107,Ariel WEINBERGER,UC Davis,2015.0,,"Asst. Prof., Univ. of Oklahoma",,0,0,0,male,male
+108,Xiaohan ZHANG,UC Davis,2015.0,,"Asst. Prof., CSU Los Angeles",,0,0,0,unknown,male
+109,Hang-Wei HAO,UC Davis,2014.0,,"Visiting Asst. Prof., Valparaiso University",,1,0,0,unknown,male
+110,Daniel DIAZ VIDAL,UC Davis,2014.0,,"Visiting Asst. Prof., Wabash college",,1,0,0,male,male
+111,Kuk Mo JUNG,UC Davis,2014.0,,"Asst. Prof., Henan University, China",,1,0,0,andy,male
+112,Guojun WANG,UC Davis,2014.0,,"Asst. Prof., Tongji University, China",,1,0,0,unknown,male
+113,Douglas CAMPBELL,UC Davis,2014.0,,"Asst. Prof., New Economic School, Russia",,1,0,0,male,male
+114,Joseph CUMMINS,UC Davis,2014.0,,"Asst. Prof., UC Riverside",,0,0,0,male,male
+115,Lucas HERRENBRUECK,UC Davis,2014.0,,"Asst. Prof., Simon Fraser University",,1,0,0,male,male
+116,Chi-Hung LIAO,UC Davis,2014.0,,"Principal Economist, Calif. Dept. of Finance",,0,1,0,andy,male
+117,Philip LUCK,UC Davis,2014.0,,"Asst. Prof., Drexel University",,1,0,0,male,male
+118,Juan TAPIA GERTOSIO,UC Davis,2014.0,,"Professor, Universidad Tecnica Federico Santa Maria",,1,0,1,male,male
+119,Bo-Young CHOI,UC Davis,2013.0,,"Associate Research Fellow, Korea Institute for International Economic Policy",,1,0,1,female,female
+120,Yu HAO,UC Davis,2013.0,,"Asst. Prof., Tsinghua University",,1,0,0,andy,male
+121,David SIMON,UC Davis,2013.0,,"Asst. Prof., University of Connecticut",,1,0,0,male,male
+122,Brock SMITH,UC Davis,2013.0,,"Post Doc, Oxford University",,1,0,0,male,male
+123,Michael JONAS,UC Davis,2013.0,,"Term Asst. Prof., University of San Francisco",,1,0,0,male,male
+124,Gabriel MATHY,UC Davis,2013.0,,"Asst. Prof., American University, Washington, DC",,1,0,0,male,male
+125,Ronaldo CARPIO,UC Davis,2012.0,,"Asst. Prof., Univ. of International Business and Economics, Beijing",,0,0,1,male,male
+126,Yoon-Kyung CHUNG,UC Davis,2012.0,,"Economist, KEEI (Korea Energy Institute)",,1,0,0,unknown,female
+127,Hyung Suk KIM,UC Davis,2012.0,,"Economist, Bank of Korea",,0,1,1,andy,male
+128,Jason LEE,UC Davis,2012.0,,"Visiting Asst. Prof., UC Merced",,1,0,0,male,male
+129,Dan LIU,UC Davis,2012.0,,"Asst. Prof., Shanghai Univ. of Finance & Economics",,0,0,0,male,male
+130,Ankur PATEL,UC Davis,2012.0,,"Financial Economist, Dept. of Treasury, Washington, DC",,0,0,1,unknown,male
+131,Shaofeng XU,UC Davis,2012.0,,"Economist, Bank of Canada",,0,1,1,unknown,male
+132,Thomas BLAKE,UC Davis,2012.0,,"Research Economist, E-Bay Research Labs",,0,1,0,male,male
+133,Paul GAGGL,UC Davis,2012.0,,"Asst. Prof., Univ. of N. Carolina, Charlotte",,0,0,0,male,male
+134,Matthew LARSEN,UC Davis,2012.0,,"Postdoctoral Teaching Fellow, Tulane Univ.",,1,0,0,male,male
+135,Teny MAGHAKIAN,UC Davis,2012.0,,"Asst. Prof., UC Merced",,0,0,0,unknown,male
+136,Theodore Jay (TJ) McCARTHY,UC Davis,2012.0,,"Asst. Prof., USC, Sol Price School of Public Policy",,1,0,1,male,male
+137,Ju Hyun PYUN,UC Davis,2012.0,,"Economist (Research Fellow), Korea Inst. Intl Econ. Policy (KIEP)",,1,1,1,andy,female
+138,Rebbecca REED-ARTHURS,UC Davis,2012.0,,"Managing Economist, Berkeley Research Group",,0,1,0,unknown,female
+139,Danielle SANDLER,UC Davis,2012.0,,"Social Scientist, Giant Oak, LLC",,0,1,0,female,female
+140,Ryan SANDLER,UC Davis,2012.0,,"Economist, Federal Trade Commission",,0,0,1,male,male
+141,Jessamyn SCHALLER,UC Davis,2012.0,,"Asst. Prof., Univ. of Arizona",,0,0,0,female,female
+142,Lisa SCHULKIND,UC Davis,2012.0,,"Asst. Prof., Trinity College",,1,0,0,female,female
+143,Liugang SHENG,UC Davis,2012.0,,"Asst.Prof., Chinese Univ. of Hong Kong",,0,0,0,unknown,male
+144,Nikolas ZOLAS,UC Davis,2012.0,,"Economist, U.S. Census Bureau, Center for Econ Studies",,0,0,1,male,male
+145,Abhijit TALATHI,UC Davis,2011.0,,"Associate / Consultant, Verizon Wireless",,0,0,0,unknown,male
+146,Yi CHEN,UC Davis,2011.0,,"Assistant Professor, Peking University",,1,0,0,andy,male
+147,Rowena GRAY,UC Davis,2011.0,,"Lecturer, University of Essex",,1,0,0,female,female
+148,Jeremy MOULTON,UC Davis,2011.0,,"Assistant Professor, University of North Carolina-Chapel Hill",,1,0,0,male,male
+149,Gregory WRIGHT,UC Davis,2011.0,,"Lecturer, University of Essex",,1,0,0,male,male
+150,James William (Will) AMBROSINI,UC Davis,2011.0,,"Policy Engineer, Amazon.com",,0,1,1,male,male
+151,Travis BERGE,UC Davis,2011.0,,"Economist, Federal Reserve Bank of Kansas City",,0,1,1,male,male
+152,Chia-Wen CHEN,UC Davis,2011.0,,"Assistant Professor, National Taipei University",,1,0,1,andy,male
+153,Changho CHOI,UC Davis,2011.0,,"Research Economist, Bank of Korea",,0,1,1,unknown,male
+154,Jeffrey GRAHAM,UC Davis,2011.0,,"Economist, OnPoint Analytics",,0,1,0,male,male
+155,Marco HERNANDEZ VEGA,UC Davis,2011.0,,"Research Economist, Banco de Mexico",,0,1,0,male,male
+156,Jed RICHARDSON,UC Davis,2011.0,,"Econometrician, Value-Added Research Center, University of Wisconsin-Madison",,1,1,0,male,male
+157,Anson SODERBERY,UC Davis,2011.0,,"Assistant Professor, Economics Dept., Purdue University",,1,0,0,male,male
+158,Charles STOECKER,UC Davis,2011.0,,"Prevention Effectiveness Fellow, U.S. Center for Disease Control",,0,0,0,male,male
+159,Seema SANGITA,UC Davis,2011.0,,"Post-doctoral Researcher, Univ. of Western Australia at Perth",,1,1,0,female,female
+160,Zhiyuan LI,UC Davis,2010.0,,"Assistant Professor, Shanghai University of Finance and Economics",,1,0,0,unknown,male
+161,Young Joon KIM,UC Davis,2010.0,,"Economist, Bank of Korea",,0,1,1,female,female
+162,Weijun HU,UC Davis,2010.0,,"Economist, China International Capital Corporation (Hong Kong)",,0,1,1,unknown,male
+163,Meixin GUO,UC Davis,2010.0,,"Assistant Professor, Tsinghua University",,1,0,0,unknown,female
+164,Ling FENG,UC Davis,2010.0,,"Assistant Professor, Shanghai University of Finance and Economics",,1,0,0,andy,female
+165,Nick SANDERS,UC Davis,2010.0,,"Postdoctoral Scholar, Stanford Institute for Economic Policy Research (SIEPR), Stanford University",,1,0,1,male,male
+166,Yanping CHONG,UC Davis,2010.0,,"Assistant Professor, Winona State University",,1,0,0,unknown,female
+167,Shih-Wei CHAO,UC Davis,2010.0,,"Assistant Professor, National Chengchi University",,1,0,1,unknown,male
+168,Michael Grabner,UC Davis,2009.0,,"Post Doc Researcher, University of Maryland",,1,1,0,male,male
+169,Adriana Leticia Arroyo Abad,UC Davis,2009.0,,"Assistant Professor, Middlebury College",,1,0,0,female,female
+170,Sun Go,UC Davis,2009.0,,"Research Associate, Korea Institute of Public Finance",,1,0,1,andy,male
+171,Peter Huckfeldt,UC Davis,2009.0,,"Associate Economist, Rand Corporation",,0,1,0,male,male
+172,Hong Ma,UC Davis,2009.0,,"Assistant Professor, Tsinghua University",,1,0,0,andy,male
+173,Matthew C. Pearson,UC Davis,2009.0,,"Economic Consultant, Ashenfelter and Ashmore",,0,0,0,male,male
+174,Shahar Sansani,UC Davis,2009.0,,"Assistant Professor, College of Management in Israel",,1,0,0,male,male
+175,Yuan Xu,UC Davis,2009.0,,"Assistant Professor, Tsinghua University",,1,0,0,andy,male
+176,Chang Seon LEE,UC Davis,2009.0,,"Economist, LG Economic Research Institute",,1,0,0,andy,male
+177,Jason LINDO,UC Davis,2009.0,,"Assistant Professor, University of Oregon",,1,0,0,male,male
+178,Benjamin MANDEL,UC Davis,2009.0,,"Economist, International Finance Division, Federal Reserve Board of Governors",,0,0,1,male,male
+179,David ONG,UC Davis,2009.0,,"Assistant Professor, Peking University HSBC School of Business",,1,0,0,male,male
+180,Alan BARRECA,UC Davis,2008.0,,"Assistant Professor, Tulane University",,1,0,0,male,male
+181,Juan DU,UC Davis,2008.0,,"Visiting Assistant Professor, College of New Jersey",,1,0,0,male,male
+182,Seungjoon LEE,UC Davis,2008.0,,"Research Associate, Korean Insurance Research Institute",,1,0,0,unknown,male
+183,Chun WANG,UC Davis,2008.0,,"Assistant Professor, CUNY Brooklyn",,1,0,0,andy,female
+184,Adib BAGH,UC Davis,2008.0,,"Assistant Professor joint Math & Economics, University of Kentucky",,1,0,0,male,male
+185,Marcella Socorro Carrillo HEMMETER,UC Davis,2008.0,,"Adjunct Professor, Dept. of Economics, U.S. Naval Academy, Annapolis, MD",,1,0,0,female,female
+186,DaeHwan KIM,UC Davis,2008.0,,"Research Fellow, Korean Insurance Research Institute",,1,0,0,unknown,male
+187,Ching-Yi LIN,UC Davis,2008.0,,"Assistant Professor, Tsinghua University, Taiwan",,1,0,0,unknown,female
+188,Kyungwon RHO,UC Davis,2008.0,,"Deputy Director, Planning R&D Project, Ministry of Education, Science & Technology of Korea",,0,0,1,unknown,male
+189,Yingying XU,UC Davis,2008.0,,"Economist, Manufacturers Alliance, Arlington, VA",,0,0,0,unknown,female
+190,Takeshi YAGIHASHI,UC Davis,2008.0,,"Assistant Professor, City Univ. of New York, Statten Island",,1,0,0,male,male
+191,Sunhwa LEE,UC Davis,2008.0,,", Unknown / Seeking Employment",,0,0,0,unknown,female
+192,Piyachart PHIROMSWAD,UC Davis,2007.0,,"Faculty Member, Chulalongkorn University, Thailand",,1,0,0,unknown,male
+193,Stephen Eric LARSEN,UC Davis,2007.0,,"Research Fellow, Public Policy Institute of California",,1,0,1,male,male
+194,Jing TONG,UC Davis,2007.0,,"Catastrophe Risk Modeler, Risk Management Solutions",,0,0,0,andy,female
+195,Huiran PAN,UC Davis,2007.0,,"Assistant Professor, Oklahoma State University at Stillwater",,1,0,0,unknown,female
+196,Michelle AMARAL,UC Davis,2007.0,,"Assistant Professor, University of the Pacific",,1,0,0,female,female
+197,Babette BOLIEK,UC Davis,2007.0,,", unknown",,0,0,0,female,female
+198,David G. BROWN,UC Davis,2007.0,,"Assistant Professor, Louisiana State University",,1,0,0,male,male
+199,Wei-Min HU,UC Davis,2007.0,,"Assistant Professor, Peking University",,1,0,0,andy,male
+200,Jason LEPORE,UC Davis,2007.0,,"Assistant Professor, Cal Poly San Luis Obispo",,1,0,0,male,male
+201,Sung Ju SONG,UC Davis,2007.0,,"Economist, The Bank of Korea",,0,1,1,andy,male
+202,Huiya (Grace) CHEN,UC Davis,2006.0,,"Visiting Assistant Professor, Reed College",,1,0,0,unknown,female
+203,Ahmed RAHMAN,UC Davis,2006.0,,"Assistant Professor, Naval Academy, Annapolis, MD",,1,0,0,male,male
+204,Radek SZULGA,UC Davis,2006.0,,"Assistant Professor, Carleton College",,1,0,0,male,male
+205,Sami KITMITTO,UC Davis,2006.0,,"Research Analyst, American Institute for Research, Palo Alto, CA",,1,0,0,male,male
+206,Konstantinos METAXOGLOU,UC Davis,2006.0,,"Sr. Consultant, Bates White LLC",,0,1,0,male,male
+207,Chad SPARBER,UC Davis,2006.0,,"Assistant Professor, Colgate University",,1,0,0,male,male
+208,Uluc AYSUN,UC Davis,2006.0,,"Assistant Professor, University of Connecticut - Stamford",,1,0,0,unknown,male
+209,Florence BOUVET,UC Davis,2006.0,,"Assistant Professor, Lewis & Clark College",,1,0,0,female,female
+210,Chunchih CHEN,UC Davis,2006.0,,"Assistant Professor, Taipei University",,1,0,0,unknown,male
+211,Melanie GULDI,UC Davis,2006.0,,"Assistant Professor, Mt. Holyoke College",,1,0,0,female,female
+212,Chang HONG,UC Davis,2006.0,,"Research Officer, International Monetary Fund, Washington, DC",,0,1,1,andy,male
+213,Ysbrand VAN DER WERF,UC Davis,2006.0,,"unknown, unknown",,0,0,0,unknown,male
+214,Rasa KEANINI,UC Davis,2005.0,,"Energy Specialist II, California Energy Commission",,0,0,0,female,female
+215,Hyung-Cheol SHIN,UC Davis,2005.0,,"Research Analyst, Franklin Templeton, San Mateo",,0,1,0,unknown,male
+216,Derek STIMEL,UC Davis,2005.0,,"Post-Doc (Lecturer), Stanford University",,1,0,0,male,male
+217,Ryan BRADY,UC Davis,2005.0,,"Assistant Professor, U.S. Naval Academy, Annapolis",,1,0,0,male,male
+218,Shireen ALAZZAWI,UC Davis,2005.0,,"Assistant Professor, American University in Cairo, Egypt",,1,0,0,female,female
+219,Kyuil CHUNG,UC Davis,2005.0,,"Research Economist, Bank of Korea",,0,1,1,unknown,male
+220,Massimiliano DE SANTIS,UC Davis,2005.0,,"Assistant Professor, Dartmouth College",,1,0,0,male,male
+221,Miaojie YU,UC Davis,2005.0,,"Visiting Assistant Professor, University of Hong Kong",,1,0,0,unknown,female
+222,Natalia GOLOTVINA,UC Davis,2004.0,,", Barclay's Bank, San Francisco",,0,1,0,female,female
+223,Amir AMADI,UC Davis,2004.0,,", VUG (Software company in Irvine)",,0,1,0,male,male
+224,David JACKS,UC Davis,2004.0,,"Assistant Professor, Simon Fraser University, Canada",,1,0,0,male,male
+225,Hai Yan DENG,UC Davis,2004.0,,"Economist, The Conference Board, New York",,0,0,0,andy,female
+226,Dae-Wook KIM,UC Davis,2004.0,,"Associate Research Fellow, Korea Institute for Industrial",,1,0,0,unknown,male
+227,Janine L. F. WILSON,UC Davis,2004.0,,"Lecturer, Economics Dept., UC Davis",,1,0,0,female,female
+228,Daniel YORGASON,UC Davis,2004.0,,"Economist, Bureau of Economic Analysis",,0,0,1,male,male
+229,Alyson MA,UC Davis,2004.0,,"Assistant Professor, San Diego University",,1,0,0,female,female
+230,Susana IRANZO,UC Davis,2003.0,,"Assistant Professor, University of Sydney, Australia",,1,0,0,female,female
+231,Marc ROBERT,UC Davis,2003.0,,"Adviser to the French Executive, International Monetary Fund, Washington, DC",,0,0,1,male,male
+232,Gayle ALLARD,UC Davis,2003.0,,"Professor of Econ., Instituto de Empresa, Spain",,1,0,0,female,female
+233,Ivan TCHAKAROV,UC Davis,2003.0,,"Economist, International Monetary Fund",,0,0,1,male,male
+234,Patrick CARLETON,UC Davis,2003.0,,"International Economist, OPIC (Overseas Private Investment Corporation)",,0,1,1,male,male
+235,Roger BUTTERS,UC Davis,2003.0,,"Assistant Professor, University of Texas, Arlington",,1,0,0,male,male
+236,"James (""Jamie"") WOODS",UC Davis,2003.0,,"Assistant Professor, Portland State University",,1,0,0,male,male
+237,Seung-Cheol JEON,UC Davis,2002.0,,"Economist, Bank of Korea",,0,1,1,unknown,male
+238,Kristin VAN GAASBECK,UC Davis,2002.0,,"Assistant Professor, California State University, Sacramento",,1,0,0,female,female
+239,Ping-Hsuan (Loretta) FUNG,UC Davis,2002.0,,"Assistant Professor, University of Alberta, Canada",,1,0,0,unknown,female
+240,Masami IMAI,UC Davis,2002.0,,"Assistant Professor, Wesleyan University",,1,0,0,female,female
+241,Eric JAMELSKE,UC Davis,2002.0,,"Assistant Professor, University of Wisconsin, Eau Claire",,1,0,0,male,male
+242,Songhua LIN,UC Davis,2002.0,,"Assistant Professor, Denison University",,1,0,0,unknown,male
+243,Brian P. ROSARIO,UC Davis,2002.0,,"Not yet known, Not yet known",,0,0,0,male,male
+244,Sharmila KING,UC Davis,2001.0,,"Assistant Professor, University of the Pacific",,1,0,0,female,female
+245,Karou NABESHIMA,UC Davis,2001.0,,"Economist, The World Bank, Washington, D.C",,0,0,1,unknown,male
+246,Stephen Lawrence PHIPPS,UC Davis,2001.0,,"Not yet known, Not yet known",,0,0,0,male,male
+247,Derek Hung Chiat CHEN,UC Davis,2001.0,,"Consultant / Economist, The World Bank, Washington, D.C.",,0,0,1,male,male
+248,Inho CHUNG,UC Davis,2001.0,,"Economist, Korea Telecom",,0,0,0,unknown,male
+249,Selva DEMIRALP,UC Davis,2000.0,,"Economist, Board of Governors of the Federal Reserve System, Washington, DC",,0,0,1,female,female
+250,"Hiau-Looi (""Kee"") KEE",UC Davis,2000.0,,"Young Professional, The World Bank",,0,0,1,unknown,female
+251,Tracy M. TURNER,UC Davis,2000.0,,"Assistant Professor, Dept. of Economics, Kansas State University",,1,0,0,female,female
+252,Lisa CAPPELLARI,UC Davis,2000.0,,"Assistant Professor, Defense Resources Management Inst.",,1,0,0,female,female
+253,Adam FOREST,UC Davis,2000.0,,"Visiting Assistant Professor, Syracuse University",,1,0,0,male,male
+254,Humberto GONZALEZ-LLAVADOR,UC Davis,2000.0,,"Assistant Professor, Departament d' Economia Empresa Universitat Pompeu Fabra Trias Fargas",,1,0,1,male,male
+255,Robert Jean OXOBY,UC Davis,2000.0,,"Assistant Professor, Economics Dept., University of Calgary",,1,0,0,male,male
+0,Maxim Bakhtin,Stanford,2025.0,,Analysis Group,"Behavioral Economics, Theory",0,1,0,male,male
+1,Joseph Anderson,Stanford,2024.0,,"Office of Management and Budget, U.S. Government","Innovation, Labor, Industrial Organization",0,0,1,male,male
+2,Dominique Araya Vergara,Stanford,2024.0,,"Postdoc, Ohio State University","Health Economics, Public Economics",1,0,0,andy,female
+3,Gonzalo Arrieta,Stanford,2024.0,,University of Zurich,Experimental and Behavioral Economics,1,0,0,male,male
+4,Yunus C. Aybas,Stanford,2024.0,,Texas A&M University,Microeconomic Theory,1,0,0,male,male
+5,Jean-Felix Brouillette,Stanford,2024.0,,HEC Montréal,Macroeconomics,0,0,0,unknown,male
+6,Nina Buchmann,Stanford,2024.0,,"University of California, Berkeley, Department of Economics","Development Economics, Behavioral Economics, Gender",1,0,1,female,female
+7,Matias Cersosimo,Stanford,2024.0,,Instacart,"Econometrics for Causal Inference, Experimental and Behavioral Economics",0,0,0,male,male
+8,Jacob Conway,Stanford,2024.0,,University of Chicago Booth School of Business,"Corporate Finance, Industrial Organization",1,0,0,male,male
+9,Florian Fiaux,Stanford,2024.0,,TerraCota Group,"Empiracal Finance, Machine Learning",0,1,0,male,male
+10,Zach Freitas-Groff,Stanford,2024.0,,Longview Philanthropy,"Public Economics, Political Economy, Behavioral and Experimental Economics",0,0,0,male,male
+11,Suhani Jalota,Stanford,2024.0,,"Hoover Institute, Fellow","Development Economics,  Labor Economics, Gender, Health",1,0,0,unknown,female
+12,Ziao Ju,Stanford,2024.0,,Analysis Group,"Public Economics, Health Economics",0,1,0,unknown,male
+13,Jennifer Kowalski,Stanford,2024.0,,National Economic Research Associates,"Economic History, Labor Economics",0,1,1,female,female
+14,Pearl Li,Stanford,2024.0,,Federal Trade Commission,"Industrial Organization, Market Design, Urban Economics",0,0,1,female,female
+15,Jacob Light,Stanford,2024.0,,"Hoover Institution, Fellow","Labor Economics, Public Economics",0,0,0,male,male
+16,Jonas Metzger,Stanford,2024.0,,"Stanford Graduate School of Business, Postdoctoral Scholar",Econometrics,1,0,0,male,male
+17,Jasmin Moshfegh,Stanford,2024.0,,Imperial College London,Health Economics,1,0,0,female,female
+18,Rodrigo Naumann,Stanford,2024.0,,Cornerstone Research,"Industrial Organization, Energy Economics",0,1,0,male,male
+19,Alain Pineda,Stanford,2024.0,,Banco de México,"Labor, Development, Public",0,0,0,male,male
+20,Xinyao Qiu,Stanford,2024.0,,University of Hong Kong,"Labor Economics, Economics of Education, Public Economics",1,0,0,unknown,female
+21,Zhaonan Qu,Stanford,2024.0,,"Columbia University, Postdoctoral Scholar",Econometrics,1,0,0,unknown,male
+22,Lorenzo Rigon,Stanford,2024.0,,"Two Sigma, Discretionary Macro","Macroeconomics, Finance",0,0,0,male,male
+23,Andres F. Rodriguez,Stanford,2024.0,,Stanford Impact Labs- Impact and Learning Manager,"Development Economics, Political Economy",0,0,0,male,male
+24,Kurt R. Sweat,Stanford,2024.0,,"UT Southwestern, The O'Donnell School of Public Health","Market Design, Health Economics, Industrial Organization",1,0,1,male,male
+25,Cem Tutuncu,Stanford,2024.0,,Cornerstone Research,"Financial Economics, Macroeconomics",0,1,0,male,male
+26,Mark P. Walsh,Stanford,2024.0,,"GiveWell, Senior Research Associate","Applied Microeconomics, Development Economics",0,1,0,male,male
+27,Xuejie Yi,Stanford,2024.0,,Pinterest,"Industrial Organization, Health Economics",0,0,0,unknown,female
+28,Chuan Yu,Stanford,2024.0,,UNC-Chapel Hill,"Industrial Organization, Health Economics",0,0,0,andy,male
+29,Trevor Bakker,Stanford,2023.0,,US Census Bureau,"Public Economics, Household Finance, Labor Economics",0,0,1,male,male

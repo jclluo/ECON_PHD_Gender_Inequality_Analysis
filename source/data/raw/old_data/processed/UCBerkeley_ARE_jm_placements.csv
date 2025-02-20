@@ -1,0 +1,159 @@
+,name,position,department,year,university,year,academic,postdoc,employment type,gender_manual,thesis
+0,Daniel Agness,Assistant Professor,ARE,2024.0,UC Berkeley,2023-2024,1,0,Academic,male,1
+1,Pierre Biscaye,Chaire Professeur Junior,ARE,2024.0,UC Berkeley,2023-2024,0,0,Other,male,1
+2,Jesse Buchsbaum,Fellow,ARE,2024.0,UC Berkeley,2023-2024,0,0,Fellow,male,1
+3,Michelle Chen,Economist,ARE,2024.0,UC Berkeley,2023-2024,0,0,Economist,female,1
+4,Daniel Kannell,Economist,ARE,2024.0,UC Berkeley,2023-2024,0,0,Economist,male,1
+5,Subrata Kumar Ritadhi,Assistant Professor,ARE,2024.0,UC Berkeley,2023-2024,1,0,Academic,male,1
+6,Leila Safavi,Post Doctoral Scholar (2024-25),ARE,2024.0,UC Berkeley,2023-2024,1,1,Academic,female,1
+7,Jedediah Silver,Assistant Professor,ARE,2024.0,UC Berkeley,2023-2024,1,0,Academic,male,1
+8,Livia Alfonsi,Assistant Professor,ARE,2023.0,UC Berkeley,2023-2024,1,0,Academic,female,1
+9,Marshall Macdonald Blundell,Senior Consultant,ARE,2023.0,UC Berkeley,2023-2024,0,0,Consultant,male,0
+10,Joel Ferguson,Post Doctoral Researcher,ARE,2023.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+11,Hal Gordon,Consultant,ARE,2023.0,UC Berkeley,2023-2024,0,0,Consultant,male,1
+12,Wei Guo,Post-Doctoral scholar (2023-2025),ARE,2023.0,UC Berkeley,2023-2024,0,0,Other,female,0
+13,Qingyang Huang,Assistant Professor,ARE,2023.0,UC Berkeley,2023-2024,1,0,Academic,male,1
+14,Jenya Kahn-Lang,Post-Doctoral Scholar (2023-24),ARE,2023.0,UC Berkeley,2023-2024,1,1,Academic,male,1
+15,Jaecheol Lee,Post Doctoral Researcher,ARE,2023.0,UC Berkeley,2023-2024,1,1,Academic,male,1
+16,James E. Sayre,Assistant Professor of CE/Specialist in Food Supply Chains,ARE,2023.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+17,Wenjun Wang,Machine Learning Scientist,ARE,2023.0,UC Berkeley,2023-2024,0,0,Other,male,0
+18,Eleanor Wiseman,Post-Doctoral Scholar (2023-2025),ARE,2023.0,UC Berkeley,2023-2024,0,0,Other,female,0
+19,Bobby Harris,Assistant Professor,ARE,2023.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+20,Jesse Buchsbaum,Post Doctoral Scholar,ARE,2022.0,UC Berkeley,2023-2024,1,1,Academic,male,0
+21,Yulei Shelley He,Economist,ARE,2022.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+22,Andrew Hultgren,Assistant Professor,ARE,2022.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+23,Wei Lin,Assistant Professor,ARE,2022.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+24,Wenfeng Qiu,Senior Economist,ARE,2022.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+25,James Sears,Assistant Professor,ARE,2022.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+26,Molly Van Dop Sears,Assistant Professor,ARE,2022.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+27,Matthew Suandi,Economist,ARE,2022.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+28,Matthew Tarduno,Post Doctoral Scholar (2022-2023 ),ARE,2022.0,UC Berkeley,2023-2024,0,0,Other,male,0
+29,Carly Trachtman,Associate Research Fellow,ARE,2022.0,UC Berkeley,2023-2024,0,0,Fellow,female,0
+30,Susanna Berkouwer,Assistant Professor,ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+31,Léopold Biardeau,"Attaché Temporaire d'Enseignement et de Recherche,",ARE,2021.0,UC Berkeley,2023-2024,0,0,Other,male,0
+32,Claire Duquennois,Assistant Professor,ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+33,Kwabena Donkor,Assistant Professor,ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+34,Andy Hultgren,Post Doctoral Scholar,ARE,2021.0,UC Berkeley,2023-2024,1,1,Academic,male,0
+35,Reid Johnsen,Research Data Specialist,ARE,2021.0,UC Berkeley,2023-2024,0,0,Other,male,0
+36,Elisa Duran Micco,Post Doctoral Scholar,ARE,2021.0,UC Berkeley,2023-2024,1,1,Academic,female,0
+37,David McLaughlin,Economist,ARE,2021.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+38,Matthew Pecenco,Assistant Professor,ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+39,Deepak Premkumar,Research Fellow,ARE,2021.0,UC Berkeley,2023-2024,0,0,Fellow,male,0
+40,Manaswini Rao,Post Doctoral Scholar,ARE,2021.0,UC Berkeley,2023-2024,1,1,Academic,female,0
+41,Vaishnavi Surendra,Post Doctoral Scholar,ARE,2021.0,UC Berkeley,2023-2024,1,1,Academic,female,0
+42,Aluma Dembo,Lecturer (Assistant Professor),ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+43,Nick Hagerty,Assistant Professor,ARE,2021.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+44,Lydia Ashton,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+45,Patrick Baylis,Post Doctoral Scholar,ARE,2020.0,UC Berkeley,2023-2024,1,1,Academic,male,0
+46,Lei Cheng,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+47,Walter Graf,Associate,ARE,2020.0,UC Berkeley,2023-2024,0,0,Other,male,0
+48,Angeli Kirk,Staff Economist,ARE,2020.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+49,Daley Kutzman,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+50,Gavin McCormick,Executive Director,ARE,2020.0,UC Berkeley,2023-2024,0,0,Other,male,0
+51,Eduardo Montoya,Associate,ARE,2020.0,UC Berkeley,2023-2024,0,0,Other,male,0
+52,Moon Parks,Senior Economist,ARE,2020.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+53,Obie Porteous,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+54,Zhen Sun,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+55,Dilek Uz,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+56,Yang Xie,Assistant Professor,ARE,2020.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+57,Manuel Barron,Visiting Researcher,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+58,Marshall Burke,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+59,Andrew Dustan,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+60,Guojun He,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+61,Kyle Emerick,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+62,Diana Lee,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+63,Ayako Matsuda,Post doctoral Fellow,ARE,2019.0,UC Berkeley,2023-2024,1,1,Fellow,female,0
+64,Erica Myers,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+65,Renato Seixas,Research Fellow,ARE,2019.0,UC Berkeley,2023-2024,0,0,Fellow,male,0
+66,Tiffani Shih,Associate Research Economist,ARE,2019.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+67,Matthew Zaragoza-Watkins,E2e Postdoctoral Fellow/High-Meadows Postdoctoral Fellow,ARE,2019.0,UC Berkeley,2023-2024,0,1,Fellow,male,0
+68,Di Zeng,Postdoctoral Scholar,ARE,2019.0,UC Berkeley,2023-2024,0,1,Other,female,0
+69,Svenn Jensen,Assistant Professor,ARE,2019.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+70,Jing Cai,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+71,Sarah Dobson,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+72,Luosha Du,Consultant,ARE,2018.0,UC Berkeley,2023-2024,0,0,Consultant,male,0
+73,Fei Han,Economist,ARE,2018.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+74,Gianmarco Leon,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+75,Leslie Martin,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+76,Charles Seguin,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+77,Steven Sexton,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+78,Alex Solis,Assistant Professor,ARE,2018.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+79,David Anthoff,Assistant Professor,ARE,2017.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+80,Anthony Millner,Research Fellow,ARE,2017.0,UC Berkeley,2023-2024,0,0,Fellow,male,0
+81,Katrina Mullan,Assistant Professor,ARE,2017.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+82,Helene Ollivier,Research Fellow,ARE,2017.0,UC Berkeley,2023-2024,0,0,Fellow,female,0
+83,Rosangela Bando,Economist,ARE,2016.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+84,Damian Bickett,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+85,Howard Chong,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+86,Ben Crost,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+87,Kyriakos Drivas,Postdoctoral Researcher,ARE,2016.0,UC Berkeley,2023-2024,1,1,Academic,male,0
+88,Alan Fuchs,Research Economist,ARE,2016.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+89,Erick Gong,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+90,Brian Gross,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+91,Santiago Guerrero,Researcher,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+92,Melissa Hidrobo,Postdoctoral Fellow,ARE,2016.0,UC Berkeley,2023-2024,1,1,Fellow,female,0
+93,Jenny Ifft,Research Economist,ARE,2016.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+94,Koichiro Ito,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+95,Kelly Jones,Postdoctoral Fellow,ARE,2016.0,UC Berkeley,2023-2024,0,1,Fellow,female,0
+96,Peter Kelly,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+97,Joanne Lee,Economist,ARE,2016.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+98,Fangwen Lu,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+99,Elizaveta Perova,Economist,ARE,2016.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+100,Biswo Poudel,Visiting Scholar,ARE,2016.0,UC Berkeley,2023-2024,0,0,Other,male,0
+101,Lourdes Rodriguez-Chamussy,Lecturer,ARE,2016.0,UC Berkeley,2023-2024,0,0,Other,female,0
+102,Tom Sproul,Assistant Professor,ARE,2016.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+103,Quoc Viet,Founder and President,ARE,2016.0,UC Berkeley,2023-2024,0,0,Other,male,0
+104,Maoyong Fan,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+105,Kristen Kiesel,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+106,Zhen Lei,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+107,Clair Null,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+108,Robert Santillano,Researcher,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+109,Jesse Tack,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+110,Rocio Titiunik,Assistant Professor,ARE,2015.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+111,Jenny Aker,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+112,Jennifer Brown,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+113,Ricardo Cavazos,Chief Economist,ARE,2014.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+114,Céline Ferré,Economist (Young Professional),ARE,2014.0,UC Berkeley,2023-2024,0,0,Economist,female,0
+115,Rui Huang,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+116,Ryan Kellogg,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+117,James Manley,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+118,Lyngun Nie,Economist,ARE,2014.0,UC Berkeley,2023-2024,0,0,Economist,unknown,0
+119,Hugo Salgado,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+120,Susan Stratton,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+121,Felipe Vasquez,Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+122,Muzhe Yang,Assistant Professor,ARE,2014.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+123,Emma Aisbett,Assistant Professor,ARE,2013.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+124,Sarah Baird,Postdoctoral Scholar,ARE,2013.0,UC Berkeley,2023-2024,1,1,Academic,female,0
+125,Xiangyi (Daniel) Meng,Assistant Professor,ARE,2013.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+126,Ralf Steinhauser,Research Fellow,ARE,2013.0,UC Berkeley,2023-2024,0,0,Fellow,male,0
+127,Hendrik Wolff,Assistant Professor,ARE,2013.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+128,Christopher Busch,Climate Economist,ARE,2012.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+129,Claudio Ferraz,Research Economist,ARE,2012.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+130,Frederico Finan,Assistant Professor,ARE,2012.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+131,Meredith Fowlie,Assistant Professor,ARE,2012.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+132,James Hilger,Economist,ARE,2012.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+133,Bo MacInnis,Research Fellow,ARE,2012.0,UC Berkeley,2023-2024,0,0,Fellow,male,0
+134,Manisha Shah,Assistant Professor,ARE,2012.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+135,Jaya Sil,Risk Modeling Officer,ARE,2012.0,UC Berkeley,2023-2024,0,0,Other,female,0
+136,Ruth Uwaifo Oyelere,Assistant Professor,ARE,2012.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+137,Jennifer Alix,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+138,Tania Barham,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+139,Tomoki Fujii,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+140,Fang Lai,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+141,Andrew McKim,Program Economist,ARE,2011.0,UC Berkeley,2023-2024,0,0,Economist,male,0
+142,Laura Schechter,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+143,Karina Schoengold,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+144,Jason Scorse,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+145,Guanming Shi,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+146,Aaron Swoboda,Assistant Professor,ARE,2011.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+147,Yanhong Jin,Assistant Professor,ARE,2010.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+148,Stephen Stohs,Researcher/Lecturer,ARE,2010.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+149,Caridad Araujo,Visiting Assistant Professor/Consultant,ARE,2009.0,UC Berkeley,2023-2024,1,0,Consultant,female,0
+150,Kathy Baylis,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+151,Nick Brozovic,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+152,Sean Cash,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+153,Greg Graff,Director of Research,ARE,2009.0,UC Berkeley,2023-2024,0,0,Other,male,0
+154,Karen Macours,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,female,0
+155,Craig McIntosh,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+156,Wolfram Schlenker,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,male,0
+157,Ximing Wu,Assistant Professor,ARE,2009.0,UC Berkeley,2023-2024,1,0,Academic,male,0
