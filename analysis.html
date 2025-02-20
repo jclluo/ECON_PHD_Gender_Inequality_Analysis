@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Analysis</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Gender Inequality in Econ PhD</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Project Overview</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="institutions.html">Institutions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="data-processing.html">Data Processing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="code-guide.html">Code Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="analysis.html">Analysis</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <div class="container mt-4">
+    <h2 id="analysis">Analysis</h2>
+
+    <h3>Key Insights</h3>
+    <p><strong>Placement by Type:</strong></p>
+    <ul>
+      <li>60.48% of candidates were placed in academic positions.</li>
+      <li>13.73% went to industry roles.</li>
+      <li>11.08% of candidates became postdocs.</li>
+    </ul>
+
+    <h4>Tabular Representation of Gender Composition</h4>
+    <div class="table-responsive">
+      <table class="table table-bordered align-middle text-center">
+        <thead class="table-dark">
+          <tr>
+            <th>Gender</th>
+            <th>Overall (%)</th>
+            <th>Academic (%)</th>
+            <th>Postdoc (%)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Male</td>
+            <td>70.65</td>
+            <td>69.60</td>
+            <td>68.57</td>
+          </tr>
+          <tr>
+            <td>Female</td>
+            <td>29.35</td>
+            <td>30.40</td>
+            <td>31.43</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The table presents the gender composition across three categories: overall, 
+      academic positions, and postdoc positions. Males comprise ~70% overall, with slightly 
+      lower percentages in academic/postdoc roles. Females represent ~29.3% overall, with 
+      a modest increase in academic/postdoc (30.4%, 31.4%).
+    </p>
+
+    <p>
+      For detailed results, see 
+      <em>Gender Gap PhD STEM Analysis</em> (referenced in the original data).
+    </p>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-light text-center text-secondary py-3 mt-5">
+    <p style="margin-bottom: 0;">
+      &copy; <span id="year"></span> Gender Inequality in Economics PhD.
+      Created by Lea, Samantha, Amy, Chris, and Tracy.
+    </p>
+  </footer>
+
+  <!-- Optional Bootstrap JavaScript -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+  ></script>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

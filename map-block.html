@@ -1,0 +1,118 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<style>
+    #map { height: 600px; width: 100%; }
+    .university-icon {
+        background: #2c3e50;
+        border-radius: 50%;
+        width: 40px!important;
+        height: 40px!important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .custom-popup .leaflet-popup-content-wrapper {
+        border-radius: 8px;
+        padding: 12px;
+        box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    }
+    .custom-popup .leaflet-popup-tip {
+        width: 15px;
+        height: 15px;
+    }
+</style>
+
+<div id="map"></div>
+
+<script>
+    // Set the bounds for the United States (with tighter constraints)
+    const usBounds = L.latLngBounds(
+        L.latLng(25, -125), // Southwest corner (tighter to continental US)
+        L.latLng(50, -65)   // Northeast corner (tighter to continental US)
+    );
+
+    const map = L.map('map', {
+        minZoom: 4,         // Increased minimum zoom to keep focus on US
+        maxZoom: 8,         // Added maximum zoom for consistency
+        maxBounds: usBounds,
+        maxBoundsViscosity: 1.0
+    }).setView([37.8, -96], 5);  // Keeping the closer default view
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+    // Complete university data
+    const universities = [
+        {name: 'Harvard University', coords: [42.374443, -71.116943], abbr: 'HAR'},
+        {name: 'Massachusetts Institute of Technology (MIT)', coords: [42.360091, -71.094160], abbr: 'MIT'},
+        {name: 'Stanford University', coords: [37.427475, -122.169719], abbr: 'SU'},
+        {name: 'Princeton University', coords: [40.343404, -74.648591], abbr: 'PU'},
+        {name: 'University of California, Berkeley', coords: [37.871899, -122.258540], abbr: 'UCB'},
+        {name: 'University of Chicago', coords: [41.788610, -87.598713], abbr: 'UCHI'},
+        {name: 'Yale University', coords: [41.316324, -72.922343], abbr: 'YALE'},
+        {name: 'Northwestern University', coords: [42.056459, -87.675267], abbr: 'NU'},
+        {name: 'Columbia University', coords: [40.807536, -73.962573], abbr: 'COL'},
+        {name: 'University of Pennsylvania', coords: [39.952219, -75.193214], abbr: 'PENN'},
+        {name: 'New York University', coords: [40.729513, -73.996461], abbr: 'NYU'},
+        {name: 'University of California, Los Angeles (UCLA)', coords: [34.068921, -118.445181], abbr: 'UCLA'},
+        {name: 'University of Michigan, Ann Arbor', coords: [42.278044, -83.738224], abbr: 'UMICH'},
+        {name: 'California Institute of Technology (Caltech)', coords: [34.137658, -118.125269], abbr: 'CALTECH'},
+        {name: 'Cornell University', coords: [42.454323, -76.475266], abbr: 'COR'},
+        {name: 'University of California, San Diego (UCSD)', coords: [32.880060, -117.234014], abbr: 'UCSD'},
+        {name: 'University of Wisconsin, Madison', coords: [43.076592, -89.412487], abbr: 'UW'},
+        {name: 'Duke University', coords: [36.001426, -78.938230], abbr: 'DUKE'},
+        {name: 'University of Minnesota, Twin Cities', coords: [44.977753, -93.227728], abbr: 'UMN'},
+        {name: 'Brown University', coords: [41.826771, -71.402548], abbr: 'BROWN'},
+        {name: 'University of California, Davis', coords: [38.538232, -121.761712], abbr: 'UCD'},
+        {name: 'University of California, Merced', coords: [37.364176, -120.424422], abbr: 'UCM'},
+        {name: 'University of California, Riverside', coords: [33.973705, -117.328064], abbr: 'UCR'},
+        {name: 'University of California, Irvine', coords: [33.6404957, -117.8442962], abbr: 'UCI'},
+        {name: 'University of California, Santa Barbara (UCSB)', coords: [34.413963, -119.848946], abbr: 'UCSB'},
+        {name: 'University of California, Santa Cruz (UCSC)', coords: [37.000124, -122.062212], abbr: 'UCSC'},
+        {name: 'University of California, San Francisco (UCSF)', coords: [37.758000, -122.455100], abbr: 'UCSF'}
+    ];
+
+    universities.forEach(uni => {
+        const marker = L.marker(uni.coords, {
+            icon: L.divIcon({
+                className: 'university-icon',
+                html: uni.abbr,
+                iconSize: [40, 40]
+            })
+        }).addTo(map);
+
+        // Create custom popup content
+        const popupContent = `<div style="font-weight:bold; margin-bottom:8px;">${uni.name}</div>`;
+
+        // Configure popup options
+        const popup = L.popup({
+            className: 'custom-popup',
+            autoClose: false,
+            closeButton: false,
+            offset: [0, -20],
+            autoPan: false
+        }).setContent(popupContent);
+
+        // Click handler
+        marker.on('click', (e) => {
+            if (!marker.isPopupOpen()) {
+                marker.bindPopup(popup).openPopup();
+                // Close other popups when clicking new marker
+                map.eachLayer(layer => {
+                    if (layer instanceof L.Marker && layer !== marker) {
+                        layer.closePopup();
+                    }
+                });
+            } else {
+                marker.closePopup();
+            }
+        });
+
+        // Close popup when clicking map
+        map.on('click', () => {
+            marker.closePopup();
+        });
+    });
+</script>

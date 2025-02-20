@@ -1,0 +1,1 @@
+offset: [xOffset, yOffset] // [horizontal, vertical]

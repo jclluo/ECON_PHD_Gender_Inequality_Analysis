@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Data Processing</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Gender Inequality in Econ PhD</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Project Overview</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="institutions.html">Institutions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="data-processing.html">Data Processing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="code-guide.html">Code Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="analysis.html">Analysis</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <!-- MAIN CONTENT -->
+  <div class="container mt-4">
+    <h2 id="data-processing-steps">Data Processing Steps</h2>
+
+    <h3>Identifying the Attribute</h3>
+    <p>
+      Before gathering data, we first decided the targeted variables for each dataset:
+    </p>
+
+    <div class="table-responsive">
+      <table class="table table-striped table-bordered align-middle">
+        <thead class="table-dark">
+          <tr>
+            <th>Column Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>name</td>
+            <td>Full name</td>
+          </tr>
+          <tr>
+            <td>gender_guess</td>
+            <td>Gender using <code>gender_guesser</code></td>
+          </tr>
+          <tr>
+            <td>school_website</td>
+            <td>School website</td>
+          </tr>
+          <tr>
+            <td>field</td>
+            <td>Field of interest</td>
+          </tr>
+          <tr>
+            <td>paper_name</td>
+            <td>Job market paper name</td>
+          </tr>
+          <tr>
+            <td>paper_link</td>
+            <td>Link to job market paper</td>
+          </tr>
+          <tr>
+            <td>chair</td>
+            <td>Chair</td>
+          </tr>
+          <tr>
+            <td>committee_members</td>
+            <td>Committee members</td>
+          </tr>
+          <tr>
+            <td>year</td>
+            <td>Year of completion</td>
+          </tr>
+          <tr>
+            <td>university</td>
+            <td>University name</td>
+          </tr>
+          <tr>
+            <td>department</td>
+            <td>Department</td>
+          </tr>
+          <tr>
+            <td>cv_link</td>
+            <td>Link to CV</td>
+          </tr>
+          <tr>
+            <td>thesis</td>
+            <td>Dummy if thesis is downloaded</td>
+          </tr>
+          <tr>
+            <td>personal_website</td>
+            <td>Personal website</td>
+          </tr>
+          <tr>
+            <td>placement</td>
+            <td>Where candidates were placed</td>
+          </tr>
+          <tr>
+            <td>placement_type</td>
+            <td>Type of placement</td>
+          </tr>
+          <tr>
+            <td>academic</td>
+            <td>Dummy if <code>placement_type</code> is academic</td>
+          </tr>
+          <tr>
+            <td>postdoc</td>
+            <td>Dummy if placement was postdoc</td>
+          </tr>
+          <tr>
+            <td>gender_manual</td>
+            <td>Manual fixes for gender</td>
+          </tr>
+          <tr>
+            <td>thesis_name</td>
+            <td>Name of thesis</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>Data Scraping</h3>
+    <p>This table shows our result with retrieving the relevant data (omitted here for brevity).</p>
+
+    <h3>Data Cleaning</h3>
+    <p>
+      Here we merged all data into a single dataset, standardizing column names,
+      applying manual gender corrections, and removing duplicates.
+    </p>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-light text-center text-secondary py-3 mt-5">
+    <p style="margin-bottom: 0;">
+      &copy; <span id="year"></span> Gender Inequality in Economics PhD.
+      Created by Lea, Samantha, Amy, Chris, and Tracy.
+    </p>
+  </footer>
+  
+  <!-- Optional Bootstrap JavaScript -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+  ></script>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Code Guide</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Gender Inequality in Econ PhD</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Project Overview</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="institutions.html">Institutions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="data-processing.html">Data Processing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="code-guide.html">Code Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="analysis.html">Analysis</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <div class="container mt-4">
+    <h2>Code Guide</h2>
+    <h3>Data Scraping using Python</h3>
+    <p>
+      Below is a very brief overview of how data scraping works with Python.
+    </p>
+    <ol>
+      <li><strong>Import Required Packages</strong>:
+        <pre><code>
+import requests
+from bs4 import BeautifulSoup
+        </code></pre>
+      </li>
+      <li><strong>Fetch Webpage Content</strong>:
+        <pre><code>
+response = requests.get("https://example.com")
+html_content = response.text
+        </code></pre>
+      </li>
+      <li><strong>Parse HTML Content</strong>:
+        <pre><code>
+soup = BeautifulSoup(html_content, "html.parser")
+        </code></pre>
+      </li>
+      <li><strong>Extract Data</strong>:
+        <pre><code>
+data = soup.find_all('div', class_='data-class')
+        </code></pre>
+      </li>
+      <li><strong>Clean and Structure Data</strong>:
+        <p>Process extracted data into a structured format (e.g., lists or dictionaries).</p>
+      </li>
+      <li><strong>Save Data to CSV</strong>:
+        <pre><code>
+import pandas as pd
+df = pd.DataFrame(data)
+df.to_csv("output.csv", index=False)
+        </code></pre>
+      </li>
+    </ol>
+
+    <h4>Corresponding Files</h4>
+    <p>Please refer to the following table for scripts:</p>
+    <div class="table-responsive">
+      <table class="table table-striped table-bordered align-middle">
+        <thead class="table-dark">
+          <tr>
+            <th>School</th>
+            <th>File Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>NYU</td>
+            <td><code>NYU_code.py</code></td>
+            <td>Scrapes NYU JMC data and performs analysis.</td>
+          </tr>
+          <tr>
+            <td>UCB and UChicago</td>
+            <td><code>UCB_UCHICAGO_SCRAPE.ipynb</code></td>
+            <td>Scrapes JMC information and processes data.</td>
+          </tr>
+          <tr>
+            <td>UC Davis Economics PhD</td>
+            <td><code>UCD_EconPhD.ipynb</code></td>
+            <td>Extracts and processes Economics PhD data.</td>
+          </tr>
+          <tr>
+            <td>UC Davis Political Science PhD</td>
+            <td><code>UCD_PoliSciPhD.ipynb</code></td>
+            <td>Handles Political Science PhD data scraping and processing.</td>
+          </tr>
+          <tr>
+            <td>UC Merced Economics PhD</td>
+            <td><code>UCM_EconPhD.ipynb</code></td>
+            <td>Analyzes Economics PhD data.</td>
+          </tr>
+          <tr>
+            <td>UC Merced Political Science PhD</td>
+            <td><code>UCM_PoliSciPhD.ipynb</code></td>
+            <td>Scrapes and processes Political Science PhD data.</td>
+          </tr>
+          <tr>
+            <td>UCSD Business PhD</td>
+            <td><code>UCSD_BusinessPhD.ipynb</code></td>
+            <td>Analyzes Business PhD data.</td>
+          </tr>
+          <tr>
+            <td>UCSD Economics PhD</td>
+            <td><code>UCSD_EconPhD.ipynb</code></td>
+            <td>Extracts and cleans Economics PhD data.</td>
+          </tr>
+          <tr>
+            <td>UCSD Political Science PhD</td>
+            <td><code>UCSD_PoliSciPhD.ipynb</code></td>
+            <td>Analyzes Political Science PhD candidate data.</td>
+          </tr>
+          <tr>
+            <td>University of Chicago</td>
+            <td><code>chicago8.py</code></td>
+            <td>Processes PhD candidate information.</td>
+          </tr>
+          <tr>
+            <td>Northwestern Economics</td>
+            <td><code>nwecon2.py</code></td>
+            <td>Processes Economics candidate data.</td>
+          </tr>
+          <tr>
+            <td>Stanford</td>
+            <td><code>stanford.py</code></td>
+            <td>Scrapes PhD candidate data and extracts website links.</td>
+          </tr>
+          <tr>
+            <td>General-purpose</td>
+            <td><code>test6.py</code></td>
+            <td>Extracts data and performs processing.</td>
+          </tr>
+          <tr>
+            <td>University of Chicago (advanced)</td>
+            <td><code>u_chicago_v9.py</code></td>
+            <td>Handles advanced data processing for PhD candidates.</td>
+          </tr>
+          <tr>
+            <td>University of Pennsylvania Economics</td>
+            <td><code>upenn_econ.csv</code></td>
+            <td>Contains Economics PhD candidate data.</td>
+          </tr>
+          <tr>
+            <td>Yale</td>
+            <td><code>yale_econ_jm_candidates.ipynb</code></td>
+            <td>Script for current (2023-2024) Yale Economics PhD candidate website scraping.</td>
+          </tr>
+          <tr>
+            <td>Yale</td>
+            <td><code>yale_econ_jm_candidates_v2.ipynb</code></td>
+            <td>Script for past (2019-2022) Yale Economics PhD candidate website scraping.</td>
+          </tr>
+          <tr>
+            <td>Yale</td>
+            <td><code>yale_econ_jm_placements.ipynb</code></td>
+            <td>Script for Yale Economics PhD job placements.</td>
+          </tr>
+          <tr>
+            <td>Yale</td>
+            <td><code>yale_econ_jm_candidates_wayback_links.csv</code></td>
+            <td>CSV file with Wayback Machine links for past Yale Economics PhD candidates.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-light text-center text-secondary py-3 mt-5">
+    <p style="margin-bottom: 0;">
+      &copy; <span id="year"></span> Gender Inequality in Economics PhD.
+      Created by Lea, Samantha, Amy, Chris, and Tracy.
+    </p>
+  </footer>
+
+  <!-- Optional Bootstrap JavaScript -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+  ></script>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

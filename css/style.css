@@ -1,0 +1,342 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500&display=swap');
+
+:root {
+  --primary-dark: #1a2634;
+  --primary-light: #6e7f90;
+  --accent: #E74C3C;
+  --text-light: #ECF0F1;
+  --text-dark: #2C3E50;
+  --deep-purple: #987D9A;
+  --light-purple: #BB9AB1;
+  --soft-beige: #EECEB9;
+  --pale-yellow: #FEFBD8;
+  --gradient-mid: #243747;
+}
+
+/* Base styles */
+body {
+  background: linear-gradient(135deg, 
+    var(--primary-dark) 0%,
+    var(--gradient-mid) 60%,
+    var(--primary-light) 100%
+  );
+  color: var(--text-light);
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3, .navbar-brand {
+  font-family: 'Playfair Display', serif;
+}
+
+h3{
+  color: #FEFBD8;
+}
+
+p{
+  color: #ECF0F1;
+}
+
+h2{
+  color: #FEFBD8;
+}
+
+.work_des{
+  color: #FEFBD8;
+}
+
+/* navbar */
+.navbar {
+  backdrop-filter: blur(10px);
+  background-color: rgba(44, 62, 80, 0.85);
+  padding: 1rem 2rem;
+  transition: all 0.3s ease;
+}
+
+.navbar .navbar-brand.top-left-name {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--text-light);
+}
+
+.nav-link {
+  color: var(--text-light);
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.section {
+  background-color: var(--pale-yellow);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+html, body {
+  height: 100%; /* Ensure full height coverage */
+  width: 100%; /* Cover full width to avoid any horizontal scrolling */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+/* Updated styles for the About Me section */
+#about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  width: 100%;
+}
+
+#greeting {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 20px;
+  animation: slideUp 1.5s ease-out forwards; /* Apply the animation */
+}
+
+.img-thumbnail-container {
+  padding: 10px; /* Adds some padding around images */
+  display: flex; /* Ensures content is centered if needed */
+  justify-content: center; /* Center horizontally in the container */
+}
+
+.img-fluid {
+  width: 100%; /* Full width of their respective container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Image styling to maintain aspect ratio and cover the container */
+.img-thumbnail {
+  height: 100%;  /* Make image fill the container height */
+  width: auto;  /* Auto-adjust the width to maintain aspect ratio */
+  min-width: 100%;  /* Ensure the image covers the width */
+  object-fit: cover;  /* Cover the container maintaining aspect ratio without distortion */
+  transition: transform 0.5s ease;  /* Smooth transition for any transformations */
+  cursor: pointer;  /* Indicates the image can be interacted with */
+}
+
+.img-thumbnail:hover {
+  transform: scale(1.1); /* Scales up the image slightly on hover */
+}
+
+.mywork_title, .mywork_title_1 {
+  color: rgba(236, 240, 241, 0.1);
+  font-size: 12em;
+  text-align: left;
+  margin-top: 10%;
+  margin-bottom: -40px;
+  transition: all 0.3s ease;
+}
+
+.work-heading {
+  font-size: 2.2rem; 
+  color: #806A8A;
+  margin-bottom: 10px; /* Space between the heading and paragraph */
+  font-weight: bold;
+}
+
+.work-description {
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(4px);
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.work-image img {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: auto;
+}
+
+.work-image img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.row_work{
+  padding-top: 10%
+}
+
+.blinking-cursor {
+  border-right: 2px solid black; /* Simulates the blinking cursor */
+  animation: blink-animation 1s steps(2, start) infinite;
+}
+
+.imageLink{
+  color: #24292e;
+}
+
+.experience_title{
+  color: #E5E4E2;
+}
+
+.education_title{
+  color: #5E2750;
+}
+
+#skills ul {
+  list-style: none; /* Removes default list styling */
+  padding: 0; /* Removes default padding */
+}
+
+#skills li {
+  font-size: 16px; /* Adjusts font size */
+  margin-bottom: 10px; /* Space between items */
+  line-height: 24px; /* Ensures proper line spacing */
+}
+
+.fa-star {
+  margin-right: 10px; /* Adds space between the star icon and text */
+}
+
+.list-group-item {
+  background: rgba(255, 255, 255, 0.05);
+  border: none;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.list-group-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.background-title {
+  position: fixed;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5em;
+  color: rgba(255, 255, 255, 0.091); /* Very light for a watermark effect */
+  z-index: -1; /* Keep behind the content */
+  display: none; /* Start with hidden titles */
+}
+
+.highlight-img {
+  width: 300px;  /* Specify the width */
+  height: 300px; /* Specify the height */
+  object-fit: cover; /* Ensures the image covers the area without distorting aspect ratio */
+  display: block;  /* Ensures images are block-level elements */
+  margin: auto;    /* Centers the image if the parent container is larger */
+}
+
+.footer {
+  background-color: var(--primary-dark);
+  padding: 4rem 0;
+  margin-top: 8rem;
+}
+
+.footer a {
+  color: var(--text-light);
+  margin: 0 2rem;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+
+.footer a:hover {
+  opacity: 1;
+  transform: translateY(-3px);
+}
+
+.footer i {
+  font-size: 54px; 
+  transition: transform 0.3s ease; 
+}
+
+.footer a:hover i {
+  transform: scale(1.2); /* Slightly enlarge icons on hover */
+}
+
+.final-name{
+  font-size: 150px;
+  margin-top: 3%;
+}
+
+@keyframes blink-animation {
+  from { border-right-color: black; }
+  to { border-right-color: transparent; }
+}
+
+/* Blinking animation */
+@keyframes blink {
+  50% {
+      border-color: transparent;
+  }
+}
+#greeting {
+  animation: blink 0.75s step-end infinite;
+}
+
+@media (min-width: 992px) { /* Adjust based on the breakpoint at which your navbar expands */
+  .nav-link.others{
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+  }
+}
+
+@keyframes slideUp {
+  from {
+      transform: translateY(20%); /* Start from below the final position */
+      opacity: 0; /* Start with the text being transparent */
+  }
+  to {
+      transform: translateY(0); /* Move to the final position */
+      opacity: 1; /* Fully visible */
+  }
+}
+
+@media (min-width: 1200px) { /* Adjust this breakpoint as needed */
+  .container {
+      max-width: 1400px; /* Or any other width that suits your design */
+  }
+}
+@media (max-width: 768px) {
+  .mywork_title, .mywork_title_1 {
+    font-size: 8em;
+    margin-top: 15%;
+  }
+  
+  .work-image img {
+    height: 300px;
+  }
+  
+  .navbar-brand.top-left-name {
+    font-size: 2rem;
+  }
+  
+  .work-description {
+    padding: 1rem;
+  }
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s ease forwards;
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8" />
+    <title>Gender Inequality in Top 20 Economics PhD Programs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+
+
+  </style>
+</head>
+<body>
+ <!-- NAVBAR -->
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">
+        Gender Inequality in Econ PhD
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">Project Overview</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="institutions.html">Institutions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="data-processing.html">Data Processing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="code-guide.html">Code Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="analysis.html">Analysis</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <!-- MAIN CONTENT -->
+  <div class="container mt-4">
+    <h1 class="mb-4">
+      Overview of Possible Gender Inequality Among TOP 20 Economics PhD Programs
+    </h1>
+    <div id="map-container">
+        <iframe 
+            src="map-block.html" 
+            style="border:none; width:100%; height:650px;"
+            title="Universities Map"
+        ></iframe>
+    </div>
+
+
+    <section id="project-overview">
+      <h2>Project Overview</h2>
+      <h3>About</h3>
+      <p style="color: white;">
+        For this project, we collected comprehensive data on job market candidates from
+        the top 20 Economics PhD programs in the United States, including information on gender, fields
+        of study, and dissertation topics. Additionally, we gathered job placement data from the same 
+        institutions to analyze the employment outcomes (e.g., company or institution, position) of 
+        graduating PhD students.
+      </p>
+      <p style="color: white;">
+        Our analysis involved generating summary statistics and conducting regression analyses to
+        examine the relationship between gender and job placement outcomes.
+      </p>
+
+      <h3>Contributions</h3>
+      <ul>
+        <li>Lea Angelakos</li>
+        <li>Samantha Chan</li>
+        <li>Amy Dao</li>
+        <li>Chris Luo</li>
+        <li>Jia Yi (Tracy) Zhao</li>
+      </ul>
+    </section>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-light text-center text-secondary py-3 mt-5">
+    <p style="margin-bottom: 0;">
+      &copy; <span id="year"></span> Gender Inequality in Economics PhD.
+      Created by Lea, Samantha, Amy, Chris, and Tracy.
+    </p>
+  </footer>
+
+  <!-- Optional Bootstrap JavaScript -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+  ></script>
+  <script>
+    // Update footer year dynamically
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
