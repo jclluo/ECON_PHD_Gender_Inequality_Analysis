@@ -396,7 +396,92 @@ p {
 
 .analysis-section {
   margin: 3rem 0;
-  animation: fadeInUp 0.6s ease forwards;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--paper-2);
+}
+
+.subsection-header {
+  color: var(--accent-blue);
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent-coral);
+}
+
+.analysis-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.analysis-card:hover {
+  transform: translateY(-3px);
+}
+
+.card-title {
+  color: var(--primary-dark);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.graph-iframe {
+  width: 100%;
+  height: 400px;
+  border: none;
+  border-radius: 6px;
+}
+
+.trend-card .graph-iframe {
+  height: 500px;
+}
+
+.gender-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.gender-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+}
+
+.gender-card.female::before {
+  background: var(--deep-purple);  /* Using existing gender-pink variable */
+}
+
+.gender-card.male::before {
+  background: var(--light-purple);  /* Using existing gender-blue variable */
+}
+
+.graph-annotation {
+  padding: 1rem;
+  background: var(--paper-1);
+  margin-top: 1rem;
+  border-radius: 4px;
+}
+
+.trend-label {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+}
+
+.trend-label.female {
+  background: rgba(232,63,111,0.1);
+  color: var(--deep-purple);
+}
+
+.trend-label.male {
+  background: rgba(52,152,219,0.1);
+  color: var(--light-purple);
 }
 
 .stat-highlight {
@@ -671,5 +756,50 @@ pre {
 .alert-guide {
   background: var(--paper-1);
   border-left: 4px solid var(--accent-blue);
+  color: var(--slate-gray);
+}
+.full-view-container {
+  position: relative;
+  width: 100vw;
+  margin-left: -50vw;
+  left: 50%;
+  height: 120vh;
+  overflow: hidden;
+}
+.full-view-trend {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: var(--trend-height, 800px); /* Default 800px, can be overridden */
+}
+
+.full-view-trend .card-title {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+.full-view-graph {
+  flex: 1;
+  width: 100%;
+  border: none;
+  margin-bottom: 1rem;
+}
+
+.trend-note {
+  background: var(--paper-1);
+  border-left: 4px solid var(--accent-coral);
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.trend-note p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
   color: var(--slate-gray);
 }

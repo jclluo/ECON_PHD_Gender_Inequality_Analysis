@@ -70,63 +70,154 @@
   <!-- MAIN CONTENT -->
   <div class="analysis-page">
     <div class="academic-container">
-      <h2 class="section-header mb-4">Analysis Results</h2>
+      <h1 class="section-header mb-4">Analysis Results</h1>
+  
+      <!-- 1. Candidate Analysis Section -->
+      <section class="analysis-section">
+        <h2 class="subsection-header"><i class="fas fa-users"></i> Candidate Demographics</h2>
+        <div class="row g-4">
+          <!-- Main Trend Visualization -->
+          <div class="col-lg-8">
+            <div class="analysis-card full-view-trend" style="--trend-height: 1500px;">
+              <h3 class="card-title">PhD Candidate Trends Over Time</h3>
+              <iframe class="full-view-graph" src="source/output/graphs/candidates_trend.html"></iframe>
+              <div class="trend-note">
+                <p>This visualization shows the overall trends in PhD candidate demographics over time. The graph illustrates the changing composition of economics PhD candidates, highlighting important patterns in gender distribution across years.</p>
+              </div>
+            </div>
+          </div>
+  
+          <!-- Side Metrics -->
+          <div class="col-lg-4">
+            <div class="analysis-card metric-card">
+              <h3 class="card-title">Gender Distribution</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_distribution.html"></iframe>
+            </div>
+            
+            <div class="analysis-card metric-card">
+              <h3 class="card-title">Yearly Gender Ratio</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_ratio_by_year.html"></iframe>
+            </div>
+            
+            <div class="analysis-card metric-card">
+              <h3 class="card-title">Women's Percentage Trend</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/women_percentage_trend.html"></iframe>
+            </div>
+          </div>
+        </div>
+  
+        <!-- Institution Comparison -->
+        <div class="row g-4 mt-2">
+          <div class="col-md-6">
+            <div class="analysis-card">
+              <h3 class="card-title">UCR Gender Distribution</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/ucr_gender_distribution.html"></iframe>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="analysis-card">
+              <h3 class="card-title">Yale Gender Distribution</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/yale_gender_distribution.html"></iframe>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="analysis-card">
+            <div class="graph-annotation">
+              <p>The placement analysis reveals interesting patterns in how PhD candidates transition into various roles after graduation. The liquid flow chart shows the movement between different placement categories, while the yearly distribution highlights temporal trends in placement outcomes. Key observations include shifts in academic versus industry placements and geographical distribution of opportunities.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+  
+      <!-- 2. Placement Analysis Section -->
+      <section class="analysis-section">
+        <h2 class="subsection-header"><i class="fas fa-briefcase"></i> Placement Analysis</h2>
+        <div class="row g-4">
+          <div class="col-lg-8">
+            <div class="analysis-card">
+              <h3 class="card-title">Placement Distribution by Year</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/placement_distribution_by_year.html"></iframe>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="analysis-card">
+              <div class="graph-annotation">
+                <p>The placement analysis reveals interesting patterns in how PhD candidates transition into various roles after graduation. The liquid flow chart shows the movement between different placement categories, while the yearly distribution highlights temporal trends in placement outcomes. Key observations include shifts in academic versus industry placements and geographical distribution of opportunities.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="analysis-card">
+              <div class="graph-annotation">
+                <p>The placement analysis reveals interesting patterns in how PhD candidates transition into various roles after graduation. The liquid flow chart shows the movement between different placement categories, while the yearly distribution highlights temporal trends in placement outcomes. Key observations include shifts in academic versus industry placements and geographical distribution of opportunities.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-9">
+            <div class="analysis-card">
+              <h3 class="card-title">Placement Liquid Chart</h3>
+              <iframe class="graph-iframe" style="height: 600px; width: 100%;" src="source/output/graphs/placement_liquid.html"></iframe>
+            </div>
+          </div>
+          
+          
+          
 
-      <!-- 1. Trend in Candidates -->
-      <div class="academic-card mb-4">
-        <div class="academic-card-header">
-          <h3 class="card-title">1. Trend in Women Candidates</h3>
-        </div>
-        <div class="card-body">
-          <div class="graph-container">
-            <iframe src="source/output/graphs/women_percentage_trend.html" 
-                    style="border:none;"
-                    width="100%"
-                    height="400px">
-            </iframe>
-          </div>
-          <div class="trend-note">
-            <p>The graph shows the percentage of women candidates in Economics PhD programs over time, highlighting trends in gender representation.</p>
+          <div class="col-lg-12">
+            <div class="analysis-card">
+              <div class="graph-annotation">
+                <p>The placement analysis reveals interesting patterns in how PhD candidates transition into various roles after graduation. The liquid flow chart shows the movement between different placement categories, while the yearly distribution highlights temporal trends in placement outcomes. Key observations include shifts in academic versus industry placements and geographical distribution of opportunities.</p>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-
-      <!-- 2. Gender Distribution by University Ranking -->
-      <div class="academic-card mb-4">
-        <div class="academic-card-header">
-          <h3 class="card-title">2. Gender Distribution by University Ranking</h3>
-        </div>
-        <div class="card-body">
-          <div class="graph-container">
-            <iframe src="source/output/graphs/gender_by_ranking_combined_side_by_side.html"
-                    style="border:none;"
-                    width="100%"
-                    height="500px">
-            </iframe>
+      </section>
+  
+      <!-- 3. Ranking Analysis Section -->
+      <section class="analysis-section">
+        <h2 class="subsection-header"><i class="fas fa-chart-line"></i> Ranking Analysis</h2>
+        <div class="row g-4">
+          <div class="col-md-6">
+            <div class="analysis-card">
+              <h3 class="card-title">Gender Distribution by Ranking</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_by_ranking.html"></iframe>
+            </div>
           </div>
-          <div class="trend-note">
-            <p>Comparison of gender distribution across different university ranking brackets, showing both historical and recent (2021-2024) trends.</p>
+          
+          <div class="col-md-6">
+            <div class="analysis-card">
+              <h3 class="card-title">Holistic Ranking Analysis</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_by_ranking_holistic.html"></iframe>
+            </div>
           </div>
+  
+          <!-- Add more ranking analysis cards in similar structure -->
         </div>
-      </div>
-
-      <!-- Additional Analysis Sections -->
-      <div class="academic-card mb-4">
-        <div class="academic-card-header">
-          <h3 class="card-title">3. Placement Analysis</h3>
-        </div>
-        <div class="card-body">
-          <div class="table-wrapper">
-            <iframe src="source/output/tables/placement_by_university_year_placement_type.html"
-                    style="border:none;"
-                    width="100%"
-                    height="500px">
-            </iframe>
+      </section>
+  
+      <!-- 4. Gender-specific Placement Section -->
+      <section class="analysis-section">
+        <h2 class="subsection-header"><i class="fas fa-venus-mars"></i> Gender-specific Placements</h2>
+        <div class="row g-4">
+          <div class="col-lg-6">
+            <div class="analysis-card gender-card female">
+              <h3 class="card-title">Female Placement Flow</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_placement_flow_female.html"></iframe>
+            </div>
           </div>
+          
+          <div class="col-lg-6">
+            <div class="analysis-card gender-card male">
+              <h3 class="card-title">Male Placement Flow</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/gender_placement_flow_male.html"></iframe>
+            </div>
+          </div>
+  
+          <!-- Add transition visualizations -->
         </div>
-      </div>
+      </section>
     </div>
-  </div>
 
   <!-- FOOTER -->
   <footer class="bg-light text-center text-secondary py-3 mt-5">
@@ -141,6 +232,46 @@
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
   ></script>
   <script>
+    // Graph path variables
+    const GRAPHS = {
+      // Trend Analysis
+      candidatesTrend: "source/output/graphs/candidates_trend.html",
+      womenPercentageTrend: "source/output/graphs/women_percentage_trend.html",
+      genderRatioByYear: "source/output/graphs/gender_ratio_by_year.html",
+      
+      // Gender Distribution Analysis
+      genderDistribution: "source/output/graphs/gender_distribution.html",
+      ucrGenderDistribution: "source/output/graphs/ucr_gender_distribution.html",
+      yaleGenderDistribution: "source/output/graphs/yale_gender_distribution.html",
+      
+      // Ranking Analysis
+      genderByRanking: "source/output/graphs/gender_by_ranking.html",
+      genderByRankingHolistic: "source/output/graphs/gender_by_ranking_holistic.html",
+      genderByRankingRecent: "source/output/graphs/gender_by_ranking_recent.html",
+      genderByRankingCombined: "source/output/graphs/gender_by_ranking_combined.html",
+      genderByRankingCombinedSideBySide: "source/output/graphs/gender_by_ranking_combined_side_by_side.html",
+      genderByRankingCombinedSideBySideLast4Years: "source/output/graphs/gender_by_ranking_combined_side_by_side_last_4_years.html",
+      
+      // Placement Analysis
+      placementDistributionByYear: "source/output/graphs/placement_distribution_by_year.html",
+      placementLiquid: "source/output/graphs/placement_liquid.html",
+      rankingPlacementFlow: "source/output/graphs/ranking_placement_flow.html",
+      
+      // Gender-specific Placement Analysis
+      genderPlacementDistribution: "source/output/graphs/gender_placement_distribution.html",
+      genderPlacementFlowFemale: "source/output/graphs/gender_placement_flow_female.html",
+      genderPlacementFlowMale: "source/output/graphs/gender_placement_flow_male.html",
+      genderPlacementTransitionsFemale: "source/output/graphs/gender_placement_transitions_female.html",
+      genderPlacementTransitionsMale: "source/output/graphs/gender_placement_transitions_male.html"
+    };
+
+    // Table paths
+    const TABLES = {
+      placementByUniversityYear: "source/output/tables/placement_by_university_year.html",
+      placementByUniversityYearType: "source/output/tables/placement_by_university_year_placement_type.html"
+    };
+
+    
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
 </body>
