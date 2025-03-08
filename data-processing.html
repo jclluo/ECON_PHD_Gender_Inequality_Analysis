@@ -74,28 +74,28 @@
             <td>Gender using <code>gender_guesser</code></td>
           </tr>
           <tr>
-            <td>school_website</td>
-            <td>School website</td>
+            <td>gender</td>
+            <td>Manually corrected gender</td>
           </tr>
           <tr>
-            <td>field</td>
-            <td>Field of interest</td>
+            <td>placement</td>
+            <td>placement of the candidate</td>
           </tr>
           <tr>
-            <td>paper_name</td>
-            <td>Job market paper name</td>
+            <td>placement_type</td>
+            <td>Type of Placement/td>
           </tr>
           <tr>
-            <td>paper_link</td>
-            <td>Link to job market paper</td>
+            <td>academic</td>
+            <td>academic placement, binary variable</td>
           </tr>
           <tr>
-            <td>chair</td>
-            <td>Chair</td>
+            <td>private_company</td>
+            <td>private company placement, binary variable</td>
           </tr>
           <tr>
-            <td>committee_members</td>
-            <td>Committee members</td>
+            <td>government</td>
+            <td>government placement, binary variable</td>
           </tr>
           <tr>
             <td>year</td>
@@ -108,55 +108,148 @@
           <tr>
             <td>department</td>
             <td>Department</td>
-          </tr>
-          <tr>
-            <td>cv_link</td>
-            <td>Link to CV</td>
-          </tr>
-          <tr>
-            <td>thesis</td>
-            <td>Dummy if thesis is downloaded</td>
-          </tr>
-          <tr>
-            <td>personal_website</td>
-            <td>Personal website</td>
-          </tr>
-          <tr>
-            <td>placement</td>
-            <td>Where candidates were placed</td>
-          </tr>
-          <tr>
-            <td>placement_type</td>
-            <td>Type of placement</td>
-          </tr>
-          <tr>
-            <td>academic</td>
-            <td>Dummy if <code>placement_type</code> is academic</td>
-          </tr>
-          <tr>
-            <td>postdoc</td>
-            <td>Dummy if placement was postdoc</td>
-          </tr>
-          <tr>
-            <td>gender_manual</td>
-            <td>Manual fixes for gender</td>
-          </tr>
-          <tr>
-            <td>thesis_name</td>
-            <td>Name of thesis</td>
-          </tr>
+
         </tbody>
       </table>
     </div>
 
-    <h3>Data Scraping</h3>
-    <p>This table shows our result with retrieving the relevant data (omitted here for brevity).</p>
+    <h3>Data Availablility</h3>
+    <p>This table shows our result with retrieving the relevant data .</p>
+    <div class="table-wrapper">
+      <iframe src="source/output/tables/placement_by_university_year.html" 
+              style="border:none;"
+              width="100%"
 
+              height="500px">
+      </iframe>
+    </div>
+    
     <h3>Data Cleaning</h3>
     <p>
-      Here we merged all data into a single dataset, standardizing column names,
-      applying manual gender corrections, and removing duplicates.
+      We first cleaned the data by removing duplicates and applying manual gender corrections. Here is a preview of the cleaned data:
     </p>
+    
+    <div class="table-wrapper">
+      <div class="table-responsive">
+        <table class="table table-special">
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Name</th>
+              <th>Placement</th>
+              <th>University</th>
+              <th>Department</th>
+              <th>Placement Type</th>
+              <th>Gender</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>2024</td>
+              <td>Jenna Anders</td>
+              <td>University of Virginia Batten</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>female</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Martin Aragoneses</td>
+              <td>INSTEAD</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>private_company</td>
+              <td>male</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Michael Blank</td>
+              <td>Stanford University, Graduate School of Business</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>male</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Phoebe Cai</td>
+              <td>Link Logistics Real Estate</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>private_company</td>
+              <td>female</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Romaine Campbell</td>
+              <td>Cornell Brooks Policy School</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>female</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Jiafeng Chen</td>
+              <td>Stanford University</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>male</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Antonio Coran</td>
+              <td>Bank of Italy</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>government</td>
+              <td>male</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Veronica DeFalco</td>
+              <td>Imperial College of London</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>female</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Pedro Degiovanni</td>
+              <td>Charles River Associates</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>private_company</td>
+              <td>male</td>
+            </tr>
+            <tr>
+              <td>2024</td>
+              <td>Michael Droste</td>
+              <td>University of Southern California</td>
+              <td>Harvard University</td>
+              <td>Economics</td>
+              <td>academic</td>
+              <td>male</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <h3>Tabular Data</h3>
+    <p>
+      Here is a tabular data that shows the placement for each university and year. Including the gender composition.
+    <div class="table-wrapper">
+      <iframe src="source/output/tables/placement_by_university_year_placement_type.html" 
+              style="border:none;"
+              width="100%"
+              
+              height="500px">
+      </iframe>
+    </div>
   </div>
 
   <!-- FOOTER -->

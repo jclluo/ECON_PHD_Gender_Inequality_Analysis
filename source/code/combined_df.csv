@@ -1,0 +1,1601 @@
+year,name,placement,ranking,university,department,placement_type,academic,private_company,government,gender_guesser,gender
+2024,Jenna Anders,University of Virginia Batten,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Martin Aragoneses,INSTEAD,1,Harvard University,Economics,private_company,0,1,0,male,male
+2024,Michael Blank,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2024,Phoebe Cai,Link Logistics Real Estate,1,Harvard University,Economics,private_company,0,1,0,female,female
+2024,Romaine Campbell,Cornell Brooks Policy School,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Jiafeng Chen,Stanford University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Antonio Coran,Bank of Italy,1,Harvard University,Economics,government,0,0,1,male,male
+2024,Veronica DeFalco,Imperial College of London,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Pedro Degiovanni,Charles River Associates,1,Harvard University,Economics,private_company,0,1,0,male,male
+2024,Michael Droste,University of Southern California,1,Harvard University,Economics,academic,1,0,0,male,male
+2024,Adriano Fernandes,IMF,1,Harvard University,Economics,government,0,0,1,male,male
+2024,Robert Fluegge,Hoover Institution,1,Harvard University,Economics,academic,1,0,0,male,male
+2024,Shresth Garg,University of Pennsylvania,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Benjamin Goldman,Cornell Brooks Policy School,1,Harvard University,Economics,academic,1,0,0,male,male
+2024,Peter Hickman,Open Philanthropy,1,Harvard University,Economics,private_company,0,1,0,male,male
+2024,Kathryn Holston,"Bank of England, Monetary Policy Outlook Division",1,Harvard University,Economics,government,0,0,1,female,female
+2024,Yihong Huang,Peking University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Ronak Jain,University of Zurich,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Sean Lee,Squarepoint Capital,1,Harvard University,Economics,private_company,0,1,0,male,male
+2024,Ziqi Lu,Jinan University,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2024,Angela Ma,"Boston College, Carroll School of Management",1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Danila Maroz,Amazon,1,Harvard University,Economics,private_company,0,1,0,male,male
+2024,Francesca Miserocchi,Tilburg University,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Dev Patel,Brown University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Louise Paul-Delvaux,World Bank,1,Harvard University,Economics,government,0,0,1,female,female
+2024,Kunal Sangani,Northwestern University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Brit Sharoni,University of Michigan Ross,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Clara Sievert,CERGE-EI,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Benjamin Sprung-Keyser,University of Pennsylvania Wharton BEPP,1,Harvard University,Economics,academic,1,0,0,male,male
+2024,Yulu Tang,London School of Economics and Political Science,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2024,Alice Wu,University of Wisconsin,1,Harvard University,Economics,academic,1,0,0,female,female
+2024,Hanbin Yang,London Business School,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2024,Chika Okafor,Northwestern Law School,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Angie Acquatella,University of Toulouse,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Arielle Bernhardt,New York University,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,John Conlon,Carnegie Mellon,1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Elizabeth Engle,Macalester College,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Matthew Ferranti,U.S. Intelligence Community,1,Harvard University,Economics,government,0,0,1,male,male
+2023,Ariel Gomez,Northeastern University Postdoc,1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Spencer Yongwook Kwon,Brown University,1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Francois-Xavier Ladant,Northwestern University Kellogg - Postdoc,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2023,Shushu Liang,Two Sigma,1,Harvard University,Economics,private_company,0,1,0,unknown,female
+2023,Chang Liu,"The University of New South Wales, Sydney",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2023,Armando Miano,University of Naples Federico II,1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Robert Minton,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2023,Erica Moszkowski,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2023,Ayushi Narayan,Federal Reserve Bank of Minneapolis,1,Harvard University,Economics,government,0,0,1,unknown,female
+2023,Daniel Ramos-Menchelli,"Johns Hopkins University, School of Advanced International Studies",1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Rodolfo Rigato,European Central Bank,1,Harvard University,Economics,government,0,0,1,male,male
+2023,Giorgio Saponaro,Graham Capital Management,1,Harvard University,Economics,private_company,0,1,0,male,male
+2023,Sagar Saxena,"University of Pennsylvania, The Wharton School",1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Awa Ambra Seck,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Yin Wei Soon,NERA,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2023,Johnny Tang,"Cornell University, SC Johnson College of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Audrey Tiew,New York University,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Myles Wagner,Ohio State University,1,Harvard University,Economics,academic,1,0,0,male,male
+2023,Anthony Yu,RAND,1,Harvard University,Economics,private_company,0,1,0,male,male
+2023,Ran Zhuo,"University of Michigan, Ross School of Business",1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2023,John Macke,Give Well,1,Harvard University,Economics,private_company,0,1,0,male,male
+2023,Benjamin Niswonger,Amazon Pharmacy,1,Harvard University,Economics,private_company,0,1,0,male,male
+2023,Hannah Shaffer,Harvard Law School,1,Harvard University,Economics,academic,1,0,0,female,female
+2023,Zoe Hitziq,Harvard Society of Fellows,1,Harvard University,Economics,academic,1,0,0,female,female
+2022,Alex Albright,Federal Reserve Bank of Minneapolis,1,Harvard University,Economics,government,0,0,1,male,male
+2022,Sarah Armitage,Boston University,1,Harvard University,Economics,academic,1,0,0,female,female
+2022,Francesca Bastianello,University of Chicago-Booth,1,Harvard University,Economics,academic,1,0,0,female,female
+2022,Justin Bloesch,Cornell University (Columbia post-doc 2022-23),1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Antonio Coppola,"Stanford University, GSB",1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Lydia Cox,University of Wisconsin (Cowles post-doc 2022-23),1,Harvard University,Economics,academic,1,0,0,female,female
+2022,Enrico Di Gregorio,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,male,male
+2022,Evgenii Fadeev,Harvard Business School Post-doc,1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Jiacheng Feng,Jane Street,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2022,Paul Fontanier,Yale School of Management,1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Riako Granzier,Uber,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2022,Ravi Jagadeesan,"Stanford University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2022,Felipe Jordan,Universidad Católica de Chile,1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Gabriel Koningberg,Amazon,1,Harvard University,Economics,private_company,0,1,0,male,male
+2022,Matthew Lilley,Australian National University,1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Lucas De Lima,PUC Rio (Toronto Postdoc),1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Tianwang Liu,Uber,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2022,Frank Pinter,Federal Trade Commission,1,Harvard University,Economics,government,0,0,1,male,male
+2022,Ashesh Rambachan,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2022,Hillary Stein,Boston Federal Reserve,1,Harvard University,Economics,government,0,0,1,female,female
+2022,Brandon Tan,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,male,male
+2022,Jonathan Tebes,University of Notre Dame,1,Harvard University,Economics,academic,1,0,0,male,male
+2022,Mattie Toma,Warwick Business School,1,Harvard University,Economics,academic,1,0,0,female,female
+2022,Mariia Voronina,Keystone,1,Harvard University,Economics,private_company,0,1,0,unknown,female
+2022,Jeffrey Wang,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2022,Ron Yang,University of British Columbia - Sauder School of Business (Stanford GSB post-doc 2022-2023),1,Harvard University,Economics,academic,1,0,0,male,male
+2022,David Zhang,Rice University - Jones School of Business,1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Angie Acquatella,Boston University-Questrom Post-doc,1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Eric Andersen,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2021,Augustin Bergeron,University of Southern California,1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Vu Chau,IMF,1,Harvard University,Economics,government,0,0,1,mostly_male,mostly_male
+2021,Stephanie Cheng,Edgeworth Economics,1,Harvard University,Economics,private_company,0,1,0,female,female
+2021,Krishna Dasaratha,Boston University,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2021,Natalia Emanuel,Federal Bank Reserve of New York,1,Harvard University,Economics,government,0,0,1,female,female
+2021,Emma Harrington,University of Iowa,1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Celena Huo,Upwork,1,Harvard University,Economics,private_company,0,1,0,female,female
+2021,Peter Maxted,University of California Berkeley-Haas,1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Giselle Montamat,Uber,1,Harvard University,Economics,private_company,0,1,0,female,female
+2021,Sarah Ridout,Vanderbilt University,1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Nicola Rosaia,Columbia University Graduate School of Business,1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Andreas Schaab,Toulouse School of Economics,1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Gregor Schubert,"University of California, Los Angeles - Anderson",1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Karen Shen,"John Hopkins, Bloomberg School of Public Health",1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Anna Stansbury,MIT Sloan School of Management,1,Harvard University,Economics,academic,1,0,0,female,female
+2021,Patricia Sun,Uber,1,Harvard University,Economics,private_company,0,1,0,female,female
+2021,Brian Wheaton,"University of California, Los Angeles - Anderson",1,Harvard University,Economics,academic,1,0,0,male,male
+2021,Yang You,Hong Kong University,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2021,Allen Zhang,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2021,Kirsten Clinton,Anaylsis Group,1,Harvard University,Economics,private_company,0,1,0,female,female
+2021,Rishab Guha,Amazon,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2021,Josh Hurwitz,American Road & Transportation Builders Association,1,Harvard University,Economics,private_company,0,1,0,male,male
+2021,Andrew Lilly,Facebook,1,Harvard University,Economics,private_company,0,1,0,male,male
+2021,Samuel Lite,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2020,Lisa Abraham,Rand,1,Harvard University,Economics,private_company,0,1,0,female,female
+2020,Edoardo Acabbi,Charles III University of Madrid,1,Harvard University,Economics,academic,1,0,0,male,male
+2020,Omar Barbiero,Boston Federal Reserve,1,Harvard University,Economics,government,0,0,1,male,male
+2020,Alex Bell,California Policy Lab at UCLA Post Doc,1,Harvard University,Economics,academic,1,0,0,male,male
+2020,Sophie Calder-Wang,"University of Pennsylvania, Wharton",1,Harvard University,Economics,academic,1,0,0,female,female
+2020,Moya Chin,IMF,1,Harvard University,Economics,government,0,0,1,female,female
+2020,Chris Clayton,Yale SOM,1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2020,Paulo Costa,Vanguard,1,Harvard University,Economics,private_company,0,1,0,male,male
+2020,Xiang Ding,Georgetown School of Foreign Services,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2020,Jetlir Duraj,University of Pittsburgh Post Doc,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2020,Nir Hak,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2020,Taehoon Kim,IMF,1,Harvard University,Economics,government,0,0,1,unknown,male
+2020,Alejandro Lagomarsino,Uber,1,Harvard University,Economics,private_company,0,1,0,male,male
+2020,David Martin,Harvard University Lecturer,1,Harvard University,Economics,academic,1,0,0,male,male
+2020,Sanjay Misra,Joint Committee on Taxation,1,Harvard University,Economics,government,0,0,1,male,male
+2020,Andrea Passalacqua,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2020,Tzachi Raz,Hebrew University of Jerusalem,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2020,Jon Roth,Brown University,1,Harvard University,Economics,academic,1,0,0,male,male
+2020,Elisa Rubbo,"University of Chicago, Booth",1,Harvard University,Economics,academic,1,0,0,female,female
+2020,Priya Shanmugam,Mathematica,1,Harvard University,Economics,private_company,0,1,0,female,female
+2020,Rob Siliciano,"Boston College, Center for Retirement Research",1,Harvard University,Economics,academic,1,0,0,male,male
+2020,Michael Thaler,Princeton Economics Post Doc,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Christopher Anderson,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2019,Valentin Bolotnyy,Hoover Institution,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Vitaly Bord,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2019,William Bruno,"Postdoc - University of Pennsylvania, Department of Computer and Information Science",1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Sarita Bunsupha,McKinsey,1,Harvard University,Economics,private_company,0,1,0,female,female
+2019,Ruiqing Cao,NBER post doc,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2019,Ashley Craig,University of Michigan,1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2019,Oren Danieli,Tel-Aviv University,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Ellora Derenoncourt,University of California - Berkeley,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2019,Ashvin Gandhi,UCLA - Anderson School of Management,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2019,Siddharth George,Dartmouth University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2019,Kevin He,University of Pennsylvania,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Yizhou Jin,University of California - Berkeley post-doc,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2019,Yosub Jung,Analysis Group,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2019,Weiling Liu,Northeastern University,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2019,Matteo Paradisi,EIEF Rome,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Michael Reher,"University of California, San Diego-Rady School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Silvia Robles,Mathematica,1,Harvard University,Economics,private_company,0,1,0,female,female
+2019,Janelle Schlossberger,MIT post-doc,1,Harvard University,Economics,academic,1,0,0,female,female
+2019,Eduard Talamas,IESE Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Linh Tô,Boston University,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2019,Argyris Tsiaras,Cambridge Judge Business School post-doc,1,Harvard University,Economics,academic,1,0,0,male,male
+2019,Shoshana Vasserman,Stanford Graduate School of Business,1,Harvard University,Economics,academic,1,0,0,female,female
+2019,Chenzi Xu,Stanford University - Graduate School of Business,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2019,He Yang,Amazon,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2019,Jessica Liu,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,female,female
+2019,Natasha Sarin,University of Pennsylvania Law School,1,Harvard University,Economics,academic,1,0,0,female,female
+2018,Laura Blattner,Stanford Graduate Business School,1,Harvard University,Economics,academic,1,0,0,female,female
+2018,Kirill Borusyak,University College London(Princeton post doc 2018-19),1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Brian Chen,Goldman Sachs - Macro Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,David Choi,Goldman Sachs,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,John Coglianese,Federal Reserve Board of Governors,1,Harvard University,Economics,government,0,0,1,male,male
+2018,Alonso de Gortari,Dartmouth (IES post doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Anastassia Fedyk,UC Berkeley-Haas,1,Harvard University,Economics,academic,1,0,0,female,female
+2018,Josh Feng,NBER post-doc,1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Andrew Garin,University of Illinois-Urbana Champagne(NBER post doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Nathaniel Hipsman,Cornerstone,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Eben Lazarus,MIT Sloan,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2018,Seunghyup Lee,Cornerstone,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2018,Daniel Lewis,Federal Reserve Bank of New York,1,Harvard University,Economics,government,0,0,1,male,male
+2018,Jonathan Libgober,University of Southern California (Columbia post-doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Patrick  Luo,Farallon Capital,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Yueran Ma,University of Chicago-Booth,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2018,Luca Maini,University of North Carolina - Chapel Hill,1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Elizabeth Mishkin,Uber,1,Harvard University,Economics,private_company,0,1,0,female,female
+2018,Eduardo Montero,University of Michigan - Ford,1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Xiaosheng Mu,Columbia Econ(Yale Cowles post-doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,unknown,male
+2018,Heather Sarsons,University of Chicago - Booth(Univ of Toronto post-doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,female,female
+2018,Jann Spiess,Stanford graduate Business School (MSR post-doc 2018-2019),1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Edoardo Teso,Northwestern Kellogg MEDS,1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Neil Thakral,Brown,1,Harvard University,Economics,academic,1,0,0,male,male
+2018,Peter Tu,Facebook,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Wentao Xiong,Goldman Sachs - London,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2018,Egor Abramov,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Yuxiao Huang,Analysis Group,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2018,Michael Kincaid,Bain & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Elizabeth Santorella,QuantCo.,1,Harvard University,Economics,private_company,0,1,0,female,female
+2018,Alexander Segura,Boston Consulting Group,1,Harvard University,Economics,private_company,0,1,0,male,male
+2018,Carmen Wang,Uber,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Mitra Akhtari,Air BnB,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Thummim Cho,"London School of Economics, Department of Finance",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2017,Aubrey Clark,University of Cambridge,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2017,William Diamond,"University of Pennsylvania, Wharton Finance Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Wei Huang,National University of Singapore,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2017,Xavier Jaravel,London School of Economics,1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Marc Kaufmann,Central European University,1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Jessica Laird,Mathematica,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Danial Lashkari,"Boston College, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Jing Li,"MIT- Sloan School of Management, Applied Economics",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2017,Sara Lowes,Bocconi University,1,Harvard University,Economics,academic,1,0,0,female,female
+2017,Diana Moreira,"University of California, Davis, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2017,Jisung Park,"UCLA, School of Public Policy and Public Health",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2017,Pascal Noel,"University Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Gleb Romanyuk,Amazon,1,Harvard University,Economics,private_company,0,1,0,male,male
+2017,Stas Sokolinski,"Rutgers University, Rutgers Business School",1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Karen Stockley,Congressional Budget Office,1,Harvard University,Economics,government,0,0,1,female,female
+2017,Mingzhu Tai,University of Hong Kong,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2017,Laura Trucco,Amazon,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Jack Willis,"Columbia University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2017,Elaine Chung,Spotify,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Gordon Liao,Cambridge Square Capital,1,Harvard University,Economics,private_company,0,1,0,male,male
+2017,Stephanie Lo,Boston Consulting Group,1,Harvard University,Economics,private_company,0,1,0,female,female
+2017,Vijay Narasiman,Lyft,1,Harvard University,Economics,private_company,0,1,0,mostly_male,mostly_male
+2017,Kevin Pan,Goldman Sachs,1,Harvard University,Economics,private_company,0,1,0,male,male
+2017,Daniel Pollmann,QuantCo.,1,Harvard University,Economics,private_company,0,1,0,male,male
+2017,Aurelie Ouss,"University of Pennsylvania, Department of Criminology",1,Harvard University,Economics,academic,1,0,0,female,female
+2017,Alexandra Roulet,INSEAD,1,Harvard University,Economics,academic,1,0,0,female,female
+2017,Ryan Sakoda,"Committee for Public Counsel Services, Boston",1,Harvard University,Economics,government,0,0,1,mostly_male,mostly_male
+2017,Jing Xia,Cornerstone,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2016,Samuel Asher,"World Bank, Research Unit",1,Harvard University,Economics,government,0,0,1,male,male
+2016,Lorenzo Casaburi,"University of Zurich, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Elizabeth Cook-Stuntz,Amazon,1,Harvard University,Economics,private_company,0,1,0,female,female
+2016,James Feigenbaum,Boston University,1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Peter Ganong,"University of Chicago, Harris School of Public Policy",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Ryota Iijima,"Yale, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Simon Jaeger,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Sangram Kadam,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2016,Rohan Kekre,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Divya Kirti,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,female,female
+2016,Annie Liang,"University of Pennsylvania, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2016,Guilherme Lichand,"University of Zurich, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Benjamin Lockwood,"University of Pennsylvania, Wharton BEPP",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Filippo Mezzanotti,"Northwestern University, Kellogg School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Vladimir Mukharlyamov,Georgetown University,1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Mikkel Plagborg-Møller,"Princeton, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Guillaume Pouliot,"University of Chicago, Harris School of Public Policy",1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Thomas Powers,Dodge & Cox,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Francisco Queiro,Nova School of Business and Economics,1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Jonathan Rhinesmith,Jane Street,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Bryce Steinberg Millet,Brown University,1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2016,Daniel Sullivan,Resources for the Future,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Kentaro Tomoeda,University of Technology-Sydney,1,Harvard University,Economics,academic,1,0,0,male,male
+2016,Gal Wettstein,Office of Tax Analysis-Treasury Department,1,Harvard University,Economics,government,0,0,1,male,male
+2016,Yao Zeng,"University of Washington, Foster School of Business",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2016,John Zhou,Key Square Group,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Tilman Dette,QuantCo,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Yang Du,McKinsey & Company,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2016,Michael Egesdal,Air BnB,1,Harvard University,Economics,private_company,0,1,0,male,male
+2016,Zhaoning Wang,Analysis Group,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2016,Lilei Xu,Air BnB,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2015,David Baqaae,London School of Economics,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Gregory Bruich,Harvard University-Lecturer/Advisor,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Itzik Fadlon,"UC San Diego, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Paul Goldsmith-Pinkham,New York Federal Reserve,1,Harvard University,Economics,government,0,0,1,male,male
+2015,Rezwan Haque,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2015,Benjamin Hebert,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Daisuke Hirata,Hitotubashi University,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Sabrina Howell,"New York University, Stern School of Business",1,Harvard University,Economics,academic,1,0,0,female,female
+2015,Sonia Jaffe,Becker Friedman Institute,1,Harvard University,Economics,academic,1,0,0,female,female
+2015,Akos Lada,Facebook,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2015,James Lee,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2015,James Mahon,Deloitte Consulting,1,Harvard University,Economics,private_company,0,1,0,male,male
+2015,Martin Rotemberg,"New York University, Stern School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,László Sándor,Luxembourg School of Finance,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Frank Schilbach,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Benjamin Schoefer,"UC Berkeley, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Jesse Schreger,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Mark Shepard,Harvard Kennedy School,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Ran Shorrer,Pennsylvania State University,1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2015,Thomas Wollmann,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,David Yang,"University of California Irvine, Paul Mirage School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Fanyin Zheng,Columbia Business School,1,Harvard University,Economics,academic,1,0,0,unknown,female
+2015,Tom Zimmerann,Federal Reserve Board of Governors,1,Harvard University,Economics,government,0,0,1,male,male
+2015,Oren Ziv,Michigan State University,1,Harvard University,Economics,academic,1,0,0,male,male
+2015,Zhenyu Lai,Wayfair,1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2015,David Smalling,Ellington Management Group,1,Harvard University,Economics,private_company,0,1,0,male,male
+2014,Thomas Barrios,TrueCar,1,Harvard University,Economics,private_company,0,1,0,male,male
+2014,Daniel Bjorkegren,"Brown University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Julia Cage,Sciences Po,1,Harvard University,Economics,academic,1,0,0,female,female
+2014,Eduardo Davila,"New York University, Stern School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Adam Guren,"Boston University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Yuhta Ishii,Instituto Tecnológico Autónomo de México,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2014,Tao Jin,Tsinghua University,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2014,Charles Nathanson,"Northwestern University, Kellogg School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Ricardo Perez-Truglia,"University of California Los Angeles, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Matthew Resseger,Boston Redevelopment Authority,1,Harvard University,Economics,government,0,0,1,male,male
+2014,Anitha Sivasankaran,Mathematica,1,Harvard University,Economics,private_company,0,1,0,female,female
+2014,Jenny Tang,Boston Federal Reserve Bank,1,Harvard University,Economics,government,0,0,1,female,female
+2014,Danny Yagan,"UC Berkeley, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Catherine Barrera,"Cornell University, Johnson School of Management",1,Harvard University,Economics,academic,1,0,0,female,female
+2014,Thomas Covert,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Raluca Dragusanu,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2014,Samuel Kruger,"University of Texas-Austin, McCombs School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Heather Schofield,"University of Pennsylvania, Perelman School of Medicine",1,Harvard University,Economics,academic,1,0,0,female,female
+2014,Dmitry Taubinsky,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Eric Zwick,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Joana Naritomi,"London School of Economics, International Development",1,Harvard University,Economics,academic,1,0,0,female,female
+2014,Arash Nekoei,"Stockholm University, Institute for International Economic Studies",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Johann Blauth,"Harvard Medical School, Massachusetts General Hospital",1,Harvard University,Economics,academic,1,0,0,male,male
+2014,Emily Glassberg Sands,Coursera,1,Harvard University,Economics,private_company,0,1,0,female,female
+2014,Thomas Gole,Boston Consulting Group,1,Harvard University,Economics,private_company,0,1,0,male,male
+2014,Tristan Reed,McKinsey & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2014,Charles-Henri Weymuller,"Treasury Department, France",1,Harvard University,Economics,government,0,0,1,unknown,male
+2014,Fan Zhang,PrepScholar Online Education,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2013,Nikhil Agarwal,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Marcella Alsan,"Stanford University, School of Medicine",1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Steve Cicala,"University of Chicago, Harris School of Public Policy Studies",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Adam Clark-Joseph,"University of Illinois at Urbana-Champaign, Department of Finance",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Rebecca Diamond,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Wenxin Du,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,unknown,male
+2013,Eunice Sookyung Han,University of Utah,1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Nathanial Hilger,"Brown University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Jisoo Hwang,Bank of Korea,1,Harvard University,Economics,government,0,0,1,unknown,female
+2013,Michal Kolesar,"Princeton University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Timothy McQuade,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Johanna Mollerstrom,George Mason University,1,Harvard University,Economics,academic,1,0,0,female,female
+2013,José Luis Olea Montiel,"New York University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Benjamin Ranish,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2013,Anil Somani,Deloitte Consulting,1,Harvard University,Economics,private_company,0,1,0,male,male
+2013,Vania Stavrakeva,London Business School,1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Troiano Ugo,"University of Michigan, Department of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2013,Crystal Yang,Harvard Law School,1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Stephanie Hurder,"University of Michigan, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2013,Benjamin Iverson,"Northwestern University, Kellogg Schoool of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Julian Kolev,"Southern Methodist University, Cox School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Scott Kominers,"Society of Fellows, Harvard University",1,Harvard University,Economics,academic,1,0,0,male,male
+2013,Hoan Soo Lee,"Tsinghua University, School of Economics and Management",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2013,Anna Milanez,Deloitte Consulting,1,Harvard University,Economics,private_company,0,1,0,female,female
+2013,Paul Novosad,"Dartmouth, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Ruchir Agarwal,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,unknown,male
+2012,Arturo Aguilar,Instituto Tecnológico Autónomo de México,1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Eduardo Azevedo,"University of Pennsylvania, Wharton Business and Public Policy Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Catherine Baldiga,Ohio State University,1,Harvard University,Economics,academic,1,0,0,female,female
+2012,Ian Dew-Becker,"Northwestern University, Kellogg School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Melissa Eccleston,World Bank,1,Harvard University,Economics,government,0,0,1,female,female
+2012,Michal Fabinger,Pennsylvania State University,1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Joshua Gottlieb,University of British Columbia,1,Harvard University,Economics,academic,1,0,0,male,male
+2012,David Hemous,INSEAD,1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Yuichiro Kamada,"UC-Berkeley, Haas School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Neel Rao,The State University of New York,1,Harvard University,Economics,academic,1,0,0,female,female
+2012,Dana Rotz,Mathematica,1,Harvard University,Economics,private_company,0,1,0,female,female
+2012,Dorothee Rouzet,OECD,1,Harvard University,Economics,government,0,0,1,female,female
+2012,Andrea Stella,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2012,Stan Veuger,American Enterprise Institute,1,Harvard University,Economics,private_company,0,1,0,male,male
+2012,Shai Bernstein,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Jacob Leshno,"Columbia University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Hongyi Li,University of New South Wales,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2012,Carolin Pflueger,"University of British Columbia, Sauder School of Business",1,Harvard University,Economics,academic,1,0,0,female,female
+2012,Michael Sinkinson,"University of Pennsylvania, Wharton Business and Public Policy Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Supreet Kaur,"Columbia University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,female
+2012,Elizabeth Greenwood,Boston Consulting Group,1,Harvard University,Economics,private_company,0,1,0,female,female
+2012,Lauren Merrill,Boston Consulting Group,1,Harvard University,Economics,private_company,0,1,0,mostly_female,mostly_female
+2012,Holger Spamann,Harvard Law School,1,Harvard University,Economics,academic,1,0,0,male,male
+2012,Kjell Carlsson,Wilson Perumal & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2012,Tim Ganser,McKinsey & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2011,Jeffrey Clemens,"University of San Diego, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Deepa Dhume,"Federal Reserve Board, International Division",1,Harvard University,Economics,government,0,0,1,female,female
+2011,"Keith Ericson, Marzilli M.","Boston University, School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Andreas Fuster,"Federal Reserve Bank, Research Department",1,Harvard University,Economics,government,0,0,1,male,male
+2011,Stefano Giglio,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Naomi Hausman,"Hebrew University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2011,Shih En Lu,"Simon Fraser University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2011,Eduardo Morales,"Columbia University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Chris Nosko,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2011,Morten Olsen,Instituto de Estudios Superiores de la Empresa (IESE),1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Dina Pomeranz,"Harvard Business School, Entrepreneurial Management Unit",1,Harvard University,Economics,academic,1,0,0,female,female
+2011,Thomas Sampson,London School of Economics,1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Daniel Shoag,"Harvard University, Kennedy School of Government",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Kelly Shue,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2011,Richard Towsend,"Dartmouth College, Tuck School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Jose Ursua,Goldman Sachs,1,Harvard University,Economics,private_company,0,1,0,male,male
+2011,Tom Vogl,"Princeton University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Yuichi Yamamoto,"University of Pennsylvania, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Michael Dickstein,"Stanford University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Samuel Hanson,"Harvard Business School, Finance Unit",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Judd Kessler,"University of Pennsylvania, Wharton Business & Public Policy Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Amanda Starc,"University of Pennsylvania, Wharton Health Care Management Group",1,Harvard University,Economics,academic,1,0,0,female,female
+2011,Aditya Sunderam,"Harvard Business School, Finance Unit",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Eliana Carranza,RAND Corporation,1,Harvard University,Economics,private_company,0,1,0,female,female
+2011,Martin Kanz,World Bank,1,Harvard University,Economics,government,0,0,1,male,male
+2011,Rodrigo Wagner,"Tufts University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2011,Jonathan Beuchamp,McKinsey & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2011,Jinzhu Chen,"Chinese Academy of Social Sciences, Institute of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2011,Scott Kominers,Milton Friedman Institute for Research in Economics at the University of Chicago,1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Elias Albagli,"University of Southern California,  Marshall School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Leonardo Bursztyn,"University of California-Los Angeles, Anderson School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Davide Cantoni,"Universitat Pompeu Fabra (Barcelona, Spain)",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Alberto Cavallo,"MIT, Sloan School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Justin Ho,Dean & Company,1,Harvard University,Economics,private_company,0,1,0,male,male
+2010,Bert    Huang,Columbia University Law School,1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Loukas  Karabarbounis,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Alexander Kaufman,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2010,Stephen    Miran,PSQR Capital Management,1,Harvard University,Economics,private_company,0,1,0,male,male
+2010,Omar Robles,Bureau of Labor Statistics,1,Harvard University,Economics,government,0,0,1,male,male
+2010,Lori    Santikian,"University of Southern California, Marshall School of Business",1,Harvard University,Economics,academic,1,0,0,female,female
+2010,Josh Schwartzstein,"Dartmouth College, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Gloria Sheu,"US Department of Justice, Antitrust Division",1,Harvard University,Economics,government,0,0,1,female,female
+2010,Heidi Williams,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2010,Noam Yuchtman,"University of California-Berkeley, Haas School of Business",1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2010,John Beshears,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Sergey Chernenko,"Ohio State University, Fisher College of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Lucas Coffman,"Ohio State University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Itay    Fainmesser,"Brown University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2010,Winnie Fung,"Wheaton College, Department of Business and Economics",1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2010,Laura Serben,Securities and Exchange Commission,1,Harvard University,Economics,government,0,0,1,female,female
+2010,Soonjin Yim,"Emory University, Goizueta Business School",1,Harvard University,Economics,academic,1,0,0,unknown,female
+2010,Ryan Bubb,New York University School of Law,1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2010,Dan    Fetter,"Wellesley College, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Robert Akerlof,"MIT, Sloan School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Thomas Baranga,"University of California San Diego, International Relations and Pacific Studies Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Dmitri Byzalov,"Temple University, Fox Business School",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Daniel Carvalho,University of Southern California Marshall School of Business,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,John Friedman,"Harvard University, Kennedy School",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Tarek Hassan,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Oleg Itskhoki,"Princeton University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Keyu Jin,London School of Economics,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2009,Karthik Kalyanaraman,University College London,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Mihai Manea,"MIT, Economics Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Thomas Mertens,"New York University, Stern School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Anthony Niblett,University of Chicago Law School,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Paul Niehaus,"University of California San Diego, Economics Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Giacomo Ponzetto,CREI,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Konstantin Styrin,New Economic School,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Daniel Wood,"Clemson University, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Eric Budish,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Jennifer Dlugosz,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2009,Ioannis Ioannou,London Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Stephen Leider,University of Michigan Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Sandip Sukhtankar,"Dartmouth College, Economics Department",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2009,Esra Eren Bayindir,"TOBB-ETU, Economics Department",1,Harvard University,Economics,academic,1,0,0,female,female
+2009,Georgy Egorov,"Northwestern University, Kellogg School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Erkko Etula,New York Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,male,male
+2009,Kirk Moore,McKinsey & Co.,1,Harvard University,Economics,private_company,0,1,0,male,male
+2009,David Seif,Paulson & Co.,1,Harvard University,Economics,private_company,0,1,0,male,male
+2009,Yue Tan David Tang,China National Petroleum Corporation,1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2009,John Beshears,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2009,Michael Faye,McKinsey & Co.,1,Harvard University,Economics,private_company,0,1,0,male,male
+2008,Antonia Alanassova,OC&C Strategy Consultants,1,Harvard University,Economics,private_company,0,1,0,female,female
+2008,Afua Branoah Banful,International Food Policy Research Institute,1,Harvard University,Economics,government,0,0,1,unknown,female
+2008,Leon Berkelsman,Federal Board of Governors,1,Harvard University,Economics,government,0,0,1,male,male
+2008,Elias Bruegmann,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2008,Hanley Chiang,"Mathematica Policy Research, Inc",1,Harvard University,Economics,private_company,0,1,0,unknown,male
+2008,Quoc-Ahn Do,Singapore Management University,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2008,Eyal Dvir,"Boston College, Economics Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Alexander Gelber,"University of Pennsylvania, Wharton School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Kai Guo,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,male,male
+2008,Ruben Enikolopov,New Economic School,1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Li Han,Hong Kong University of Science and Technology,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2008,Lisa Kahn,Yale School of Government,1,Harvard University,Economics,academic,1,0,0,female,female
+2008,Noam Kirson,Analysis Group,1,Harvard University,Economics,private_company,0,1,0,mostly_male,mostly_male
+2008,Fuhito Kojima,"Stanford University, Economics Department",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2008,Ian Martin,"Stanford University, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Brent Neiman,"University of Chicago, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Ioana Petrescu,American Enterprise Institute,1,Harvard University,Economics,private_company,0,1,0,female,female
+2008,Karine Serfaty-de Medeiros,OC&C Strategy Consultants,1,Harvard University,Economics,private_company,0,1,0,female,female
+2008,Kartini Shastry,"University of Virginia, Economics Department",1,Harvard University,Economics,academic,1,0,0,unknown,female
+2008,Garrett Summers,"Department of Defense, Program Analysis and Evaluation",1,Harvard University,Economics,government,0,0,1,male,male
+2008,Daniel Tortorice,"Brandeis University, Economics Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Jeremy Tobacman,"University of Pennsylvania, Wharton School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Matthew Weinzierl,"Harvard Business School, Business, Government, and the International Economy Group",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Jakub Jurek,"Princeton, Economics Department",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Anna Kovner,New York Fed,1,Harvard University,Economics,government,0,0,1,female,female
+2008,Robin Lee,"New York University, Stern School of Business",1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2008,Maria Petrova,New Economic School,1,Harvard University,Economics,academic,1,0,0,female,female
+2008,Philipp Schnabl,"New York University, Stern School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2008,Kate Sims,"Amherst College, Economics Department",1,Harvard University,Economics,academic,1,0,0,female,female
+2008,Qiu Tian Tian,"Goldman Sachs, Foreign Exchange Strategies",1,Harvard University,Economics,private_company,0,1,0,andy,andy
+2008,Daniel Ahn,Lehman Brothers,1,Harvard University,Economics,private_company,0,1,0,male,male
+2007,Andreea Balan Cohen,"Tufts University, Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Albert Bravo-Biosca,NESTA,1,Harvard University,Economics,private_company,0,1,0,male,male
+2007,Filipe Campante,Harvard Kennedy School,1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Davin Chor,Singapore Management University,1,Harvard University,Economics,academic,1,0,0,male,male
+2007,David Clingingsmith,"Case Western University, Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Benjamin Edelman,"Harvard Business School, NOM",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Alfred Galichon,Ecole Polytechnique,1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Mario Gamboa-Cavazos,State Street Associates,1,Harvard University,Economics,private_company,0,1,0,male,male
+2007,Jason Hwang,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2007,C. Kirabo Jackson,"Cornell University, School of Industrial and Labor Relations",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2007,Ilyana Kuziemko,"Princeton, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Kalina Manova,"Stanford, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Janina Matuszeski,World Bank,1,Harvard University,Economics,government,0,0,1,female,female
+2007,Anna Mikusheva,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Karthik Muralidharan,"University of California, San Diego",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Emi Nakamura,"Columbia Graduate Business School, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Emily Oster,"University of Chicago, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2007,Frank Schneider,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,male,male
+2007,Allie Schwartz,Cornerstone Research,1,Harvard University,Economics,private_company,0,1,0,mostly_female,mostly_female
+2007,Jesse Shapiro,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Jon Steinsson,"Columbia, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Satoru Takahashi,"Princeton, Department Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Gergely Ujhelyi,"University of Houston, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Gregor Matvos,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2007,Rachel Parkin,CRA International,1,Harvard University,Economics,private_company,0,1,0,female,female
+2007,Harini Parthassarathy,World Bank,1,Harvard University,Economics,government,0,0,1,unknown,female
+2007,Parag Pathak,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,male
+2007,Halla Yang,Goldman Sachs Asset Management,1,Harvard University,Economics,private_company,0,1,0,female,female
+2007,Erin Strumpf,"McGill University, Economics, Epidemiology, & Biostatistics",1,Harvard University,Economics,academic,1,0,0,mostly_female,mostly_female
+2007,Michael Katz,AQR Capital Management,1,Harvard University,Economics,private_company,0,1,0,male,male
+2006,Elsa Artadi,"IGIER-Bocconi University, Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Daniel Benjamin,"Dartmouth, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Assaf Ben-Shoham,Brookdale,1,Harvard University,Economics,private_company,0,1,0,male,male
+2006,Leah Platt Boustan,"University of California, Los Angeles",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Paula Bustos,CREI - Pompeu Fabra,1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Pablo Casas-Arce,"Pompeu Fabra, Barcelona",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Joyce Chen,"Ohio State University, Agriculture, Environment, and Development Dept.",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Carola Frydman,"MIT, Sloan School of Management",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Andrei Goureev,Legal Economics,1,Harvard University,Economics,private_company,0,1,0,male,male
+2006,Richard Holden,"MIT, Sloan School of Management",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Emir Kamenica,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,C. Cynthia Lin,"University of California Davis, Department of Economics",1,Harvard University,Economics,academic,1,0,0,unknown,female
+2006,Stephen Lin,"US Treasury, Office of International Affairs",1,Harvard University,Economics,government,0,0,1,male,male
+2006,Yves Nosbusch,"London School of Economics, Finance",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Yi Qian,"Northwestern University, Kellogg School of Management",1,Harvard University,Economics,academic,1,0,0,andy,andy
+2006,Seamus Smyth,Goldman Sachs,1,Harvard University,Economics,private_company,0,1,0,male,male
+2006,Peter Spiegler,"University of Massachusetts, Amherst, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Francesco Trebbi,"University of Chicago, Booth School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Stanley Watt,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,male,male
+2006,Stephen Weinberg,Duke University,1,Harvard University,Economics,academic,1,0,0,male,male
+2006,James Costantini,"INSEAD, Strategy Group",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Pavel Savor,"University of Pennsylvania, Wharton",1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Ryan Taliaferro,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2006,Catherine Thomas,"Columbia GSB, Economics and Finance",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Yuhai Xuan,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,unknown,male
+2006,Rebecca Thornton,"University of Michigan, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2006,Randall Akee,The Institute for the Study of Labor,1,Harvard University,Economics,academic,1,0,0,male,male
+2006,Eliza Hammel,McKinsey & Co,1,Harvard University,Economics,private_company,0,1,0,female,female
+2006,Charles Cohen,US Department of the Treasury,1,Harvard University,Economics,government,0,0,1,male,male
+2005,Joseph Aldy,Resources for the Future,1,Harvard University,Economics,private_company,0,1,0,male,male
+2005,Nava Ashraf,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,female,female
+2005,David Blackburn,NERA Intellectual Property Practice,1,Harvard University,Economics,private_company,0,1,0,male,male
+2005,James Choi,Yale School of Management,1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Marianna Colacelli,"Barnard College, Columbia University",1,Harvard University,Economics,academic,1,0,0,female,female
+2005,David Evans,RAND,1,Harvard University,Economics,private_company,0,1,0,male,male
+2005,Bryan Graham,"University of California, Berkeley",1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Jens Hilscher,"Brandeis University, IBS",1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Daniel Hojman,Harvard Kennedy School,1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Joy Ishii,"Stanford, Graduate School of Business",1,Harvard University,Economics,academic,1,0,0,female,female
+2005,Miklos Koren,"New York Fed, International Research Group",1,Harvard University,Economics,government,0,0,1,unknown,male
+2005,Benjamin Olken,"MIT, Department of Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Ilia Rainer,George Mason University,1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Raven Saks,Federal Reserve Board,1,Harvard University,Economics,government,0,0,1,female,female
+2005,Monica Singhal,Harvard Kennedy School,1,Harvard University,Economics,academic,1,0,0,female,female
+2005,Gustavo Suarez,Federal Reserve Board of Governors,1,Harvard University,Economics,government,0,0,1,male,male
+2005,Man-Keung Tang,International Monetary Fund,1,Harvard University,Economics,government,0,0,1,unknown,male
+2005,Abigail Waggoner,"Notre Dame, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2005,Bryce Ward,"Harvard, Institutional Research",1,Harvard University,Economics,academic,1,0,0,mostly_male,mostly_male
+2005,Eric Werker,Harvard Business School,1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Daniel Elfenbein,"Washington University, Olin School of Business",1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Kate Ho,"Columbia, Department of Economics",1,Harvard University,Economics,academic,1,0,0,female,female
+2005,Kristin Knox,"Harvard, Institutional Research",1,Harvard University,Economics,academic,1,0,0,female,female
+2005,Michael Ostrovsky,"Stanford Graduate School of Business, Economics",1,Harvard University,Economics,academic,1,0,0,male,male
+2005,Alexander Wagner,Analysis Group,1,Harvard University,Economics,private_company,0,1,0,male,male
+2005,Khuong Vu,National University of Singapore,1,Harvard University,Economics,academic,1,0,0,andy,andy
+2024,Stephanie Dong,Visiting Assistant Professor at University of Rochester,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2024,Shuqing Huang,"Assistant Professor at California State University, Fullerton",10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2024,Melanie Friedrichs,"Research Economist at Office of Financial Research, U.S. Treasury",10,New York University,Stern School of Business,government,0,0,1,female,female
+2024,Raja Panjwani,Visiting Researcher at London School of Economics,10,New York University,Stern School of Business,academic,1,0,0,mostly_male,mostly_male
+2024,Agata Farina,Post-Doctoral Researcher at Princeton University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2024,Yinan Wang,Economist at Amazon,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2024,Ammon Lam,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2024,Quinn Maingi,Assistant Professor at University of Southern California,10,New York University,Stern School of Business,academic,1,0,0,mostly_male,mostly_male
+2024,Julia Selgrad,"Assistant Professor at University of Chicago, Booth",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2024,Margarita Boyarskaya,Senior Research Associate at JPMorgan AI Research,10,New York University,Stern School of Business,private_company,0,1,0,female,female
+2024,Olivia Foster-Gimbel,Assistant Professor at Rutgers Business School,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2024,Eunkyung An,Assistant Professor at Stevens Institute of Technology,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2024,Weiqing Zhang,Assistant Professor at Rice University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2024,Yang Randy Gao,Post-Doctoral Researcher at Yale University,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2023,Yongoh Roh,Assistant Professor at McGill University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2023,Tony Cho,Assistant Professor at Hong Kong University of Science & Technology,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Han Yan,Assistant Professor at The University of British Columbia,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2023,Hangyuan Shi,Lecturer at University of Glasgow,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2023,Jake Kantor,Financial Economist at Securities and Exchange Commission,10,New York University,Stern School of Business,government,0,0,1,male,male
+2023,Anna Airoldi,Economist at Revelio Labs,10,New York University,Stern School of Business,private_company,0,1,0,female,female
+2023,Daniel Stackman,Economist at Federal Trade Commission Bureau of Economics,10,New York University,Stern School of Business,government,0,0,1,male,male
+2023,Iris Yao,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,female,female
+2023,Franz Hinzen,"Assistant Professor at Tuck School of Business, Dartmouth College",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Samantha Zeller,"Economist at Department of Justice, Antitrust",10,New York University,Stern School of Business,government,0,0,1,female,female
+2023,Quirin Fleckenstein,Assistant Professor at HEC Paris,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Pietro Reggiani,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2023,Nicholas Garcia,Lecturer at National University of Singapore,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Prasanna Parasurama,Assistant Professor at Emory University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2023,Pan Li,"Assistant Professor at Scheller College of Business, Georgia Tech",10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2023,Raphael Martins,Assistant Professor at University of Sussex,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Stephen Michael Impink,Assistant Professor at HEC Paris,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2023,Katia Meggiorin,Assistant Professor at Stevens Institute of Technology,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2023,Manav Raj,Assistant Professor at University of Pennsylvania (Wharton),10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2023,Jong Yeob Kim,Assistant Professor at Nanyang Technological University,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2023,Nofar Duani,Assistant Professor at University of Southern California,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2023,He Li,Quantitative Researcher at The Citadel,10,New York University,Stern School of Business,private_company,0,1,0,andy,andy
+2023,Weichi Yao,Post-Doctoral at Columbia University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Danye Wang,Assistant Professor at University of Iowa,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2022,Yanting Crystal Shi,Assistant Professor at HEC Paris,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2022,Richard Davies,Senior Instructional Professsor at University of Chicago,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2022,Abhinav Gupta,"Assistant Professor at UNC, Kenan Flagler Business School",10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Abhishek Bhardwaj,Assistant Professor at Tulane University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,German Gutierrez,"Assistant Professor at University of Washington, Foster School of Business",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2022,Botao Wu,Assistant Professor at Chinese University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Youngmin Kim,"Assistant Professor at Purdue University, Krannert School of Management",10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Sebastian Hillenbrand,Assistant Professor at Harvard Business School,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2022,Chenshuo Sun,Assistant Professor at National University of Singapore,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Semi Min,Assistant Professor at University of Minnesota,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2022,Kevin Lee,Assistant Professor at Univeristy of British Columbia,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2022,Teodora Tomova Shakur,Assistant Professor at Texas Christian University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2022,Stephane P. Francioli,"Post-Doctoral Scholar at University of Pennsylvania, Wharton",10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Fanglin Chen,Assistant Professor at University of Miami,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2022,Johann Melzner,Assistant Professor at University of Miami,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2022,Heeyoung Yoon,Assistant Professor at Bocconi University,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2022,Emily Powell,"Principal Researcher at University of Chicago, Booth School of Business",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2022,Shirley Bluvstein-Netter,Assistant Professor at Yeshiva University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2022,Haotian Song,Assistant Professor at Zhejiang University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Xinyi Zhao,Applied Scientist at Amazon,10,New York University,Stern School of Business,private_company,0,1,0,unknown,female
+2022,Jiashuo Jiang,Assistant Professor at Hong Kong University of Science and Technology,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2022,Zhuoyi Yang,Applied Scientist at Amazon,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2021,Kai-Wen Hsueh,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,andy,andy
+2021,Hyeyoon Jung,Financial Economist at Federal Reserve Bank of New York,10,New York University,Stern School of Business,government,0,0,1,unknown,female
+2021,Hae Kang Lee,Assistant Professor at University of South Carolina Darla Moore School of Business,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2021,Hongbum Lee,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2021,Gil Nogueira,Researcher at Banco de Portugal,10,New York University,Stern School of Business,government,0,0,1,male,male
+2021,Carlos Fernández,Assistant Professor at Hong Kong University of Science and Technology,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2021,Katherine Hoffmann Pham,AI Research Associate at UN Global Pulse,10,New York University,Stern School of Business,government,0,0,1,female,female
+2021,Qianyun Zhang,Research Scientist at Facebook,10,New York University,Stern School of Business,private_company,0,1,0,unknown,female
+2021,Daniel Sands,Assistant Professor at University College London,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2021,Shixin Wang,Assistant. Professor at Chinese University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2020,Jungbae Kim,Assistant Professor at Singapore Management University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2020,Xi Wu,"Assistant Professor at University of California Berkeley, Haas School of Business",10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2020,Bang Nguyen,Post-Doctoral Researcher at University of Bayreuth,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2020,Felipe Alves,Research Economist at Bank of Canada,10,New York University,Stern School of Business,government,0,0,1,male,male
+2020,Juan Martín Morelli,Economist at Federal Reserve Board of Governors,10,New York University,Stern School of Business,government,0,0,1,male,male
+2020,Pierre Mabille,Assistant Professor at INSEAD,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2020,Roxana Mihet,Assistant Professor at University of Lausanne (HEC Finance) & Swiss Finance Institute,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2020,Tommaso Bondi,Assistant Professor at Cornell Tech and the SC Johnson School of Management,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2020,Beumseok Shim,Quantitative Researcher at Two Sigma Investments,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2020,Heebum Lee,Assistant Professor at Korea University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2020,Joseph Kalmenovitz,Assistant Professor at Drexel University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2020,Manasa Gopal,Assistant Professor at Georgia Institute of Technology,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2020,Sung Kwan Lee,"Assistant Professor at Chinese University of Hong Kong, Shenzhen",10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2020,Wei Xiang,Quantitative Researcher at Cubist Systematics of Point72,10,New York University,Stern School of Business,private_company,0,1,0,andy,andy
+2020,Sarah Lebovitz,"Assistant Professor at University of Virginia, McIntire School of Commerce",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2020,Siyu Yu,"Assistant Professor at Jones Graduate School of Business, Rice University",10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2020,Kurt Munz,Assistant Professor at Bocconi University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2020,Dmitry Mitrofanov,Assistant Professor at Boston College,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2020,Yichen Zhang,Assistant Professor at Purdue University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2019,Disen Huang,Assistant Professor at Rutger's University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2019,Svenja Dube,Assistant Professor at Fordham University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2019,Chenqi Zhu,Assistant Professor at University of California- Irvine,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2019,Lin Qiu,Assistant Professor at University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2019,Peifan Wu,Post-Doctoral Scholar at University of British Columbia,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2019,Chase Coleman,"Co-Founder at Valorum Data, LLC",10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2019,Suzanne Isabel Chang,Assistant Professor at Tulane University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2019,Saptarshi Mukherjee,Visiting Assistant Professor at Northeastern University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2019,Andreas Weber,Lead Analytics Consultant/Data Scientist at Aetna Analytics & Behavior Change,10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2019,Madeline King Kneeland,"Assistant Professor at Cornell University, Johnson College of Business",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2019,Christopher To,"Post-Doctoral Scholar at Northwestern University, Kellogg School of Management",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2019,Jennifer Seokhwa Hong,Assistant Professor at Seattle University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2019,Baek Jung Kim,Assistant Professor at University of British Columbia,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2019,Kevin Jiao,Researcher at Financial Industry Regulatory Authority,10,New York University,Stern School of Business,government,0,0,1,male,male
+2018,Justin Deng,Assistant Professor at Rutgers University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2018,Sonia Gilbukh,Assistant Professor at Baruch University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2018,Mohsan Bilal,Quantitative Researcher at AQR Capital Management,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2018,Tianyue Ruan,Assistant Professor at National University of Singapore,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2018,Fahad Saleh,Assistant Professor at McGill University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2018,Siddharth Vij,Assistant Professor at Univeristy of Georgia,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2018,Di Wu,Assistant Professor at City University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2018,Kyeonggook Park,Assistant Professor at Tilburg University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2018,Steven Dallas,Research Fellow at Duke University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2018,Minjung Kwon,Assistant Professor at Syracuse University,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2018,Liu Liu,Assistant Professor at University of Colorado-Boulder,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2018,Tarek Abdallah,"Assistant Professor at Northwestern University, Kellogg",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2018,Apostolos Filippas,"Assistant Professor at Fordham University, Gabelli School of Business",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2017,Jihye Jeon,Assistant Professor at Boston University,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2017,Vadim Elenev,Assistant Professor at Johns Hopkins University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2017,Katherine Waldock,Assistant Professor at Georgetown University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2017,Xuan Ye,Assistant Professor at Boston College,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2017,Jessica Clark,"Assistant Professor at University of Maryland, Robert H. Smith",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2017,Dongil Keum,"Assistant Professor at Columbia University, GSB",10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2017,Esther Leibel,Assistant Professor at Boston University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2017,Jeffrey Thomas,Assistant Professor at London School of Economics,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2017,Yuqian Xu,"Assistant Professor at University of Illinois, Urbana-Champaign",10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2017,Ying Liu,Strategist at Goldman Sachs,10,New York University,Stern School of Business,private_company,0,1,0,andy,andy
+2016,Matthew Cedergen,"Assistant Professor at University of Pennsylvania, Wharton",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2016,Igor Kadach,"Assistant Professor at IESE, Spain",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2016,Seil Kim,"Assistant Professor at Baruch College, Zicklin",10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2016,Jianchuan Luo,Assistant Professor at Hong Kong Polytechnic University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2016,Malika Krishna,Associate at Cornerstone Research,10,New York University,Stern School of Business,private_company,0,1,0,female,female
+2016,Elliot Lipnowski,Assistant Professor at University of Chicago,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2016,James Albertus,"Assistant Professor at Carnegie Mellon, Tepper",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2016,Matteo Crosignani,Financial Economist at Federal Reserve Board,10,New York University,Stern School of Business,government,0,0,1,male,male
+2016,Xuyang Ma,Assistant Professor at University of Waterloo,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2016,Tingting Nian,"Assistant Professor at University of California, Irvine",10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2016,Panagiotis Adamopoulos,"Assistant Professor at University of Minnesota, Carlson",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2016,Vilma Todri,"Assistant Professor at Emory University, Goizueta",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2016,Jung-Hyun Suh,Assistant Professor at Chinese University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,mostly_male,mostly_male
+2016,Yuzhou Liu,Senior Marketing Scientist at AOL,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2016,Chiara Longoni,"Assistant Professor at Boston University, Questrom",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2016,Xuan Wang,Assistant Professor at Hong Kong Univ. of Science and Technology,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2015,Axelle Ferriere,Assistant Professor at European University Institute,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2015,Sara Negrelli,Assistant Professor at Bocconi University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2015,Sandy Yu,"Post-Doc Fellow at University of California, Berkeley",10,New York University,Stern School of Business,academic,1,0,0,mostly_female,mostly_female
+2015,Bernard Herskovic(GSAS Econ),Assistant Professor at UCLA Anderson,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2015,Xuyang Ma,Assistant Professor at University of Waterloo,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2015,Emil Siriwardane,Assistant Professor at Harvard Business School,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2015,Michael Smolyansky,Economist at Federal Reserve Board of Governors,10,New York University,Stern School of Business,government,0,0,1,male,male
+2015,Marios Kokkodis,"Assistant Professor at Boston College, Carroll",10,New York University,Stern School of Business,academic,1,0,0,male,male
+2015,Evan Sadler,Post-Doc Fellow at Harvard University,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2015,Stephanie Mueller-Tully,"Assistant Professor at University of Southern California, Marshall",10,New York University,Stern School of Business,academic,1,0,0,female,female
+2014,Tuba Toksoz,Assistant Professor at Koc University,10,New York University,Stern School of Business,academic,1,0,0,female,female
+2014,Jing Chen,Assistant Professor at SUNY Buffalo,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2014,Yunok Cho,Assistant Professor at Renmin University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2014,Jason Hong,Economist at Department of Justice,10,New York University,Stern School of Business,government,0,0,1,male,male
+2014,Stoyan T. Stoyanov,Economist at Berkeley Research Group,10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2014,Shaojun Chang,Assistant Professor at Hong Kong University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2014,Jason Chan,Assistant Professor at University of Minneosta,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2014,Lauren Rhue,Visiting Asst. Professor at Wake Forrest University,10,New York University,Stern School of Business,academic,1,0,0,mostly_female,mostly_female
+2014,Sean Taylor,Researcher at Facebook,10,New York University,Stern School of Business,private_company,0,1,0,male,male
+2014,Xiaohan Zhang,Researcher at Integral Ad Science,10,New York University,Stern School of Business,private_company,0,1,0,unknown,male
+2014,Xi Chen,Assistant Professor at Wilfried Laurier University,10,New York University,Stern School of Business,academic,1,0,0,andy,andy
+2014,Tingting Fan,Assistant Professor at Chinese University of Hong Kong,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2014,Shelle Santana,Assistant Professor at Harvard University,10,New York University,Stern School of Business,academic,1,0,0,unknown,female
+2014,Jigar Patel,Assistant Professor at Montclair State University,10,New York University,Stern School of Business,academic,1,0,0,unknown,male
+2014,Christos Zacharias,Visiting Asst. Professor at University of Miami,10,New York University,Stern School of Business,academic,1,0,0,male,male
+2014,Cheryl Flynn,Researcher at AT&T Labs,10,New York University,Stern School of Business,private_company,0,1,0,female,female
+2024,Saketh Aleti,Senior Analyst at PanAgora Asset Management,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2024,Xinyue Bei,"Asst. Professor at University of Texas, Austin",12,Duke University,Economics,academic,1,0,0,unknown,female
+2024,Erin Denison,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,mostly_female,mostly_female
+2024,Seohee Kim,Asst. Professor at Indiana University Kelley School of Business,12,Duke University,Economics,academic,1,0,0,unknown,female
+2024,Eun-Seok Lee,Research Economist at POSCO Research Institute,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2024,JoonYup Park,"Asst. Professor at University of Hawai'i, Manoa",12,Duke University,Economics,academic,1,0,0,unknown,male
+2024,Alison Pei,Senior Associate at Charles River Associates,12,Duke University,Economics,private_company,0,1,0,female,female
+2024,Ignacio Rodriguez Hurtado,Senior Associate at Charles River Associates,12,Duke University,Economics,private_company,0,1,0,male,male
+2024,Sung-Ju Wu,Asst. Research Fellow at U of Nottingham post-doc; Academia Sinica Institute of Economics,12,Duke University,Economics,academic,1,0,0,female,female
+2024,Anna Ziff,Asst. Professor at Texas A&M University,12,Duke University,Economics,academic,1,0,0,female,female
+2023,Federico Bennett,Economist at World Bank,12,Duke University,Economics,government,0,0,1,male,male
+2023,Luca Bertuzzi,Sr. Associate at Charles River Associates,12,Duke University,Economics,private_company,0,1,0,male,male
+2023,Paul Diegert,Assistant Professor at Toulouse School of Economics,12,Duke University,Economics,academic,1,0,0,male,male
+2023,Luke Fesko,Assistant Professor at Marist College,12,Duke University,Economics,academic,1,0,0,male,male
+2023,Alan Jaske,Sr. Associate at Charles River Associates,12,Duke University,Economics,private_company,0,1,0,male,male
+2023,Dongyoung Kim,Economist at Korea Development Institute,12,Duke University,Economics,government,0,0,1,unknown,male
+2023,Yonggyun Kim,Visiting Asst. Professor at Florida State University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2023,Riley League,"Assistant Professor at NBER post-doc; University of Illinois Urbana-Champaign, Gies College of Business",12,Duke University,Economics,academic,1,0,0,mostly_male,mostly_male
+2023,David Min,Associate at Dimensional Fund Advisors,12,Duke University,Economics,private_company,0,1,0,male,male
+2023,Sarah Raviola,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,female,female
+2023,Kevin Roberts,Post-doc at Stanford University Graduate School of Business,12,Duke University,Economics,academic,1,0,0,male,male
+2023,Taishi Sassano,Assistant Professor at Tokyo University of Science,12,Duke University,Economics,academic,1,0,0,unknown,male
+2023,Adam Soliman,Assistant Professor at London School of Economics post-doc; Clemson University,12,Duke University,Economics,academic,1,0,0,male,male
+2023,Zichang Wang,Assistant Professor at Xiamen University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2023,Kelly Kaili Yang,Assistant Professor at Indiana University Kelley School of Business,12,Duke University,Economics,academic,1,0,0,mostly_female,mostly_female
+2023,Haozhe Zhang,Quantitative Researcher at Two Sigma,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2022,Scott Abrahams,Assistant Professor at Louisiana State University,12,Duke University,Economics,academic,1,0,0,male,male
+2022,Usaid Awan,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2022,Aram Grigoryan,"Assistant Teaching Professor at University of California, San Diego",12,Duke University,Economics,academic,1,0,0,male,male
+2022,Yuxuan He,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2022,Ranae Jabri,Assistant Professor at NBER (post-doc); University of Sydney,12,Duke University,Economics,academic,1,0,0,unknown,female
+2022,Xian Jiang,"Assistant Professor at University of California, Davis",12,Duke University,Economics,academic,1,0,0,andy,andy
+2022,Ilia Kozis,Applied Scientist II at Uber,12,Duke University,Economics,private_company,0,1,0,male,male
+2022,Jeremy Lebow,Young Professionals Program at World Bank,12,Duke University,Economics,government,0,0,1,male,male
+2022,Tyler Moran,Applied Scientist II at Uber,12,Duke University,Economics,private_company,0,1,0,mostly_male,mostly_male
+2022,Mirjam Szillery,Economist at Wayfair,12,Duke University,Economics,private_company,0,1,0,female,female
+2022,Feifan Zhang,Assistant Professor at Duke Kunshan University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2022,Xirui Zhang,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2021,Michael Boutros,Senior Economist at Bank of Canada,12,Duke University,Economics,government,0,0,1,male,male
+2021,Jackson Bunting,Assistant Professor at Texas A&M,12,Duke University,Economics,academic,1,0,0,male,male
+2021,Elessar Chen,VP - Model Development Specialist at BNY Mellon,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2021,Tiancheng Chen,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2021,Craig Fratrik,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,male,male
+2021,Attila Gyetvai,Research Economist at Bank of Portugal,12,Duke University,Economics,government,0,0,1,male,male
+2021,Taehoon Kim,Associate Researcher at Korea Institute for Industrial Economics and Trade,12,Duke University,Economics,government,0,0,1,unknown,male
+2021,Andrea Kiss,Postdoctoral Fellow at Carnegie Mellon,12,Duke University,Economics,academic,1,0,0,female,female
+2021,Jonathan Moreno Medina,Assistant Professor at University of Texas at San Antonio,12,Duke University,Economics,academic,1,0,0,male,male
+2021,Dieu Linh Nguyen,Data Scientist II at Uber,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2021,Gabor Palinko,Associate at Cornerstone Research,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2021,Leonardo Salim Saker Chaves,Senior Data Scientist at Moody's Analytics,12,Duke University,Economics,private_company,0,1,0,male,male
+2021,Vytautas Valaitis,Max-Webber Fellow (2021-2022)Lecturer (Starting Fall 2022) at European University Institute (2021-2022)University of Surrey(Starting Fall 2022),12,Duke University,Economics,academic,1,0,0,male,male
+2021,Alessandro Villa,Economist at Federal Reserve Bank of Chicago,12,Duke University,Economics,government,0,0,1,male,male
+2021,Andrew Vollmer,Economist at U.S. Department of Justice,12,Duke University,Economics,government,0,0,1,male,male
+2021,Qiushi Zhang,Assistant Professor at School of Banking and Finance at the University of International Business and Economics,12,Duke University,Economics,academic,1,0,0,unknown,female
+2020,Yanyou Chen,Assistant Professor at University of Toronto,12,Duke University,Economics,academic,1,0,0,unknown,male
+2020,Jiayun Dong,Data Scientist at Airbnb,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2020,Daniel Garrett,"Assistant Professor* at Wharton, Finance Department",12,Duke University,Economics,academic,1,0,0,male,male
+2020,Amanda Grittner,Economist at Abt Associates,12,Duke University,Economics,private_company,0,1,0,female,female
+2020,Benjamin Heebsh,Economist at Federal Trade Commission,12,Duke University,Economics,government,0,0,1,male,male
+2020,Joshua Jacobs,Lecturer at University of Washington,12,Duke University,Economics,academic,1,0,0,male,male
+2020,Zhao Liu,Assistant Professor at Warwick Business School,12,Duke University,Economics,academic,1,0,0,andy,andy
+2020,Zachary Nolan,Assistant Professor of Marketing at University of Delaware,12,Duke University,Economics,academic,1,0,0,male,male
+2020,Rudolf-Harri Oberg,"Assistant Professor at Deakin Business School, Department of Marketing",12,Duke University,Economics,academic,1,0,0,unknown,male
+2020,Andrey Ordin,"Assistant Professor at University of Texas-Austin, Finance",12,Duke University,Economics,academic,1,0,0,male,male
+2020,Rachel Sayers,Senior Research Analyst at AidData,12,Duke University,Economics,private_company,0,1,0,female,female
+2020,Guilherme Salomé,Data Scientist at Eli Lilly,12,Duke University,Economics,private_company,0,1,0,male,male
+2020,Wen Wang,Assistant Professor at Hong Kong University of Science and Technology,12,Duke University,Economics,academic,1,0,0,andy,andy
+2020,Mingzhe Yi,Investment Strategies Researcher at Dimensional Fund Advisors,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2020,Chuhang Yin Geissler,Economist at Bates White Economic Consulting,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2020,Congshan Zhang,Research Scientist at Facebook,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2019,Yilin Jiang,Associate at McKinsey & Company,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2019,Kate Maxwell Koegel,Associate at Cornerstone Research,12,Duke University,Economics,private_company,0,1,0,female,female
+2019,Gábor Nyéki,Postdoctoral Scholar at Princeton/African School of Economics,12,Duke University,Economics,academic,1,0,0,male,male
+2019,Thomas Polley,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,male,male
+2019,Javier Romero Haaker,Young Professional at World Bank,12,Duke University,Economics,government,0,0,1,mostly_male,mostly_male
+2019,Eugene Tan,Assistant Professor at University of Toronto (Rotman),12,Duke University,Economics,academic,1,0,0,male,male
+2019,Mengke Wang,Lecturer at University of Sydney,12,Duke University,Economics,academic,1,0,0,unknown,male
+2019,Laurel Wheeler,"Assistant Professor at University of Alberta, Economics Department",12,Duke University,Economics,academic,1,0,0,female,female
+2019,Maria Zhu,"Assistant Professor at Syracuse University, Economics Department",12,Duke University,Economics,academic,1,0,0,female,female
+2018,Volodymyr Baranovskyi,"Postdoctoral Associate at University of Rochester,  Wallis Institute of Political Economy",12,Duke University,Economics,academic,1,0,0,male,male
+2018,Soroush Ghazi,"Assistant Professor at University of Alabama, Culverhouse College of Commerce",12,Duke University,Economics,academic,1,0,0,unknown,male
+2018,Adam Bergeron,Senior Associate at PwC,12,Duke University,Economics,private_company,0,1,0,male,male
+2018,Linxi Chen,Quantitative Researcher at BlackRock,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2018,Vasco de Castro Botelho,Economist at European Central Bank,12,Duke University,Economics,government,0,0,1,male,male
+2018,Paul Eliason,"Assistant Professor at Brigham Young University, Economics Department",12,Duke University,Economics,academic,1,0,0,male,male
+2018,Margaux Luflade,"Assistant Professor at University of Pennsylvania, Economics Department",12,Duke University,Economics,academic,1,0,0,female,female
+2018,Elisa Maffioli,"Assistant Professor at University of Michigan, School of Public Health",12,Duke University,Economics,academic,1,0,0,female,female
+2018,Jose Alejandro Martinez,Economist at Inter-American Development Bank,12,Duke University,Economics,government,0,0,1,male,male
+2018,Catherine Moon,Economist at Keystone Strategy,12,Duke University,Economics,private_company,0,1,0,female,female
+2018,Andrew Steck,"Assistant Professor at University of Toronto Mississauga, Rotman School of Business",12,Duke University,Economics,academic,1,0,0,male,male
+2018,Gina Turrini,CDC Prevention Effectiveness Fellow at Department of Health and Human Services,12,Duke University,Economics,government,0,0,1,female,female
+2018,Xiaohua Wu,"Visiting Professor at University of Indiana, Kelley School of Business",12,Duke University,Economics,academic,1,0,0,unknown,female
+2018,Yuan Xue,Data Scientist at Quora,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2018,Su Zhang,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2017,Hasan Arik,Senior Consultant at Ernst & Young,12,Duke University,Economics,private_company,0,1,0,male,male
+2017,Luis Candelaria Barrera,Assistant Professor at University of Warwick,12,Duke University,Economics,academic,1,0,0,male,male
+2017,Robert Davies,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,male,male
+2017,Xiaomin Fu,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2017,Olga Kozlova,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,female,female
+2017,Marat Kussainov,Assistant Vice President at Citi Bank,12,Duke University,Economics,private_company,0,1,0,male,male
+2017,Milenka Moschella,Senior Researcher at Central Bank of Peru,12,Duke University,Economics,government,0,0,1,female,female
+2017,Fu Ouyang,Assistant Professor at Nankai University-School of Finance,12,Duke University,Economics,academic,1,0,0,andy,andy
+2017,Matthew Panhans,Economist at Federal Trade Commission,12,Duke University,Economics,government,0,0,1,male,male
+2017,Tyler Ransom,Assistant Professor at University of Oklahoma,12,Duke University,Economics,academic,1,0,0,mostly_male,mostly_male
+2017,Christopher Roark,Lecturer at University of Chicago,12,Duke University,Economics,academic,1,0,0,male,male
+2017,Alex Robinson,Associate at Analysis Group,12,Duke University,Economics,private_company,0,1,0,male,male
+2017,Eli Sellinger-Liebman,Assistant Professor at University of Georgia,12,Duke University,Economics,academic,1,0,0,female,female
+2017,John Singleton,Assistant Professor at University of Rochester,12,Duke University,Economics,academic,1,0,0,male,male
+2017,Tedi Skiti,Research Assistant Professor at Temple University-Fox School of Business,12,Duke University,Economics,academic,1,0,0,unknown,male
+2017,Bingzhi Zhao,Associate Quantitative Researcher at Numeric Investors,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2016,Brian Clark,Economist at Federal Trade Commission,12,Duke University,Economics,government,0,0,1,male,male
+2016,Eduardo Jardim,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,male,male
+2016,Aaron Kolb,"Assistant Professor at Indiana University, Kelley School of Business",12,Duke University,Economics,academic,1,0,0,male,male
+2016,Roman Levkin,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,male,male
+2016,Pamela Medina Quispe,"Assistant Professor at University of Toronto, Rotman School of Management",12,Duke University,Economics,academic,1,0,0,female,female
+2016,Veronica Montalva,Contractual at Inter-American Development Bank,12,Duke University,Economics,government,0,0,1,female,female
+2016,Ekaterina Roshchina,"Postdoctoral Associate at University of Washington-Seattle, Evans School of Public Policy",12,Duke University,Economics,academic,1,0,0,female,female
+2016,James Thomas,Postdoctoral Associate at Yale University,12,Duke University,Economics,academic,1,0,0,male,male
+2016,Takuya Ura,"Assistant Professor of Economics at University of California, Davis",12,Duke University,Economics,academic,1,0,0,male,male
+2016,Ashley Vissing,Postdoctoral Associate at University of Chicago,12,Duke University,Economics,academic,1,0,0,mostly_female,mostly_female
+2016,Yang Yu,Assistant Professor at Shanghai University of Finance and Economics,12,Duke University,Economics,academic,1,0,0,andy,andy
+2016,Yichong Zhang,Assistant Professor at Singapore Management University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2015,Merve Akbas,Behavioral Scientist at Morningstar,12,Duke University,Economics,private_company,0,1,0,female,female
+2015,Jared Ashworth,"Assistant Professor, Economics at Pepperdine University",12,Duke University,Economics,academic,1,0,0,male,male
+2015,David Bielen,Energy and Environmental Policy Analyst at National Renewable Energy Laboratory,12,Duke University,Economics,government,0,0,1,male,male
+2015,Irving De Lira Salvatierra,Adjunct General Director at Mexican Ministry of Finance,12,Duke University,Economics,government,0,0,1,male,male
+2015,Marie Hull,"Assistant Professor, Economics at UNC Greensboro",12,Duke University,Economics,academic,1,0,0,female,female
+2015,Li Song (Nixon) Li,Economist at Amazon,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2015,Ying Li,Associate at Cornerstone Research,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2015,Lily Liu,Financial Economist at Boston Federal Reserve Bank,12,Duke University,Economics,government,0,0,1,female,female
+2015,Joe Mazur,"Assistant Professor, Economics at Purdue University",12,Duke University,Economics,academic,1,0,0,male,male
+2015,Tyler Ransom,"Postdoctoral Associate, SSRI at Duke University",12,Duke University,Economics,academic,1,0,0,mostly_male,mostly_male
+2015,Rosen Valchev,"Assistant Professor, Economics at Boston College",12,Duke University,Economics,academic,1,0,0,male,male
+2014,Ryan Brown,"Assistant Professor, Economics at UC Denver",12,Duke University,Economics,academic,1,0,0,mostly_male,mostly_male
+2014,Gabriela Farfan,"Textended Term Consultant at Development Research Group, World Bank",12,Duke University,Economics,government,0,0,1,female,female
+2014,Felix Feng,"Assistant Professor, Economics at University of Notre Dame",12,Duke University,Economics,academic,1,0,0,male,male
+2014,Domenico Ferraro,"Assistant Professor, Economics at Arizona State University",12,Duke University,Economics,academic,1,0,0,male,male
+2014,Kristoph Kleiner,"Assistant Professor, Finance at Indiana University, Kelly School of Business",12,Duke University,Economics,academic,1,0,0,unknown,male
+2014,Chung-Ying Lee,Assistant Professor at National Taiwan University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2014,Lala Ma,"Assistant Professor, Economics at University of Kentucky",12,Duke University,Economics,academic,1,0,0,female,female
+2014,Dong Hwan Oh,"Assistant Professor, Economics at Federal Reserve Board",12,Duke University,Economics,academic,1,0,0,andy,andy
+2014,Deborah Rho,Assistant Professor at University of St. Thomas,12,Duke University,Economics,academic,1,0,0,female,female
+2014,Teresa Romano,Assistant Professor at Goucher College,12,Duke University,Economics,academic,1,0,0,female,female
+2014,Yair Taylor,— at U.S. Department of Justice,12,Duke University,Economics,government,0,0,1,male,male
+2014,Chutima Tontarawongsa,Senior Economist at Siam Commercial Bank,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2014,Andrea Velasquez,"Assistant Professor, Economics at UC Denver",12,Duke University,Economics,academic,1,0,0,female,female
+2014,Erik Vogt,Economist at Federal Reserve Bank of New York,12,Duke University,Economics,government,0,0,1,male,male
+2014,Wenjing Wang,Research Associate at Moody's Analytics,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2014,Lai Xu,"Assistant Professor, Finance at Syracuse University",12,Duke University,Economics,academic,1,0,0,andy,andy
+2013,Correa Alvaro,Assistant Professor at Charles III University of Madrid,12,Duke University,Economics,academic,1,0,0,unknown,male
+2013,Emily Lynch Anderson,"Data Scientist at CoreComplete, LLC",12,Duke University,Economics,private_company,0,1,0,female,female
+2013,Jonas Arias,Economist at Federal Reserve Board,12,Duke University,Economics,government,0,0,1,male,male
+2013,Benjamin Carlston,"Assistant Professor at University of the Pacific, Eberhandt School of Business",12,Duke University,Economics,academic,1,0,0,male,male
+2013,Patrick Coate,"Postdoctoral Associate at University of Michigan, Population Center",12,Duke University,Economics,academic,1,0,0,male,male
+2013,Michael Dalton,Research Economist at Bureau of Labor Statistics,12,Duke University,Economics,government,0,0,1,male,male
+2013,Christopher Geissler,Economist at ISO New England,12,Duke University,Economics,private_company,0,1,0,male,male
+2013,Songman Kang,Assistant Professor at Hanyang University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2013,Peter Landry,"Assistant Professor at University of Toronto, Rotman School of Management",12,Duke University,Economics,academic,1,0,0,male,male
+2013,Kai Li,Assistant Professor at Hong Kong University of Science and Technology,12,Duke University,Economics,academic,1,0,0,male,male
+2013,Zhengzi (Sophia) Li,"Assistant Professor at Michigan State University, Broad College of Business",12,Duke University,Economics,academic,1,0,0,unknown,female
+2013,Marcelo Ochoa,Economist at Federal Reserve Board,12,Duke University,Economics,government,0,0,1,male,male
+2013,Mehmet Ozsoy,Assistant Professor at Ozyegin University,12,Duke University,Economics,academic,1,0,0,male,male
+2013,Evan Peet,Postdoctoral Associate at Harvard School of Public Health,12,Duke University,Economics,academic,1,0,0,male,male
+2013,Kalina Staub,Lecturer at University of Toronto-Mississauga,12,Duke University,Economics,academic,1,0,0,female,female
+2013,Sergiu Ungureanu,Lecturer at City University London,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Eric Aldrich,Assistant Professor at UC Santa Cruz,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Esteban Aucejo,Lecturer at London School of Economics,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Jeremy Chiu,Economist at Bank of England,12,Duke University,Economics,government,0,0,1,male,male
+2012,Alex Groves,Postdoctoral Associate at European Center for Advanced Research in Economics and Statistics,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Iaryna Grynkiv,Quantitative Associate at Barclay's Capital,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2012,Kristin Johnson,Research Manager at Harvard Business School,12,Duke University,Economics,academic,1,0,0,female,female
+2012,Edward Kung,Assistant Professor at UCLA,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Tatyana Kuzmenko,Visiting Associate Professor at College of William and Mary,12,Duke University,Economics,academic,1,0,0,female,female
+2012,Daniel Lafave,Assistant Professor at Colby College,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Kyle Mangum,Assistant Professor at Georgia State University,12,Duke University,Economics,academic,1,0,0,mostly_female,mostly_female
+2012,Ralph Mastromonaco,Assistant Professor at University of Oregon,12,Duke University,Economics,academic,1,0,0,male,male
+2012,Barry Rafferty,Lecturer at University of Melbourne,12,Duke University,Economics,academic,1,0,0,male,male
+2011,Elliot Anenberg,Economist at Federal Reserve Board of Governors,12,Duke University,Economics,government,0,0,1,male,male
+2011,Christoph Bauner,"Post-doc at University of Massachusetts, Amherst",12,Duke University,Economics,academic,1,0,0,male,male
+2011,Marcus Casey,"Assistant Professor at University of Illinois, Chicago",12,Duke University,Economics,academic,1,0,0,male,male
+2011,John Clithero,Post-doc at California Institute of Technology,12,Duke University,Economics,academic,1,0,0,male,male
+2011,Bruno Veunou,Senior Analyst at Bank of Canada,12,Duke University,Economics,government,0,0,1,male,male
+2011,Andrew Foerster, at Kansas City Federal Reserve Bank,12,Duke University,Economics,government,0,0,1,male,male
+2011,Aurel Hizmo,"Assistant Professor at NYU, Stern School of Business",12,Duke University,Economics,academic,1,0,0,male,male
+2011,Jon James,Research Economist at Cleveland Federal Reserve Bank,12,Duke University,Economics,government,0,0,1,male,male
+2011,Tae Bong Kim,Research Fellow at Korea Development Institute,12,Duke University,Economics,government,0,0,1,mostly_male,mostly_male
+2011,Scott Lustic,VP in Decision Management at Citicards,12,Duke University,Economics,private_company,0,1,0,male,male
+2011,Erika Martinez,Assistant Professor at University of South Florida,12,Duke University,Economics,academic,1,0,0,female,female
+2011,Nujin Prasertsom,Post-doc at ETH-Zurich,12,Duke University,Economics,academic,1,0,0,unknown,female
+2011,Michiru Sakane,"Assistant Professor at Sophia University, Tokyo",12,Duke University,Economics,academic,1,0,0,female,female
+2011,Hernan Seoane,Assistant Professor at Universidad Carlos Ill de Madrid,12,Duke University,Economics,academic,1,0,0,unknown,male
+2011,Beia Spiller,Post-doc Research Fellow at Resources for the Future,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2011,Béla Személy,Post-doc Associate and Lecturer at Boston University,12,Duke University,Economics,academic,1,0,0,male,male
+2011,Alexandra Tabova,Economist at Federal Reserve Board of Governors,12,Duke University,Economics,government,0,0,1,female,female
+2011,Justin Valasek,Post-doc at European Economic Institute (Florence),12,Duke University,Economics,academic,1,0,0,male,male
+2011,Emily Wang,"Assistant Professor at University of Massachusetts, Amherst",12,Duke University,Economics,academic,1,0,0,female,female
+2010,Jason Blevins,Assistant Professor at The Ohio State University,12,Duke University,Economics,academic,1,0,0,male,male
+2010,Angelo Marsiglia-Fasolo,Analyst at Central Bank of Brazil,12,Duke University,Economics,government,0,0,1,male,male
+2010,Roberto Pancrazi,Assistant Professor at Toulouse School of Economics,12,Duke University,Economics,academic,1,0,0,male,male
+2010,Marija Vukotic,Research Economist at Bank of France,12,Duke University,Economics,government,0,0,1,female,female
+2010,Nurgul Ukueva,Visiting Assistant Professor at Old Dominion University,12,Duke University,Economics,academic,1,0,0,female,female
+2010,Sarah Zubairy,Senior Analyst at Bank of Canada,12,Duke University,Economics,government,0,0,1,female,female
+2009,Andrew Beauchamp,Assistant Professor at Boston College,12,Duke University,Economics,academic,1,0,0,male,male
+2009,Ralph Boleslavsky,Assistant Professor at University of Miami,12,Duke University,Economics,academic,1,0,0,male,male
+2009,Javier Garcia Cicco,Economist at Central Bank of Chile,12,Duke University,Economics,government,0,0,1,mostly_male,mostly_male
+2009,Tongyai Iyavarakul,Economist at Office of the Prime Minister of Thailand,12,Duke University,Economics,government,0,0,1,unknown,male
+2009,Silvana Krasteva,Assistant Professor at Texas A&M University,12,Duke University,Economics,academic,1,0,0,female,female
+2009,Ivan Shaliastovich,"Assistant Professor at Wharton School, University of Pennsylvania",12,Duke University,Economics,academic,1,0,0,male,male
+2009,Natalisa Sizova,Assistant Professor at Rice University,12,Duke University,Economics,academic,1,0,0,unknown,female
+2009,Liad Wagman,Assistant Professor at Illinois Institute of Technology,12,Duke University,Economics,academic,1,0,0,unknown,male
+2009,Yang Wang,Assistant Professor at Lafayette College,12,Duke University,Economics,academic,1,0,0,andy,andy
+2008,Padmaja Ayyagari,Assistant Professor at University of Iowa,12,Duke University,Economics,academic,1,0,0,unknown,female
+2008,Kelly Bishop,Assistant Professor at Washington University in St. Louis,12,Duke University,Economics,academic,1,0,0,mostly_female,mostly_female
+2008,Jeremy Burke,Associate Economist at RAND Corporation,12,Duke University,Economics,private_company,0,1,0,male,male
+2008,Dong Chen,Assistant Professor at University of Baltimore,12,Duke University,Economics,academic,1,0,0,andy,andy
+2008,Patrick Dudley,Senior Economist at U.S. Government Accountability Office,12,Duke University,Economics,government,0,0,1,male,male
+2008,Stephen Finger,Assistant Professor at University of South Carolina,12,Duke University,Economics,academic,1,0,0,male,male
+2008,Stephanie Houghton,Assistant Professor at Texas A&M University,12,Duke University,Economics,academic,1,0,0,female,female
+2008,Anna Kormilitsina,Assistant Professor at Southern Methodist University,12,Duke University,Economics,academic,1,0,0,female,female
+2008,Kata Mihaly,Associate Economist at RAND Corporation,12,Duke University,Economics,private_company,0,1,0,female,female
+2008,Alvin Murphy,Assistant Professor at Washington University in St. Louis,12,Duke University,Economics,academic,1,0,0,male,male
+2008,Nathan Anil,Assistant Professor at College of the Holy Cross,12,Duke University,Economics,academic,1,0,0,male,male
+2008,Denis Nekipelov,Assistant Professor at UC Berkeley,12,Duke University,Economics,academic,1,0,0,male,male
+2008,Anamaria Pieschacon,Acting Assistant Professor at Stanford University,12,Duke University,Economics,academic,1,0,0,female,female
+2008,Nelson Sa,Assistant Professor at Vassar College,12,Duke University,Economics,academic,1,0,0,male,male
+2007,Florin Dorobantu,Associate at The Brattle Group,12,Duke University,Economics,private_company,0,1,0,male,male
+2007,Pedro Duarte,Postdoctoral Fellow at The University of Sao Paulo,12,Duke University,Economics,academic,1,0,0,male,male
+2007,Xin Huang,Assistant Professor at University of Oklahoma,12,Duke University,Economics,academic,1,0,0,andy,andy
+2007,Joshua Kinsler,Assistant Professor at University of Rochester,12,Duke University,Economics,academic,1,0,0,male,male
+2007,Nataliya Khmilevska,Senior Associate at Lehman Brothers,12,Duke University,Economics,private_company,0,1,0,female,female
+2007,Shanjun Li,Assistant Professor at State University of New York at Stony Brook,12,Duke University,Economics,academic,1,0,0,unknown,male
+2007,Xuan Liu,Assistant Professor at East Carolina University,12,Duke University,Economics,academic,1,0,0,andy,andy
+2007,Omari Swinton,Assistant Professor at Howard University,12,Duke University,Economics,academic,1,0,0,male,male
+2007,Viktor Todorov,"Assistant Professor at Kellog School of Management, Northwestern University",12,Duke University,Economics,academic,1,0,0,male,male
+2007,Duy Tran,Lecturer at The University of Western Australia,12,Duke University,Economics,academic,1,0,0,mostly_male,mostly_male
+2006,Jane Cooley,Assistant Professor at University of Wisconsin-Madison,12,Duke University,Economics,academic,1,0,0,female,female
+2006,Maxym Dedov,Quantitative Researcher at Citadel Investment Group,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2006,Natalie Goodpaster,"Consultant at Analysis Group, Inc.",12,Duke University,Economics,private_company,0,1,0,female,female
+2006,Andrew Hussey,Assistant Professor at University of Memphis,12,Duke University,Economics,academic,1,0,0,male,male
+2006,Jinhan Jung,Senior Researcher at Korea Information Strategy Development Institute,12,Duke University,Economics,government,0,0,1,unknown,male
+2006,Dana Kiku,"Assistant Professor at University of Pennsylvania, Wharton School of Business",12,Duke University,Economics,academic,1,0,0,female,female
+2006,Nataliya Kuribko,Research Associate at Cornerstone Research,12,Duke University,Economics,private_company,0,1,0,female,female
+2006,Kyoobok Lee,Research Fellow at Korea Institute of Finance,12,Duke University,Economics,government,0,0,1,unknown,male
+2006,Renzo Massari,Research Economist at ERS Group,12,Duke University,Economics,private_company,0,1,0,male,male
+2006,Alessandro Palandri,Assistant Professor at University of Warwick,12,Duke University,Economics,academic,1,0,0,male,male
+2006,Martin Salm,Associate Professor at Tilburg University,12,Duke University,Economics,academic,1,0,0,male,male
+2006,Kotaro Yoshida,Assistant Professor at Albion College,12,Duke University,Economics,academic,1,0,0,male,male
+2006,Wei Zheng,Investment Manager at New York Asset Management Fund,12,Duke University,Economics,private_company,0,1,0,andy,andy
+2004,Bentley Coffey,Assistant Professor at Clemson University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2004,C. Allan Bester,"Assistant Professor at University of Chicago, Graduate School of Business",12,Duke University,Economics,academic,1,0,0,unknown,male
+2004,Cristina Arellano,Senior Economist at The Federal Reserve Bank of Minneapolis,12,Duke University,Economics,government,0,0,1,female,female
+2004,Derek Brown,Economist at Research Triangle Institute,12,Duke University,Economics,private_company,0,1,0,male,male
+2004,Julia Litvinova,Consultant at The Brattle Group,12,Duke University,Economics,private_company,0,1,0,female,female
+2004,Justin Trogdon,Health Economist at Research Triangle Institute,12,Duke University,Economics,private_company,0,1,0,male,male
+2004,Varoujan Khatchatrian,Senior Quantitative Analyst at State Street,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2005,Jeremy Ascher,"Equity Derivatives Trader at Group One Trading, LP",12,Duke University,Economics,private_company,0,1,0,male,male
+2005,Haofei Chen,Senior Vice President at China International Capital Corporation,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2005,Hong Leng Chuah,"Director, Asia & Emerging Markets Active Equities at BlackRock",12,Duke University,Economics,private_company,0,1,0,andy,andy
+2005,Huayu Fang,Quantitative Research Analyst at Numeric Investors,12,Duke University,Economics,private_company,0,1,0,unknown,female
+2005,Ming Guo,Assistant Professor at Shanghai Advanced Institute of Finance,12,Duke University,Economics,academic,1,0,0,andy,andy
+2005,Michael Hoffman,"Economist at Center for Economics, U.S.Government Accoutnability Office",12,Duke University,Economics,government,0,0,1,male,male
+2005,Daniel Hungerman,Assistant Professor at University of Notre Dame,12,Duke University,Economics,academic,1,0,0,male,male
+2005,Bo Jiang,Assistant Professor at The Chinese University of Hong Kong,12,Duke University,Economics,academic,1,0,0,male,male
+2005,Chi Leng,"Managing Economist at Nathan Associates, Inc.",12,Duke University,Economics,private_company,0,1,0,andy,andy
+2005,Sandra Lizarazo,Assistant Professor at Instituto Tecnologico Autonomo de Mexico,12,Duke University,Economics,academic,1,0,0,female,female
+2005,Oksana Loginova,Assistant Professor at University of Missouri,12,Duke University,Economics,academic,1,0,0,female,female
+2005,Cathleen McHugh,Research Analyst/Field Representative at Center for Naval Analysis,12,Duke University,Economics,government,0,0,1,female,female
+2005,Maria PiaOlivero,Assistant Professor at Drexel University,12,Duke University,Economics,academic,1,0,0,female,female
+2005,Lijing Ouyang,Researcher at Centers for Disease Control and Prevention,12,Duke University,Economics,government,0,0,1,unknown,male
+2005,Stephen Ryan,Assistant Professor at Massachussetts Institute of Technology,12,Duke University,Economics,academic,1,0,0,male,male
+2005,Joanna Vinluan Tobiason,Associate at Cornerstone Research,12,Duke University,Economics,private_company,0,1,0,female,female
+2005,Jingshu Wang,Health Economist at Merck Research Laboratories,12,Duke University,Economics,private_company,0,1,0,unknown,male
+2005,Jianguo Xu,Assistant Professor at McGill University,12,Duke University,Economics,academic,1,0,0,unknown,male
+2005,Hanwook Yoo,Economist at Korean Development Institute,12,Duke University,Economics,government,0,0,1,unknown,male
+2024,Hayley Abourezk-Pinkstone,Simpson College,13,University of Michigan,Economics,academic,1,0,0,female,female
+2024,Agostina Brinatti,"Chicago Booth (Fall 2026), Yale University postdoc (AY 2024-25), University of Chicago postdoc (AY 2025-26)",13,University of Michigan,Economics,academic,1,0,0,female,female
+2024,Nadim Elayan Balague,Banco Central de Chile,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Luis Miguel Espinoza Bardales,"Texas A&M University, The Bush School of Government & Public Service",13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,Andrea Foschi,Bank of Italy,13,University of Michigan,Economics,government,0,0,1,female,female
+2024,Christopher Hollrah,Federal Trade Commission,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Emily Horton,"U.S. Department of the Treasury, Office of Tax Analysis",13,University of Michigan,Economics,government,0,0,1,female,female
+2024,Aristos Hudson,Western Washington University,13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2024,Maximilian Huppertz,Bank of England,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Aaron Kaye,"Boston University, Questrom School of Business (Fall 2025), MIT postdoc (AY 2024-25)",13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,Qian Li,Istanbul Technical University,13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2024,Yiming Liu,"University College London, UCL School of Management, Postdoctoral Research Fellow",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2024,Jose Ramon Moran,Banco de Mexico,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Russell Morton,"University of Rochester, Simon Business School (Fall 2025), Yale University postdoc (AY 2024-25)",13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,Emir Murathanoglu,Oberlin College,13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,John Olson,"Northwestern University, School of Education and Social Policy",13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,Tyler Radler,Bates White Economic Consulting,13,University of Michigan,Economics,private_company,0,1,0,mostly_male,mostly_male
+2024,Shwetha Raghuraman,"Aarhus University, Postdoctoral Fellow",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2024,Brock Rowberry,World Bank Group,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Andrew Simon,"University of Virginia, Frank Batten School of Leadership and Public Policy",13,University of Michigan,Economics,academic,1,0,0,male,male
+2024,Carolina Tojal Ramos dos Santos,Inter-American Development Bank,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2024,Dyanne Vaught,"U.S. Department of the Treasury, Office of Economic Policy",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2024,Iris Vrioni,University of Rochester,13,University of Michigan,Economics,academic,1,0,0,female,female
+2023,James Allen IV,International Food Policy Research Institute,13,University of Michigan,Economics,government,0,0,1,male,male
+2023,Brian Cevallos Fujiy,"Center for Economic Studies, U.S. Census Bureau",13,University of Michigan,Economics,government,0,0,1,male,male
+2023,Yasar Ersan,"Economics, Ankara University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2023,Keshav Garud,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2023,Hayk Hambardzumyan,Qtron Investments,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2023,Caitlin Hegarty,"Economics, Williams College",13,University of Michigan,Economics,academic,1,0,0,female,female
+2023,Thomas Helgerman,"Carlson School of Management, University of Minnesota",13,University of Michigan,Economics,academic,1,0,0,male,male
+2023,Leticia Juarez,Inter American Development Bank,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2023,Stephanie Karol,"Office of Tax Analysis, Department of the Treasury",13,University of Michigan,Economics,academic,1,0,0,female,female
+2023,Michelle Lam,Bates White Economic Consulting,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2023,Nathan Mather,Intensity,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2023,Mike Mei,"Department of Economics, Colgate University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2023,Michael Murto,Consumer Financial Protection Bureau,13,University of Michigan,Economics,government,0,0,1,male,male
+2023,Tereza Ranosova,Deutsche Bundesbank,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2023,Nishaad Rao,Bank of Canada,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2023,Florian Trouvain,"Department of Economics, University of Oxford",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Maria Aristizabal-Ramirez,Federal Reserve Board of Governors,13,University of Michigan,Economics,government,0,0,1,female,female
+2022,Hannah Bolder,"College of Human Medicine, Michigan State University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2022,Barthélémy Bonadio,"Economics, New York University Abu Dhabi",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Xienan Cheng,"Guanghua School of Management, Peking University (postdoc)",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2022,Jaedo Choi,Federal Reserve Board of Governors,13,University of Michigan,Economics,government,0,0,1,unknown,male
+2022,Jaron Cordero,"Philosophy, Politics, and Economics, University of Pennsylvania (Postdoctoral Fellow)",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Jon Denton-Schneider,"Department of Economics, Clark University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Jamie Fogel,"Opportunity Insights, Harvard University",13,University of Michigan,Economics,academic,1,0,0,mostly_female,mostly_female
+2022,Aibo Gong,"School of Economics, Peking University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2022,Paul Kindsgrab,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2022,Bunyada (Mos) Laoprapassorn,International Monetary Fund,13,University of Michigan,Economics,government,0,0,1,unknown,female
+2022,Nafisa Lohawala,Resources for the Future,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2022,Dena Lomonosov,"Department of Real Estate and Urban Land Economics, University of Wisconsin-Madison (postdoc)",13,University of Michigan,Economics,academic,1,0,0,female,female
+2022,Shawn Martin,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,mostly_male,mostly_male
+2022,Jennifer Mayo,"Department of Economics, University of Missouri",13,University of Michigan,Economics,academic,1,0,0,female,female
+2022,Bernardo Modenesi,"Michigan Institute for Data Science, University of Michigan",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Dylan Moore,"Department of Economics, University of Hawaiʻi at Mānoa",13,University of Michigan,Economics,academic,1,0,0,mostly_male,mostly_male
+2022,Paul Organ,"Office of Tax Analysis, U.S. Department of the Treasury",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Michael Ricks,"College of Business, University of Nebraska – Lincoln(after one-year postdoc at NBER)",13,University of Michigan,Economics,academic,1,0,0,male,male
+2022,Junwei Tang,Amazon,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2022,Merve Sariisik,The Vanguard Group,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2022,Xuan Teng,"Department of Economics, Ludwig Maximilian University of Munich",13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2022,Jiafu Wang,Hong Kong Monetary Authority,13,University of Michigan,Economics,government,0,0,1,unknown,male
+2022,Yishu Zeng,"Department of Economics, York University",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2020,Luis Baldomero-Quintana,"Department of Economics, William & Mary",13,University of Michigan,Economics,academic,1,0,0,male,male
+2020,Ariel Binder,United States Census Bureau,13,University of Michigan,Economics,government,0,0,1,male,male
+2020,Giacomo Brusco,University of Tubingen,13,University of Michigan,Economics,academic,1,0,0,male,male
+2020,Avery Calkins,RAND Corporation,13,University of Michigan,Economics,private_company,0,1,0,andy,andy
+2020,Kimberly Conlon,Federal Trade Commission,13,University of Michigan,Economics,government,0,0,1,mostly_female,mostly_female
+2020,Pieter De Vlieger,Uber,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2020,Tangren Feng,"Department of Decision Sciences, Bocconi University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2020,Max Gross,Mathematica,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2020,Bhanu Gupta,"Department of Economics, Ashoka University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2020,Anirudh Jayanti,Bates White Economic Consulting,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2020,Ting Lan,International Monetary Fund,13,University of Michigan,Economics,government,0,0,1,andy,andy
+2020,Parag Mahajan,"Alfred Lerner College of Business & Economics, University of Delaware",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2020,Dhiren Patki,Federal Reserve Bank of Boston,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2020,Max Risch,"Tepper School of Business, Carnegie Mellon University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2020,Rich Ryan,"Department of Economics, California State University, Bakersfield",13,University of Michigan,Economics,academic,1,0,0,mostly_male,mostly_male
+2020,Shuqiao Sun,The World Bank,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2020,Andrew Usher,Bank of Canada,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2020,Colin Watson,Amazon,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2020,Huayu Xu,"National School of Development, Peking University",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2020,Wenjian Xu,"Antai College of Economics & Management, Shanghai Jiao Tong University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2020,Hang Yu,"National School of Development, Peking University",13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2019,Vybhavi Balasundharam,International Monetary Fund,13,University of Michigan,Economics,government,0,0,1,unknown,female
+2019,William Boning,"U.S. Department of the Treasury, Office of Tax Analysis",13,University of Michigan,Economics,government,0,0,1,male,male
+2019,Catalina Franco,"Postdoctoral Fellow, Norwegian School of Economics",13,University of Michigan,Economics,academic,1,0,0,female,female
+2019,Xing Guo,Bank of Canada,13,University of Michigan,Economics,private_company,0,1,0,andy,andy
+2019,Samuel Haltenhof,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2019,Amelia Hawkins,"Department of Economics, Brandeis University(After a post-doc at the NBER)",13,University of Michigan,Economics,academic,1,0,0,female,female
+2019,Zachary Levinson,The RAND Corporation,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2019,Xinwei Ma,"Department of Economics, University of California, San Diego",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2019,Meera Mahadevan,"Department of Economics, University of California, Irvine(After a post-doc at the UC Santa Barbara)",13,University of Michigan,Economics,academic,1,0,0,female,female
+2019,Nicolas Morales,Federal Reserve Bank of Richmond,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2019,Kenichi Nagasawa,"Department of Economics, University of Warwick",13,University of Michigan,Economics,academic,1,0,0,male,male
+2019,Owen Nie,World Bank Group,13,University of Michigan,Economics,government,0,0,1,male,male
+2019,Siprapai Sitapong,WhatsApp,13,University of Michigan,Economics,private_company,0,1,0,unknown,female
+2019,Elchin Suleymanov,"Department of Economics, Purdue University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2019,Brenden Timpe,"Department of Economics, University of Nebraska—Lincoln",13,University of Michigan,Economics,academic,1,0,0,male,male
+2019,Tejaswi Velayudhan,"Department of Economics, University of California, Irvine(After a post-doc at the Ohio State University)",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2018,Thomas Bridges,"Alfred Lerner College of Business & Economics, University of Delaware",13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Yipei Cao,Federal Reserve Bank of San Francisco,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2018,Alecia Cassidy,"Department of Economics, Finance and Legal Studies, University of Alabama",13,University of Michigan,Economics,academic,1,0,0,female,female
+2018,Traviss Cassidy,"Department of Economics, Finance and Legal Studies, University of Alabama",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2018,Laurien Gilbert,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2018,Benjamin Glass,"Department of Economics, Penn State",13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Steven Hamilton,"Department of Economics, George Washington University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Steve Hou,AQR Capital Management,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2018,Daniel Hubbard,American Institutes for Research,13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Yeliz Kacamak,"Department of Economics, Bosphorus University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2018,DongIk Kang,Korea Institute of Public Finance,13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2018,Gail Lucasan,PricewaterhouseCoopers,13,University of Michigan,Economics,private_company,0,1,0,mostly_female,mostly_female
+2018,Luis Alejos Marroquin,Inter-American Development Bank,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2018,Daniela Morar,"Postdoctoral Associate, Department of Economics, Yale University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2018,Dimitrije Ruzic,INSEAD,13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Gonzalo Vazquez Bare,"Department of Economics, University of California Santa Barbara",13,University of Michigan,Economics,academic,1,0,0,male,male
+2018,Michael Zabek,Board of Governors of the Federal Reserve System,13,University of Michigan,Economics,government,0,0,1,male,male
+2017,Jacob Bastian,"Postdoctoral Fellow, Harris School of Public Policy, University of Chicago",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Paul Brehm,"Department of Economics, Oberlin College",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Austin Davis,"School of International Service, American University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Adam Dearing,"Department of Economics, The Ohio State University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Michael Gelman,"The Robert Day School of Economics, Claremont McKenna College",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Alan Griffith,"Department of Economics, University of Washington",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Morris Hamilton,Abt Associates,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Morgan Henderson,Amazon,13,University of Michigan,Economics,private_company,0,1,0,mostly_male,mostly_male
+2017,Evan Herrnstadt,Compass Lexecon,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Julian Hsu,College Board,13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Sarah Johnston,"Postdoctoral Fellow, University of Wisconsin – Madison",13,University of Michigan,Economics,academic,1,0,0,female,female
+2017,Salma Khalid,International Monetary Fund,13,University of Michigan,Economics,government,0,0,1,female,female
+2017,Harim Kim,"Postdoctoral Fellow, Department of Economics, University of Mannheim",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2017,Andrew Litten,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Ben Meiselman,"Postdoctoral Fellow, Johns Hopkins University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Alexander Persaud,"Department of Economics, University of North Carolina Asheville",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Alexander Russov,Amazon,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Alfredo Sosa,"SOLO World Partners, LCC",13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Bryan Stuart,"Department of Economics, George Washington University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Christopher Sullivan,"Department of Economics, University of Wisconsin – Madison",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Evan Taylor,"Postdoctoral Fellow, Center for the Economics of Human Development, University of Chicago",13,University of Michigan,Economics,academic,1,0,0,male,male
+2017,Ben Thompson,Amazon,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Evan Wright,Bank of America,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2017,Carrie Wenjing Xu,Vanguard,13,University of Michigan,Economics,private_company,0,1,0,female,female
+2017,Yiyuan Zhang,Analysis Group,13,University of Michigan,Economics,private_company,0,1,0,unknown,male
+2017,Xiaoqing Zhou,Bank of Canada,13,University of Michigan,Economics,private_company,0,1,0,unknown,female
+2016,Paolo Abarcar,Mathematica Policy Research,13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Lindsay Baker,Ford Motor company,13,University of Michigan,Economics,private_company,0,1,0,mostly_female,mostly_female
+2016,Christoph Boehm,"University of Texas, Austin",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Guodong Chen,"Department of Finance, New York University, Shanghai",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Eric Chyn,"Department of Economics, University of Virginia",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Fan Fei,"Department of Business and Economics, Northwestern College of Iowa",13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2016,Mark Fontana,"Post-Doctoral Fellow, University of Southern California",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Ibrahim Gunay,"Department of Economics, University of Albany",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Enda Patrick Hargaden,"Department of Economics, University of Tennessee",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Monica Hernandez,"Department of Economics, Tulane University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2016,Chenyue Hu,"Department of Economics, University of California, Santa Cruz",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2016,Prachi Jain,Loyola Marymount University,13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2016,Jiang Jiang,"Department of Economics, University of Connecticut",13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2016,Max Kapustin,University of Chicago Urban Labs,13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Gaurav Khanna,"University of California, San Diego",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Margaret Lay,"Department of Economics, Mount Holyoke University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2016,Minjoon Lee,"Department of Economics, Carleton University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Katherine Lim,United States Treasury,13,University of Michigan,Economics,government,0,0,1,female,female
+2016,Bert Lue,Joint Committee on Taxation,13,University of Michigan,Economics,government,0,0,1,male,male
+2016,Michael McWilliams,"Research Seminar in Quantitative Economics (RSQE), University of Michigan",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Johannes Norling,"Department of Economics, Mount Holyoke College",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Taejun Oh,Samsung Economic Research Institute,13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Nitya Pandalai-Nayar,"University of Texas, Austin",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2016,Christian Proebsting,"International Economics, EPFL, Lausanne",13,University of Michigan,Economics,private_company,0,1,0,male,male
+2016,Daniel Reck,"Department of Economics, London School of Economics",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Rishi Sharma,"Department of Economics, Colgate University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Isaac Sorkin,"Department of Economics, Stanford University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2016,Qinggong Wu,"Business School, Chinese University of Hong Kong",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Chenyu Yang,"Simon Business School, University of Rochester",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2016,Fudong Zhang,"PBC School of Finance, Tsinghua University",13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2015,Jacqueline Doremus,"Department of Economics, California Polytechnic State University",13,University of Michigan,Economics,academic,1,0,0,female,female
+2015,Reid Dorsey-Palmateer,"Department of Economics, Western Washington University",13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,Anne Fitzpatrick,"Department of Economics, University of Massachusetts-Boston",13,University of Michigan,Economics,academic,1,0,0,female,female
+2015,Aaron Flaaen,Federal Reserve Board of Governors,13,University of Michigan,Economics,government,0,0,1,male,male
+2015,Rob Gillezeau,"Department of Economics, University of Victoria",13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,Jonathan Hershaff,Securities and Exchange Commission,13,University of Michigan,Economics,government,0,0,1,male,male
+2015,Peter Hudomiet,RAND Corporation,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2015,Dan Jaqua,Albion College,13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,Jason Kerwin,"Department of Applied Economics, University of Minnesota",13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,Jiyoon Kim,"Department of Economics, Indiana-Purdue University, Fort Wayne",13,University of Michigan,Economics,academic,1,0,0,unknown,female
+2015,Pawel Krolikowski,Federal Reserve Bank of Cleveland,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2015,Justin Ladner,CNA Corporation,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2015,Changkeun Lee,Korea Development Institute,13,University of Michigan,Economics,academic,1,0,0,unknown,male
+2015,Eric Lewis,"Economic Analysis Group, Department of Justice",13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,Olga Malkova,"Department of Economics, University of Kentucky",13,University of Michigan,Economics,academic,1,0,0,female,female
+2015,Tong Yob,"Nam Office of the Comptroller of the Currency (OCC), U.S. Department of the Treasury",13,University of Michigan,Economics,academic,1,0,0,andy,andy
+2015,Yulia Paramonova,"National Research University Higher School of Economics, Saint Petersburg-Russia",13,University of Michigan,Economics,academic,1,0,0,female,female
+2015,Ihsan Saracgil,Cornerstone Research,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2015,Bartley Tablante,Keystone Strategy,13,University of Michigan,Economics,private_company,0,1,0,male,male
+2015,Desmond Toohey,"Department of Economics, University of Delaware",13,University of Michigan,Economics,academic,1,0,0,male,male
+2015,James Wang,Federal Reserve Board of Governors,13,University of Michigan,Economics,government,0,0,1,male,male
+2024,Alessandro Sovera,Postdoc at Tampere University,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Alex Zhou,Postdoc Research Fellow at University of Warwick,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Ali Lodermeier,U.S. Census Bureau,17,Brown University,Economics,government,0,0,1,male,male
+2024,Francesco Ferlenga,"1 year postdoc at University of Warwick, then Assistant Professor at Universitat Autonoma de Barcelona",17,Brown University,Economics,academic,1,0,0,male,male
+2024,Geetika Nagpal,World Bank,17,Brown University,Economics,government,0,0,1,unknown,female
+2024,Giacomo Rubbini,Research Fellow at University of Bologna,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Giulia Buccione,"1 year postdoc at Stanford and then AP at CEMFI, then Assistant Professor at CEMFI",17,Brown University,Economics,academic,1,0,0,female,female
+2024,Giulia Gitti,Assistant Professor at Collegio Carlo Alberto,17,Brown University,Economics,academic,1,0,0,female,female
+2024,Henrique Pita Barros,Assistant Professor at University of Lisbon,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Joao Garcia,Assistant Professor at Universidad de Santiago de Chile,17,Brown University,Economics,academic,1,0,0,unknown,male
+2024,Jose Belmar,Inter-American Development Bank,17,Brown University,Economics,private_company,0,1,0,male,male
+2024,Marcela Mello Silva,"Assistant Professor at Universidad de Los Andes, Chile",17,Brown University,Economics,academic,1,0,0,female,female
+2024,Masahiro Kubo,Postdoc at CERDI,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Patrick Vu,Assistant Professor at University of New South Wales,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Santiago Hermo,"1-year postdoc at University of Oslo, then Assistant Professor at Monash University",17,Brown University,Economics,academic,1,0,0,male,male
+2024,Sara Spaziani,Assistant Professor at University of Warwick,17,Brown University,Economics,academic,1,0,0,female,female
+2024,Tommaso Coen,Postdoc at Bocconi University,17,Brown University,Economics,academic,1,0,0,male,male
+2024,Emilia Brito Rebolledo,Postdoc at UCLA,17,Brown University,Economics,academic,1,0,0,female,female
+2024,Daniel Crisostomo Wainstock,3 year postdoc at Oxford University,17,Brown University,Economics,academic,1,0,0,male,male
+2023,Chien,"1 year postdoc at Ohio State University, then Assistant Professor at Osaka University",17,Brown University,Economics,academic,1,0,0,mostly_male,mostly_male
+2023,Juan Pedro Ronconi,Assistant Professor at,17,Brown University,Economics,academic,1,0,0,male,male
+2023,Cosimo Petracchi,Assistant Professor at,17,Brown University,Economics,academic,1,0,0,male,male
+2023,Aditi Singh,Assistant Professor at Shiv Nadar Institute of Eminence,17,Brown University,Economics,academic,1,0,0,female,female
+2023,Stephanie Kang,ISO New England,17,Brown University,Economics,private_company,0,1,0,female,female
+2023,Vincent Starck,Assistant Professor at LMU Munich,17,Brown University,Economics,academic,1,0,0,male,male
+2023,Matthias Schief,"OECD, Economics Department (Policy Studies Branch)",17,Brown University,Economics,academic,1,0,0,male,male
+2023,Shunsuke Tsuda,Assistant Professor at the,17,Brown University,Economics,academic,1,0,0,male,male
+2023,Vesa,Postdoc at,17,Brown University,Economics,academic,1,0,0,female,female
+2023,Masayuki Inui,"Vice President, Economist at Morgan Stanley",17,Brown University,Economics,private_company,0,1,0,male,male
+2023,Assaf Kott,Assistant Professor at Ben Gurion University (Israel),17,Brown University,Economics,academic,1,0,0,male,male
+2023,Motohiro Kumagai,"1 year postdoc at Hitotsubashi University, then Assistant Professor at Australian National University",17,Brown University,Economics,academic,1,0,0,male,male
+2023,Luca Riva,Central Bank of Ireland,17,Brown University,Economics,private_company,0,1,0,male,male
+2023,Emilie Sarte,Assistant Professor at the University of Nottingham,17,Brown University,Economics,academic,1,0,0,female,female
+2023,Samsun Knight,"1 year postdoc at Northeastern University, then Assistant Professor at the University of Toronto Rotman School of Management",17,Brown University,Economics,academic,1,0,0,unknown,female
+2023,Nicola Babarcich,Analysis Group,17,Brown University,Economics,private_company,0,1,0,female,female
+2023,Maor Milgrom,Hebrew University,17,Brown University,Economics,academic,1,0,0,male,male
+2022,Zeky Murra,ISO New England,17,Brown University,Economics,private_company,0,1,0,unknown,male
+2022,Guillaume Blanc,Manchester University,17,Brown University,Economics,academic,1,0,0,male,male
+2022,Pablo Garriga,World Bank (office of Latin America),17,Brown University,Economics,private_company,0,1,0,male,male
+2022,Carolina Lopez,"1 year postdoc at Harvard University, then the World Bank",17,Brown University,Economics,academic,1,0,0,female,female
+2022,Marcel Peruffo,"1 year postdoc at BCB (European Central Bank), then the University of Sydney",17,Brown University,Economics,academic,1,0,0,male,male
+2022,Marco Stenborg Petterson,CSEF Naples,17,Brown University,Economics,private_company,0,1,0,male,male
+2022,Juan Pablo Uribe,Cornerstone Research,17,Brown University,Economics,private_company,0,1,0,male,male
+2022,Valeria Zurla,CSEF Naples,17,Brown University,Economics,private_company,0,1,0,female,female
+2021,Gabriele Borg,Amazon Web Services,17,Brown University,Economics,private_company,0,1,0,female,female
+2021,Felipe Brugues,1 year post-doc at Universitat Pompeu Fabra then ITAM Business (Mexico),17,Brown University,Economics,academic,1,0,0,male,male
+2021,Chao Chen,Amazon,17,Brown University,Economics,private_company,0,1,0,andy,andy
+2021,Francesco Maria Esposito,University of Birmingham,17,Brown University,Economics,academic,1,0,0,male,male
+2021,Samuele Giambra,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2021,Jose Jurado Vadillo,post-doc at,17,Brown University,Economics,private_company,0,1,0,male,male
+2021,Alessandro Lin,Bank of Italy,17,Brown University,Economics,government,0,0,1,male,male
+2021,Josef Platzer,International Monetary Fund,17,Brown University,Economics,government,0,0,1,male,male
+2021,Kenichi Shimizu,University of Glasgow,17,Brown University,Economics,academic,1,0,0,male,male
+2021,Julia Tanndal,Cornerstone Research,17,Brown University,Economics,private_company,0,1,0,female,female
+2021,Aaron Weisbrod,"University of Toronto, Mississauga",17,Brown University,Economics,academic,1,0,0,male,male
+2020,Balazs Zelity,Wesleyan,17,Brown University,Economics,private_company,0,1,0,unknown,male
+2020,Xu Zhang,"HKUST, Guangzhou",17,Brown University,Economics,private_company,0,1,0,andy,andy
+2020,Diego Ramos Toro,Dartmouth,17,Brown University,Economics,private_company,0,1,0,male,male
+2020,Stefan Hut,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2020,Catalina Ravizza,Keystone Strategy,17,Brown University,Economics,private_company,0,1,0,female,female
+2020,Hui,Amazon,17,Brown University,Economics,private_company,0,1,0,andy,andy
+2020,Oleg Semenov,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2020,Nicholas Reynolds,University of Essex,17,Brown University,Economics,academic,1,0,0,male,male
+2020,Lorenzo Aldeco,Bank of Mexico,17,Brown University,Economics,private_company,0,1,0,male,male
+2020,Sagar Wadhwa,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2020,Georgios Angelis,AMSE - AIX- Marseille School of Economics (postdoc),17,Brown University,Economics,academic,1,0,0,male,male
+2019,Michael Bedard,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2019,Vaishali Garga,Boston Fed,17,Brown University,Economics,private_company,0,1,0,female,female
+2019,Florian Gunsilius,Michigan (deferred by one year for MIT postdoc),17,Brown University,Economics,academic,1,0,0,male,male
+2019,Jamie Hansen,"UC Davis, ARE (Agricultural and Resource Econ)",17,Brown University,Economics,private_company,0,1,0,mostly_female,mostly_female
+2019,Margarita Machelett,Bank of Spain,17,Brown University,Economics,private_company,0,1,0,female,female
+2019,Mathieu Pellerin,Dimensional Fund Advisors,17,Brown University,Economics,private_company,0,1,0,male,male
+2019,Kevin Proulx,Analysis Group,17,Brown University,Economics,private_company,0,1,0,male,male
+2019,Jacob Robbins,University of Illinois at Chicago,17,Brown University,Economics,academic,1,0,0,male,male
+2019,Xuan Zhang,Singapore Management University,17,Brown University,Economics,academic,1,0,0,andy,andy
+2018,Girija Borker,World Bank,17,Brown University,Economics,government,0,0,1,female,female
+2018,Gregory Casey,Williams College,17,Brown University,Economics,academic,1,0,0,male,male
+2018,Diego Focanti,Analysis Group,17,Brown University,Economics,private_company,0,1,0,male,male
+2018,Simon Freyaldenhoven,Federal Reserve Bank of Philadelphia,17,Brown University,Economics,private_company,0,1,0,male,male
+2018,Pavitra Govindan,University of Utah,17,Brown University,Economics,academic,1,0,0,unknown,female
+2018,Jorge Perez Perez,Bank of Mexico,17,Brown University,Economics,private_company,0,1,0,male,male
+2018,Adrian Rubli Ornelas,Mexico Institute of Technology Business School,17,Brown University,Economics,academic,1,0,0,male,male
+2018,Lucas Scottini,PricewaterhouseCoopers,17,Brown University,Economics,private_company,0,1,0,male,male
+2018,Yang Shen,Hanyang University,17,Brown University,Economics,academic,1,0,0,andy,andy
+2017,Guillermo Alves,Latin American Development Bank Research Group,17,Brown University,Economics,academic,1,0,0,male,male
+2017,David Glick,Analysis Group,17,Brown University,Economics,private_company,0,1,0,male,male
+2017,Hyojin Han,Xiamen University,17,Brown University,Economics,academic,1,0,0,unknown,female
+2017,Jeongbin Kim,Caltech,17,Brown University,Economics,private_company,0,1,0,unknown,female
+2017,Michelle Marcus,Vanderbilt,17,Brown University,Economics,private_company,0,1,0,female,female
+2017,Sveta Milusheva,World Bank Research Group,17,Brown University,Economics,academic,1,0,0,female,female
+2017,Heitor Pellegrina,NYU Abu Dhabi,17,Brown University,Economics,private_company,0,1,0,male,male
+2017,Aurora Ramierz,Colegio de Mexico,17,Brown University,Economics,private_company,0,1,0,female,female
+2017,Nickolai Riabov,Netflix,17,Brown University,Economics,private_company,0,1,0,unknown,male
+2017,Sanjay Singh,UC Davis,17,Brown University,Economics,private_company,0,1,0,male,male
+2016,Maria Jose Boccardi,New York University Abu Dhabi,17,Brown University,Economics,academic,1,0,0,female,female
+2016,Alexander Eble,Columbia University,17,Brown University,Economics,academic,1,0,0,male,male
+2016,Andrew Elzinga,Cornerstone Research,17,Brown University,Economics,private_company,0,1,0,male,male
+2016,Bruno Gasperini,Capital One,17,Brown University,Economics,private_company,0,1,0,male,male
+2016,David Glancy,Federal Reserve Board of Governors,17,Brown University,Economics,government,0,0,1,male,male
+2016,Morgan Hardy,New York University Abu Dhabi,17,Brown University,Economics,academic,1,0,0,mostly_male,mostly_male
+2016,Kanghyock Koh,Korea University,17,Brown University,Economics,academic,1,0,0,unknown,male
+2016,John McNeill,University of Toronto,17,Brown University,Economics,academic,1,0,0,male,male
+2016,Angelica Meinhofer,Weill Cornell Medicine,17,Brown University,Economics,private_company,0,1,0,female,female
+2016,Daniela Scida,Federal Reserve Bank of Richmond,17,Brown University,Economics,private_company,0,1,0,female,female
+2016,Hyunjoo Yang,Sogang University,17,Brown University,Economics,academic,1,0,0,unknown,female
+2015,Alexei Abrahams,"Shorenstein Center, Harvard University",17,Brown University,Economics,academic,1,0,0,male,male
+2015,Josie Chen,National Taiwan University,17,Brown University,Economics,academic,1,0,0,female,female
+2015,Alexandra Effenberger,German Federal Ministry for Economic Affairs and Climate Action,17,Brown University,Economics,government,0,0,1,female,female
+2015,Martin Fiszbein,Boston University,17,Brown University,Economics,academic,1,0,0,male,male
+2015,Philipp Ketz,Paris School of Economics,17,Brown University,Economics,academic,1,0,0,male,male
+2015,Tim Squires,Amazon,17,Brown University,Economics,private_company,0,1,0,male,male
+2014,Paul Christian,Cornell University,17,Brown University,Economics,academic,1,0,0,male,male
+2014,Emilio Depetris,- Universidad de los Andes,17,Brown University,Economics,uncategorized,0,0,0,male,male
+2014,Shiva Koohi,Federal Trade Commission,17,Brown University,Economics,government,0,0,1,female,female
+2014,Gareth Old,Harvard Business School,17,Brown University,Economics,academic,1,0,0,male,male
+2014,Michael Suher,Board of Governors of the Federal Reserve System,17,Brown University,Economics,government,0,0,1,male,male
+2014,Takeshi Suzuki,Deloitte,17,Brown University,Economics,private_company,0,1,0,male,male
+2014,Ana Tribin,American University,17,Brown University,Economics,academic,1,0,0,female,female
+2013,Florencia Borrescio,Universidad Adolfo Ibañez School of Government,17,Brown University,Economics,academic,1,0,0,female,female
+2013,Nicholas Coleman,Federal Reserve Board,17,Brown University,Economics,government,0,0,1,male,male
+2013,Federico Droller,Universidad de Santiago de Chile,17,Brown University,Economics,private_company,0,1,0,male,male
+2013,Jacob Goldston,The World Bank,17,Brown University,Economics,private_company,0,1,0,male,male
+2013,"Martin Guzman (as of 2021, Martin is serving as Minister of Economy of Argentina)",Columbia University Business School,17,Brown University,Economics,academic,1,0,0,male,male
+2013,Tai,Nanyang Technological University,17,Brown University,Economics,academic,1,0,0,mostly_male,mostly_male
+2013,Eecheng Ong,National University of Singapore,17,Brown University,Economics,academic,1,0,0,unknown,male
+2013,Pantelis Solomon,Oxera,17,Brown University,Economics,private_company,0,1,0,male,male
+2013,Sailesh Tiwari,-World Bank,17,Brown University,Economics,private_company,0,1,0,unknown,male
+2013,Zhi Wang,Fudan University,17,Brown University,Economics,academic,1,0,0,andy,andy
+2012,Adam Storeygard,Tufts University,17,Brown University,Economics,academic,1,0,0,male,male
+2012,Yuya Sasaki,Johns Hopkins University,17,Brown University,Economics,academic,1,0,0,female,female
+2012,Manabu Nose,University of Tokyo's Graduate School of Public Policy,17,Brown University,Economics,academic,1,0,0,male,male
+2012,Yong Suk Lee,Stanford University,17,Brown University,Economics,academic,1,0,0,mostly_male,mostly_male
+2012,Tomislav Ladika,University of Amsterdam,17,Brown University,Economics,academic,1,0,0,male,male
+2012,Daeho Kim,The Ohio State University,17,Brown University,Economics,academic,1,0,0,unknown,male
+2012,Boris Gershman,American University,17,Brown University,Economics,academic,1,0,0,male,male
+2012,Mongoljin Batsaikhan,Georgetown University's School of Foreign Service in Qatar,17,Brown University,Economics,academic,1,0,0,unknown,male
+2012,Eren Arbatli,Higher School of Economics Moscow,17,Brown University,Economics,academic,1,0,0,male,male
+2011,Francisco Campos,Bank of Mexico,17,Brown University,Economics,private_company,0,1,0,male,male
+2011,Tiago Freire,National University of Singapore,17,Brown University,Economics,academic,1,0,0,male,male
+2011,Juan Carlos Gozzi,Board of Governors at the Federal Reserve,17,Brown University,Economics,government,0,0,1,male,male
+2011,Kenju Kamei,Bowling Green State University,17,Brown University,Economics,academic,1,0,0,unknown,male
+2011,Omer Ozak,- Southern Methodist University,17,Brown University,Economics,academic,1,0,0,male,male
+2011,Christos Pargianas,University of Scranton,17,Brown University,Economics,academic,1,0,0,male,male
+2011,Momotazur Rahman,Brown University,17,Brown University,Economics,academic,1,0,0,unknown,male
+2011,Katherine Casey,Stanford University,17,Brown University,Economics,academic,1,0,0,female,female
+2011,Joshua Wilde,University of South Florida,17,Brown University,Economics,academic,1,0,0,male,male
+2011,Zhaoguo Zhan,- Tsinghua University,17,Brown University,Economics,academic,1,0,0,unknown,male
+2010,James Campbell,University of Toronto,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Debipriya Chatterjee,"University of Wisconsin, Milwaukee",17,Brown University,Economics,academic,1,0,0,unknown,female
+2010,Ruben Durante,Universitat Pompeu Fabra,17,Brown University,Economics,private_company,0,1,0,male,male
+2010,Leo Feler,World Bank Group,17,Brown University,Economics,government,0,0,1,male,male
+2010,Martin R. Gotz,Federal Reserve Bank of Boston,17,Brown University,Economics,private_company,0,1,0,male,male
+2010,Yusuke Kamishiro,Kobe International University,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Chisoo Kim,APPRISE Incorporated,17,Brown University,Economics,private_company,0,1,0,unknown,female
+2010,Alexey Levkov,Federal Reserve Bank of Boston,17,Brown University,Economics,private_company,0,1,0,male,male
+2010,Petros Milionis,University of Groningen,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Roland Pongou,University of Ottawa,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Daniel Puskin,US Department of Labor,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Nathan Schiff,University of British Columbia,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Andre Switala,Boston University,17,Brown University,Economics,academic,1,0,0,male,male
+2010,Carmina Vargas,"Banco de la República, Colombia",17,Brown University,Economics,private_company,0,1,0,female,female
+2010,Svetla Vitanova,Pennsylvania State University,17,Brown University,Economics,academic,1,0,0,female,female
+2024,Huan Deng,Hong Kong Baptist University,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2024,Aniruddha Ghosh,California Polytechnic State University,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2024,Qingyang Han,Bates White Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2024,Zixuan Huang,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2024,Yusuf Kulu,Ozyegin University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2024,Jeongwon Son,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2024,Mingzuo Sun,Northeastern University of Finance and Economics,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2024,Mateo Velasquez-Giraldo,Federal Reserve Board,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2024,Fangzhu Yang,Bates White Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2024,Matthew Zahn,Bates White Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2024,Silin Huang,Analysis Group,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2023,Chuhan Liu,Analysis Group,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2023,Julien Acalin,IMF,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2023,Pablo Hernando-Kaminsky,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2023,Emma Kalish,Consumer Financial Protection Bureau,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2023,Jiwon Kim,Korea Information Society Development Institute,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2023,Strahil Lepoev,NERA Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2023,Tao Wang,Bank of Canada,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2023,Xinyu Zhao,Charles River Associates,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2022,Melih Firat,IMF,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2022,Jakree Koosakul,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2022,Andreea Rotarescu,"Assistant Professor, Wake Forest University",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2022,Himanshu Verma,Consultant at Boston Consulting Group (BCG),19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2022,Sahan Yildiz,Bates White Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2022,Tongli Zhang,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,male
+2021,Derin Aksit,"Senior Associate at PricewaterhouseCoopers, Boston",19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2021,Lalit Contractor,"Assistant Professor, Ashoka University in Delhi",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2021,Prerna Rakheja,Bates White Economic Consulting,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2021,Pavel Solis,Economist at Bank of Mexico,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2021,Shiqi Wang,Economist at Amazon,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2020,Sung Ah Bahk,"Assistant Professor, American University",19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2020,Luigi Durand,IMF,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2020,Hanchen Jiang,"Assistant Professor, University of North Texas",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2020,Osama Khan,"Post-Doctoral Fellow, University of Rochester",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2019,Edmund Crawley,Federal Reserve Board,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2019,Andrew Gray,"Post-Doctoral Researcher, Olin Business School at Washington University in St. Louis",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2019,Kyung Min Kang,"Assistant Professor of Economics, Shanghai University of Finance and Economics",19,Johns Hopkins University,Economics,academic,1,0,0,mostly_female,mostly_female
+2019,Shujaat Khan,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,male
+2019,Jianhui Li,Capital One,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2019,Ding Xuan Ng,Singapore Monetary Authority,19,Johns Hopkins University,Economics,government,0,0,1,andy,andy
+2019,Kevin Yuan,Dimensional Fund Advisors,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2018,Daniel García,Federal Reserve Board,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2018,Delong Li,"Assistant Professor of Finance (tenure-track), Department of Economics and Finance at the University of Guelph",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2018,Chang Ma,"Assistant Professor of Finance, Fanhai International School of Finance at Fudan University",19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2018,Shaiza Qayyum,Ernst & Young,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2018,Mingjian Wang,Wuhan University,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2018,Yi Xin,Assistant Professor of Economics at California Institute of Technology,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2017,Alanna Bjorklund-Young,The Johns Hopkins School of Education,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2017,Liuchun Deng,"The Halle Institute for Economic Research (IWH), joint with University of Jena",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2017,Emmanuel Garcia-Morales,The Johns Hopkins School of Public Health,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2017,Jong Jae Lee,Wuhan University,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2017,Dan Li,Xiamen University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2017,Yunting Liu,Peking University,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2017,Sohini Mahapatra,The Brattle Group,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2017,Victor Ronda,"Aarhus University & Visiting researcher, University of Chicago",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2017,Sezer Yasar,TED University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2016,Ryan Bush,Federal Reserve Bank of New York,19,Johns Hopkins University,Economics,government,0,0,1,mostly_male,mostly_male
+2016,Yajing Jiang,"Charles River Associates International, Inc.",19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2016,Burcin Kisacikoglu,"Bilkent University, Turkey",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2016,Mikhail Smirnov,CNA Corporation,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2016,Metin Uyanik,University of Rochester/ University of Queensland,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2016,Boqun Wang,Bank of America,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2016,Jiaxiong Yao,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,unknown,male
+2016,Sevcan Yesiltas,"Koc University, Turkey",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2016,Alexandra Zhang,Pew Research Center,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2015,Marco Cornia,Ernst & Young,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2015,Emek Karaca,"J.P. Morgan, New York",19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2015,Gizem Kosar,Federal Reserve Bank of New York,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2015,Yiyang Li,"Consultant at Competition Economics, LLC",19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2015,Hai Nguyen,Department of Economics at the Chinese University of Hong Kong,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2015,Gwyn Pauley,Post-doc at USC Schaeffer Center in Health Policy,19,Johns Hopkins University,Economics,private_company,0,1,0,mostly_female,mostly_female
+2014,Natsuki Arai,National Chengchi University; Taiwan,19,Johns Hopkins University,Economics,academic,1,0,0,mostly_female,mostly_female
+2014,Weining Bao,Jinhe Center for Economic Research at Xi'an Jiao Tong University; China,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2014,Blair Chapman,Montclair State University Department of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2014,Yoichi Goto,Deloitte and Touche,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2014,Leila Karakas,"Syracuse University, Maxwell School Economics Department",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2014,Christopher Martin,FDIC,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2014,Collin Rabe,University of Richmond,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2014,Lucia Tiererova,"Associate at Analysis Group, Boston",19,Johns Hopkins University,Economics,private_company,0,1,0,female,female
+2014,Hou Wang,IMF,19,Johns Hopkins University,Economics,government,0,0,1,andy,andy
+2014,Ruli Xiao,Indiana University Department of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2014,Xi Yang,Postdoc at the USC Lusk Center for Real Estate,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2014,Jiae Yoo,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2013,Colleen Carey,"Cornell PAM, following RWJ postdoc at the University of Michigan",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2013,Michele Mazzoleni,Research Affiliates LLC,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2013,Prathi Seneviratne,Carleton College Department of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2013,Matthew White,University of Delaware Department of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2013,Xiaochen Xu,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2013,Wei Zhao,Competition Economics LLC,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2013,Yizhen Zhao,East Carolina University Department of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2012,Daniel Barth,Hamilton College,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2012,Kue Peng Chauh,Central Bank of Malaysia,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2012,James Lake,Southern Methodist University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2012,Brian Phelan,DePaul University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2012,Jon Samuels,Bureau of Economic Analysis,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2012,Rodrigo Sekkel,Bank of Canada,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2012,Weifeng Wu,Fannie Mae,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2011,Yonghong An,University of Connecticut,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2011,Francesca de Nicola,International Food Policy Research,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2011,Julia Driessen,"University of Pittsburgh, Graduate School of Public Health joint with the Econ Department",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2011,Tsogbadral Galaabaatar,Ryerson University,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2011,Maia Linask,University of Richmond,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2011,Kai Liu,Norwegian School of Economics,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2010,Abhishek Gupta,Gettysburg College,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2010,Guofang Huang,Yale School of Management (post doc),19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2010,Ning Ma,Fannie Mae,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2010,Marc Remer,Department of Justice,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2010,Haomiao Yu,Ryerson University,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2009,Yonatan Ben-Shalom,Mathematica Policy Research,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2009,Marc Chan,IMPAQ International,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2009,Su-Hsin Chang,Washington University in St Louis (post doc),19,Johns Hopkins University,Economics,academic,1,0,0,unknown,female
+2009,Wendy Chi,National Taiwan University,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2009,Pierangelo De Pace,Pomona College,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2009,Kareem Ismail,IMF,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2009,Sandeep Mazumder,Wake Forest University,19,Johns Hopkins University,Economics,academic,1,0,0,mostly_male,mostly_male
+2009,Viplav Saini,Oberlin College,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2009,Damiano Sandri,IMF,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2009,Ji-Liang Shiu,National Chung Cheng University,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2009,Wei Xiao,Fannie Mae,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2008,Elif Arbatli,Bank of Canada,19,Johns Hopkins University,Economics,private_company,0,1,0,female,female
+2008,Zhou Lu,City University of New York,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2008,Rui Ota,"Chiba Keizai University, Japan",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2008,Daniel Stone,Oregon State University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2008,Kevin Thom,New York University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2008,Zhixiang Zhang,"China Economics and Management Academy (CEMA), Central University of Finance and Economics",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2007,Kenji Abe,Lehman Brothers,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2007,Silvio Contessi,St. Louis Fed,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2007,Witold Czubala,Bank of America,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2007,Anubha Dhasmana,IMF,19,Johns Hopkins University,Economics,government,0,0,1,unknown,female
+2007,Yasuo Hirose,Bank of Japan,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2007,Christopher Metcalf,Federal Trade Commission,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2007,Steffen Reinhold,"University of Mannheim, Germany",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2007,Migiwa Tanaka,Bank of Japan,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,female
+2007,Xia Zhou,Fannie Mae,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2006,Emmanuel De Veirman,Reserve Bank of New Zealand,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2006,Minako Fujio,"Otaru University of Commerce, Japan",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2006,Farhan Hameed,"Ministry of Finance, Pakistan",19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2006,Nicholas Hill,U.S. Department of Justice,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2006,Sherif Khalifa,"California State University, Fullerton",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2006,Ayako Suzuki,"Osaka University, Japan",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2006,Fabian Valencia,"Osaka University, Japan",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2005,Alena Bicakova,European University Institute,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2005,Eugenio Cerutti,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2005,Jiawei Chen,"University of California, Irvine",19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2005,Berna Demiralp,Old Dominion University,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2005,Carolina Diaz-Bonilla,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2005,Johanna Francis,Max Planck Institute for Evolutionary Economics,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2005,Daniel Gubits,Abt Associates,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2005,Sung-Hwan Kim,Korea Information Strategy Development Institute (KISDI),19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2005,Ricardo Llaudes,European Central Bank,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2005,Wei Tan,SUNY – Stony Brook,19,Johns Hopkins University,Economics,private_company,0,1,0,andy,andy
+2005,Wing Teo,National Taiwan University,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2005,Katie Winder,University of California at Merced,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2004,Kuo-Lring Chen,U. of Tokyo,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2004,Konstantin Federov,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2004,Marc Hofstetter,Universidad de Los Andes,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2004,Aylin Isik-Dikmelik,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2004,Daniel Leigh,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2004,Kevin Moore,Federal Reserve Board of Governors,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2004,Misuzu Otsuka,Asian Development Bank,19,Johns Hopkins University,Economics,private_company,0,1,0,female,female
+2004,Kathryn Russ,"U. of California, Davis",19,Johns Hopkins University,Economics,private_company,0,1,0,female,female
+2004,Jirka Slacalek,"DIW / German Institute for Economic Research, Berlin",19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2004,Yelena Takhtamanova,"California State University, Sacramento",19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2003,Gergana Danailova-Trainor,City University of New York,19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2003,Selim Elekdag,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2003,Yingyao Hu,U. of Texas,19,Johns Hopkins University,Economics,private_company,0,1,0,unknown,male
+2003,Andrew Kotikula,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2003,Sangjik Lee,Bank of Korea,19,Johns Hopkins University,Economics,government,0,0,1,unknown,male
+2003,Jacques Miniane,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2003,Eva Sierminska,Center for Population and Health (Georgetown U.),19,Johns Hopkins University,Economics,private_company,0,1,0,female,female
+2002,Burcu Duygan,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2002,Sara Mechanic,Federal Communications Commission,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2002,Martin Sommer,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2002,Robert Tchaidze,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2002,Akinori Tomohara,City University of New York,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2002,Delia Velculescu,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2002,Lawrence Zhang,The Judge Group (Economic Consulting),19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2001,Omer Alper,CNA Corp (Economic Consulting),19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2001,Alfredo Astorga,Bank of Ecuador,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2001,Maria Bonilla-Chacin,World Bank,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2001,Cristian deRitis,Fannie Mae,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2001,Joseph Gruber,"Federal Reserve Board of Governors, International Finance Division",19,Johns Hopkins University,Economics,government,0,0,1,male,male
+2001,Daniel Hinze,German Central Bank,19,Johns Hopkins University,Economics,private_company,0,1,0,male,male
+2001,Niamh Sheridan,International Monetary Fund,19,Johns Hopkins University,Economics,government,0,0,1,female,female
+2001,Julie Smith,Trinity University (San Antonio),19,Johns Hopkins University,Economics,academic,1,0,0,female,female
+2001,Akinori Tomohara,Postdoctoral Fellow at Columbia University,19,Johns Hopkins University,Economics,academic,1,0,0,male,male
+2001,Junfu Zhang,Public Policy Institute of California,19,Johns Hopkins University,Economics,academic,1,0,0,unknown,male
+2001,Zhong Zhao,Peking University,19,Johns Hopkins University,Economics,academic,1,0,0,andy,andy
+2024,Anushka Mitra,"Federal Reserve Board, Economist",20,University of Texas at Austin,Economics,government,0,0,1,female,female
+2024,Ebrahim Aliabadi Farahani,"Keystone Consulting, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,male,male
+2024,Gue Sung Choi,"Korean Development Institute, Associate Research Fellow",20,University of Texas at Austin,Economics,academic,1,0,0,andy,andy
+2024,Ha Bui,"Grinnell College, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,mostly_male,mostly_male
+2024,Hande Nur Celebi,"Universite Libre de Bruxelles, Post-Doc",20,University of Texas at Austin,Economics,private_company,0,1,0,female,female
+2024,Jinyeong Son,"Placement: Harvard Kennedy School, Post-Doc",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2024,Jung Hyub Lee,"University of Tokyo, Research Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,andy,andy
+2024,Prankur Gupta,"Amazon, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,unknown,male
+2024,Trenton Herriford,"University of Texas at Austin, Lecturer",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2024,Yihang Zhou,"Nankai University, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2024,Zhenning Zhao,"Bank of America, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,unknown,male
+2024,Ziyue Xu,"Placement: Boston University School of Public Health, Research Scientist",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2023,Name,First Position,20,University of Texas at Austin,Economics,uncategorized,0,0,0,unknown,unknown
+2023,Abolfazl Rezghi,"International Monetary Fund, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,unknown,male
+2023,Bokyung Kim,"Stanford Institute for Economic Policy Research, Stanford University, Post-Doc then University of Connecticut, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2023,Changseok Ma,"Korean Development Institute, Associate Research Fellow",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2023,David Jang,"Bureau of Economic Analysis, Research Economist",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2023,Dongchen Zhao,"Becker Friedman Institute, University of Chicago, Visitor then University of Cincinnati, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2023,Frederico Godinho,"Bank of Portugal, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,male,male
+2023,Ignacio Nunez,"Charles River Associates, Economist",20,University of Texas at Austin,Economics,uncategorized,0,0,0,male,male
+2023,Justus Timmers,"Bates White, Economist",20,University of Texas at Austin,Economics,uncategorized,0,0,0,male,male
+2023,Lauri Kytömaa,"Cornell SC Johnson School of Business, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2023,Mauricio Stern,"Bank of Mexico, Research Economist",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2023,Qingsong Pan,"Shandong University, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2023,Rachel Behrmann,"Georgia Institute of Technology, Lecturer",20,University of Texas at Austin,Economics,academic,1,0,0,female,female
+2023,Roberto Gillmore,"Central Bank of Chile, Senior Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,male,male
+2023,Sadhika Bagga,"Columbia Business School, Post-Doc & Roosevelt Institute, Fellow then University of Rochester, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2022,Name,First Position,20,University of Texas at Austin,Economics,uncategorized,0,0,0,unknown,unknown
+2022,Akiva Yonah Meiselman,"RIPL (Research Improving People's Lives), Economist",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2022,Andrew Lee,"Federal Trade Commission, Economist",20,University of Texas at Austin,Economics,government,0,0,1,male,male
+2022,Anjali P. Verma,"Amazon, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,female,female
+2022,Emrehan Aktug,"Sabancı University, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2022,Eric Schulman,"Congressional Budget Office, Economist",20,University of Texas at Austin,Economics,uncategorized,0,0,0,male,male
+2022,Gwangmin Kim,"Meta (Facebook), Research Scientist",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2022,Jin Yan,"Revelio Labs, Economist",20,University of Texas at Austin,Economics,uncategorized,0,0,0,female,female
+2022,Molin Li,"University of Nottingham Ningbo, China",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2022,Nir Eilam,"UNC Greensboro, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2022,Sam Stripling,"Integra, Economist",20,University of Texas at Austin,Economics,uncategorized,0,0,0,mostly_male,mostly_male
+2022,Samuel Arenberg,"NBER (Aging and Health) Post-Doc; then University of Houston, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2022,Sangita Vyas,"Hunter College (CUNY), Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,female,female
+2022,Seth Neller,"University of Tennessee, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2022,Shaofei Jiang,"University of Bonn, Post-Doc",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,male
+2022,Songjie Huang,"Walmart, Senior Data Scientist",20,University of Texas at Austin,Economics,private_company,0,1,0,unknown,female
+2021,Name,First Position,20,University of Texas at Austin,Economics,uncategorized,0,0,0,unknown,unknown
+2021,Alexandra Charbi,"Charles River Associates, Senior Associate",20,University of Texas at Austin,Economics,uncategorized,0,0,0,female,female
+2021,Carlos Esparza,"Saint Louis University, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2021,Ivan Larsen,"Department of Justice (Antitrust Division), Economist",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2021,James Brand,"Microsoft Research, Economist",20,University of Texas at Austin,Economics,academic,1,0,0,male,male
+2021,Jan Schlupp,"Amazon, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,male,male
+2021,Jiwon Park,Korea Institute for International Economic Policy,20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2021,Pablo I. Varas,"Economists Incorporated, Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,male,male
+2021,Sangwoo Choi,"Luohan Academy (Alibaba Group), Economist",20,University of Texas at Austin,Economics,private_company,0,1,0,unknown,male
+2021,Shenshen Yang,"Tianjin University, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,unknown,female
+2021,Vasudha Jain,"Indian Institute of Technology Kanpur, Assistant Professor",20,University of Texas at Austin,Economics,academic,1,0,0,female,female

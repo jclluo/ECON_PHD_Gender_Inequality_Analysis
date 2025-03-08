@@ -8,6 +8,26 @@
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
   />
   <link rel="stylesheet" href="css/style.css" />
+  
+  <!-- Page-specific styles -->
+  <style>
+    .analysis-page {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    
+    .analysis-section {
+      margin-bottom: 4rem;
+    }
+    
+    .trend-note {
+      background: var(--paper-1);
+      border-left: 4px solid var(--accent-coral);
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+  </style>
 </head>
 <body>
   <!-- NAVBAR -->
@@ -48,140 +68,75 @@
   </nav>
 
   <!-- MAIN CONTENT -->
-  <div class="container mt-4">
-    <h2 id="analysis">Analysis</h2>
+  <div class="analysis-page">
+    <div class="academic-container">
+      <h2 class="section-header mb-4">Analysis Results</h2>
 
-    <h3>Change in Number of Candidates</h3>
-    <div class="row">
-      <div class="col-md-12 mb-4">
-        <div class="graph-container">
-          <iframe src="source/output/candidates_trend.html" 
-                  frameborder="0"
-                  width="100%" 
-                  height="600px">
-          </iframe>
+      <!-- 1. Trend in Candidates -->
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">1. Trend in Women Candidates</h3>
+        </div>
+        <div class="card-body">
+          <div class="graph-container">
+            <iframe src="source/output/graphs/women_percentage_trend.html" 
+                    style="border:none;"
+                    width="100%"
+                    height="400px">
+            </iframe>
+          </div>
+          <div class="trend-note">
+            <p>The graph shows the percentage of women candidates in Economics PhD programs over time, highlighting trends in gender representation.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2. Gender Distribution by University Ranking -->
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">2. Gender Distribution by University Ranking</h3>
+        </div>
+        <div class="card-body">
+          <div class="graph-container">
+            <iframe src="source/output/graphs/gender_by_ranking_combined_side_by_side.html"
+                    style="border:none;"
+                    width="100%"
+                    height="500px">
+            </iframe>
+          </div>
+          <div class="trend-note">
+            <p>Comparison of gender distribution across different university ranking brackets, showing both historical and recent (2021-2024) trends.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Additional Analysis Sections -->
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">3. Placement Analysis</h3>
+        </div>
+        <div class="card-body">
+          <div class="table-wrapper">
+            <iframe src="source/output/tables/placement_by_university_year_placement_type.html"
+                    style="border:none;"
+                    width="100%"
+                    height="500px">
+            </iframe>
+          </div>
         </div>
       </div>
     </div>
-
-    <h3>Placement Trends</h3>
-    <div class="row">
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/private_placements_trend.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/academic_placements_trend.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/government_placements_trend.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/combined_placements_trend.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/placement_pie_chart.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-        <div class="col-md-12 mb-4">
-            <div class="graph-container">
-                <iframe src="source/output/placement_liquid.html" 
-                        frameborder="0"
-                        width="100%"
-                        height="600px">
-                </iframe>
-            </div>
-        </div>
-    </div>
-
-    
-
-    <h3>Key Insights</h3>
-    <p><strong>Placement by Type:</strong></p>
-    <ul>
-      <li>60.48% of candidates were placed in academic positions.</li>
-      <li>13.73% went to industry roles.</li>
-      <li>11.08% of candidates became postdocs.</li>
-    </ul>
-
-    <h4>Tabular Representation of Gender Composition</h4>
-    <div class="table-responsive">
-      <table class="table table-bordered align-middle text-center">
-        <thead class="table-dark">
-          <tr>
-            <th>Gender</th>
-            <th>Overall (%)</th>
-            <th>Academic (%)</th>
-            <th>Postdoc (%)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Male</td>
-            <td>70.65</td>
-            <td>69.60</td>
-            <td>68.57</td>
-          </tr>
-          <tr>
-            <td>Female</td>
-            <td>29.35</td>
-            <td>30.40</td>
-            <td>31.43</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <p>
-      The table presents the gender composition across three categories: overall, 
-      academic positions, and postdoc positions. Males comprise ~70% overall, with slightly 
-      lower percentages in academic/postdoc roles. Females represent ~29.3% overall, with 
-      a modest increase in academic/postdoc (30.4%, 31.4%).
-    </p>
-
-    <p>
-      For detailed results, see 
-      <em>Gender Gap PhD STEM Analysis</em> (referenced in the original data).
-    </p>
   </div>
 
   <!-- FOOTER -->
   <footer class="bg-light text-center text-secondary py-3 mt-5">
     <p style="margin-bottom: 0;">
       &copy; <span id="year"></span> Gender Inequality in Economics PhD.
-      Created by Lea, Samantha, Amy, Chris, and Tracy.
+      Created by Chris Luo.
     </p>
   </footer>
 
-  <!-- Optional Bootstrap JavaScript -->
+  <!-- Scripts -->
   <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
   ></script>

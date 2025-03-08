@@ -2,15 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Code Guide</title>
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-  />
+  <title>Code Guide - Gender Inequality in Econ PhD</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <!-- NAVBAR -->
+  <!-- NAVBAR (keep existing) -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">Gender Inequality in Econ PhD</a>
@@ -37,184 +35,261 @@
             <a class="nav-link" href="data-processing.html">Data Processing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="code-guide.html">Code Guide</a>
+            <a class="nav-link" href="code-guide.html">Code Guide</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="analysis.html">Analysis</a>
+            <a class="nav-link active" href="analysis.html">Analysis</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
-
   <!-- MAIN CONTENT -->
-  <div class="container mt-4">
-    <h2>Code Guide</h2>
-    <h3>Data Scraping using Python</h3>
-    <p>
-      Below is a very brief overview of how data scraping works with Python.
-    </p>
-    <ol>
-      <li><strong>Import Required Packages</strong>:
-        <pre><code>
-import requests
-from bs4 import BeautifulSoup
-        </code></pre>
-      </li>
-      <li><strong>Fetch Webpage Content</strong>:
-        <pre><code>
-response = requests.get("https://example.com")
-html_content = response.text
-        </code></pre>
-      </li>
-      <li><strong>Parse HTML Content</strong>:
-        <pre><code>
-soup = BeautifulSoup(html_content, "html.parser")
-        </code></pre>
-      </li>
-      <li><strong>Extract Data</strong>:
-        <pre><code>
-data = soup.find_all('div', class_='data-class')
-        </code></pre>
-      </li>
-      <li><strong>Clean and Structure Data</strong>:
-        <p>Process extracted data into a structured format (e.g., lists or dictionaries).</p>
-      </li>
-      <li><strong>Save Data to CSV</strong>:
-        <pre><code>
-import pandas as pd
-df = pd.DataFrame(data)
-df.to_csv("output.csv", index=False)
-        </code></pre>
-      </li>
-    </ol>
+  <div class="container mt-4 code-guide-container">
+    <h1 class="code-guide-title">Technical Documentation</h1>
+    
+    <div class="alert alert-guide">
+      <strong>Repository Structure:</strong>
+      <code>├── source/</code>
+      <code>│   ├── data/</code>
 
-    <h4>Corresponding Files</h4>
-    <p>Please refer to the following table for scripts:</p>
-    <div class="table-responsive">
-      <table class="table table-striped table-bordered align-middle">
-        <thead class="table-dark">
-          <tr>
-            <th>School</th>
-            <th>File Name</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>NYU</td>
-            <td><code>NYU_code.py</code></td>
-            <td>Scrapes NYU JMC data and performs analysis.</td>
-          </tr>
-          <tr>
-            <td>UCB and UChicago</td>
-            <td><code>UCB_UCHICAGO_SCRAPE.ipynb</code></td>
-            <td>Scrapes JMC information and processes data.</td>
-          </tr>
-          <tr>
-            <td>UC Davis Economics PhD</td>
-            <td><code>UCD_EconPhD.ipynb</code></td>
-            <td>Extracts and processes Economics PhD data.</td>
-          </tr>
-          <tr>
-            <td>UC Davis Political Science PhD</td>
-            <td><code>UCD_PoliSciPhD.ipynb</code></td>
-            <td>Handles Political Science PhD data scraping and processing.</td>
-          </tr>
-          <tr>
-            <td>UC Merced Economics PhD</td>
-            <td><code>UCM_EconPhD.ipynb</code></td>
-            <td>Analyzes Economics PhD data.</td>
-          </tr>
-          <tr>
-            <td>UC Merced Political Science PhD</td>
-            <td><code>UCM_PoliSciPhD.ipynb</code></td>
-            <td>Scrapes and processes Political Science PhD data.</td>
-          </tr>
-          <tr>
-            <td>UCSD Business PhD</td>
-            <td><code>UCSD_BusinessPhD.ipynb</code></td>
-            <td>Analyzes Business PhD data.</td>
-          </tr>
-          <tr>
-            <td>UCSD Economics PhD</td>
-            <td><code>UCSD_EconPhD.ipynb</code></td>
-            <td>Extracts and cleans Economics PhD data.</td>
-          </tr>
-          <tr>
-            <td>UCSD Political Science PhD</td>
-            <td><code>UCSD_PoliSciPhD.ipynb</code></td>
-            <td>Analyzes Political Science PhD candidate data.</td>
-          </tr>
-          <tr>
-            <td>University of Chicago</td>
-            <td><code>chicago8.py</code></td>
-            <td>Processes PhD candidate information.</td>
-          </tr>
-          <tr>
-            <td>Northwestern Economics</td>
-            <td><code>nwecon2.py</code></td>
-            <td>Processes Economics candidate data.</td>
-          </tr>
-          <tr>
-            <td>Stanford</td>
-            <td><code>stanford.py</code></td>
-            <td>Scrapes PhD candidate data and extracts website links.</td>
-          </tr>
-          <tr>
-            <td>General-purpose</td>
-            <td><code>test6.py</code></td>
-            <td>Extracts data and performs processing.</td>
-          </tr>
-          <tr>
-            <td>University of Chicago (advanced)</td>
-            <td><code>u_chicago_v9.py</code></td>
-            <td>Handles advanced data processing for PhD candidates.</td>
-          </tr>
-          <tr>
-            <td>University of Pennsylvania Economics</td>
-            <td><code>upenn_econ.csv</code></td>
-            <td>Contains Economics PhD candidate data.</td>
-          </tr>
-          <tr>
-            <td>Yale</td>
-            <td><code>yale_econ_jm_candidates.ipynb</code></td>
-            <td>Script for current (2023-2024) Yale Economics PhD candidate website scraping.</td>
-          </tr>
-          <tr>
-            <td>Yale</td>
-            <td><code>yale_econ_jm_candidates_v2.ipynb</code></td>
-            <td>Script for past (2019-2022) Yale Economics PhD candidate website scraping.</td>
-          </tr>
-          <tr>
-            <td>Yale</td>
-            <td><code>yale_econ_jm_placements.ipynb</code></td>
-            <td>Script for Yale Economics PhD job placements.</td>
-          </tr>
-          <tr>
-            <td>Yale</td>
-            <td><code>yale_econ_jm_candidates_wayback_links.csv</code></td>
-            <td>CSV file with Wayback Machine links for past Yale Economics PhD candidates.</td>
-          </tr>
-        </tbody>
-      </table>
     </div>
+    <section class="guide-section" id="scraping-process">
+      <h2 class="section-title">Data Scraping Pipeline</h2>
+      <p class="text-muted">Note: The code examples below are simplified demonstrations for illustrative purposes only. For the complete, production-ready implementation, please refer to the Codebase Reference section.</p>
+      <div class="code-process">
+        <div class="process-step">
+          <h3 class="step-title">1. Web Scraping Workflow</h3>
+          <div class="code-block">
+            <div class="code-header">
+              <span class="lang-badge">Python 3.9+</span>
+              <span class="file-path">scripts/web_scraper.py</span>
+            </div>
+            <pre><code class="language-python">
+# Import required libraries
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+
+def scrape_phd_data(url):
+    """Scrape PhD candidate data from university websites"""
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Example extraction pattern
+    candidates = []
+    for profile in soup.select('.faculty-listing'):
+        name = profile.find('h3').text.strip()
+        department = profile.find('div', class_='dept').text
+        candidates.append({'name': name, 'department': department})
+    
+    return pd.DataFrame(candidates)
+            </code></pre>
+          </div>
+        </div>
+        <div class="process-step">
+          <h3 class="step-title">2. Data Cleaning</h3>
+          <div class="code-block">
+            <pre><code class="language-python">
+# Gender detection function
+def detect_gender(name):
+    from gender_guesser.detector import Detector
+    d = Detector()
+    first_name = name.split()[0]
+    return d.get_gender(first_name)
+            </code></pre>
+          </div>
+        </div>
+
+        <div class="process-step">
+          <h3 class="step-title">3. Data Merging</h3>
+          <div class="code-block">
+            <pre><code class="language-python">
+# Import and merge university datasets
+def merge_university_data():
+    # Load individual university datasets
+    harvard_df = pd.read_csv('data/harvard_candidates.csv')
+    stanford_df = pd.read_csv('data/stanford_candidates.csv') 
+    yale_df = pd.read_csv('data/yale_candidates.csv')
+    
+    # Add university column to each dataset
+    harvard_df['university'] = 'Harvard University'
+    stanford_df['university'] = 'Stanford University'
+    yale_df['university'] = 'Yale University'
+    
+    # Merge all dataframes
+    merged_df = pd.concat([
+        harvard_df,
+        stanford_df, 
+        yale_df
+    ], ignore_index=True)
+    
+    # Standardize column names
+    merged_df.columns = merged_df.columns.str.lower()
+    
+    # Add gender classification
+    merged_df['gender'] = merged_df['name'].apply(detect_gender)
+    
+    return merged_df
+            </code></pre>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="guide-section" id="code-reference">
+      <h2 class="section-title">Codebase Reference</h2>
+      <div class="alert alert-notes">
+        <strong>Implementation Notes:</strong>
+        <ul>
+          <li>All scripts require Python 3.9+</li>
+          <li>Jupyter notebooks include EDA visualizations</li>
+          <li>Data versioning managed with DVC</li>
+        </ul>
+      </div>
+
+      <div class="file-reference-table">
+        <table class="table table-file-ref">
+          <thead>
+            <tr>
+              <th>Institution</th>
+              <th>File Type</th>
+              <th>Code Artifact</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="uni-badge">University of Pennsylvania</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/process_old.ipynb">process_old.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UC Berkeley</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/process_old.ipynb">process_old.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Yale</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/process_old.ipynb">process_old.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Columbia University</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/process_old.ipynb">process_old.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UCSD</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/new_steps.ipynb">new_steps.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UC Riverside</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/new_steps.ipynb">new_steps.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UC Davis</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/new_steps.ipynb">new_steps.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Stanford</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/new_steps.ipynb">new_steps.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Harvard</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">NYU</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Duke</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UMich</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Brown</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">JHU</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">UT Austin</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/scrape_missing.ipynb">scrape_missing.ipynb</a></code></td>
+              <td>Notebook containing steps to scrape PhD placement data</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">All Universities</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/dataset_combine.ipynb">dataset_combine.ipynb</a></code></td>
+              <td>Combines all university datasets into final dataset</td>
+            </tr>
+            <tr>
+              <td><span class="uni-badge">Analysis</span></td>
+              <td><span class="file-type">📒 Notebook</span></td>
+              <td><code><a href="source/code/final_analysis.ipynb">final_analysis.ipynb</a></code></td>
+              <td>Contains all our data analysis and visualization code</td>
+            </tr>
+            <!-- Add other rows -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="guide-section" id="dependencies">
+      <h2 class="section-title">Dependency Management</h2>
+      <div class="code-block">
+        <div class="code-header">
+          <span class="lang-badge">requirements.txt</span>
+        </div>
+        <pre><code class="language-text">
+beautifulsoup4==4.12.2
+pandas==2.0.3
+requests==2.31.0
+selenium==4.10.0
+gender-guesser==0.4.0
+jupyterlab==4.0.4
+        </code></pre>
+      </div>
+    </section>
   </div>
 
-  <!-- FOOTER -->
-  <footer class="bg-light text-center text-secondary py-3 mt-5">
-    <p style="margin-bottom: 0;">
-      &copy; <span id="year"></span> Gender Inequality in Economics PhD.
-      Created by Lea, Samantha, Amy, Chris, and Tracy.
-    </p>
-  </footer>
+  <!-- FOOTER (keep existing) -->
 
-  <!-- Optional Bootstrap JavaScript -->
-  <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
-  ></script>
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script>hljs.highlightAll();</script>
 </body>
 </html>

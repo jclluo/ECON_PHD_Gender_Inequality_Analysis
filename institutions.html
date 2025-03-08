@@ -11,10 +11,28 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/style.css" />
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  
+  <!-- Page-specific styles -->
+  <style>
+    .institutions-page {
+      margin: 0 auto;
+      max-width: 1600px;
+      padding: 0 2rem;
+    }
+    
+    .institutions-page .academic-container {
+      margin: 2rem auto;
+      padding: 3rem;
+    }
+    
+    .institutions-page .academic-footer {
+      margin-top: 4rem;
+    }
+  </style>
 </head>
 <body>
   <!-- NAVBAR -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-light bg-academic">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">Gender Inequality in Econ PhD</a>
       <button
@@ -51,179 +69,158 @@
   </nav>
 
   <!-- MAIN CONTENT -->
-  <div class="container mt-4">
-    <h2 id="targeted-institutions">Targeted Institutions</h2>
+  <div class="institutions-page">
+    <div class="academic-container">
+      <h2 class="section-header mb-4">Targeted Institutions</h2>
 
-    <h3>Top 20 Economics Schools (US News, 2022)</h3>
-    <ul>
-      <li>Harvard</li>
-      <li>MIT</li>
-      <li>Stanford</li>
-      <li>Princeton</li>
-      <li>University of California, Berkeley</li>
-      <li>University of Chicago</li>
-      <li>Yale University</li>
-      <li>Northwestern University</li>
-      <li>Columbia University</li>
-      <li>University of Pennsylvania</li>
-      <li>New York University</li>
-      <li>University of California, Los Angeles</li>
-      <li>University of Michigan, Ann Arbor</li>
-      <li>California Institute of Technology</li>
-      <li>Cornell University</li>
-      <li>University of California, San Diego</li>
-      <li>University of Wisconsin, Madison</li>
-      <li>Duke University</li>
-      <li>University of Minnesota, Twin Cities</li>
-      <li>Brown University</li>
-    </ul>
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">Top 20 Economics Schools (US News, 2022)</h3>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-md-6">
+              <ul class="institution-list">
+                <li class="list-group-item">1. Harvard University</li>
+                <li class="list-group-item">2. MIT</li>
+                <li class="list-group-item">3. Stanford University</li>
+                <li class="list-group-item">4. Princeton University</li>
+                <li class="list-group-item">5. UC Berkeley</li>
+                <li class="list-group-item">6. University of Chicago</li>
+                <li class="list-group-item">7. Yale University</li>
+                <li class="list-group-item">8. Northwestern University</li>
+                <li class="list-group-item">9. Columbia University</li>
+                <li class="list-group-item">10. University of Pennsylvania</li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              <ul class="institution-list">
+                <li class="list-group-item">11. New York University</li>
+                <li class="list-group-item">12. UCLA</li>
+                <li class="list-group-item">13. University of Michigan, Ann Arbor</li>
+                <li class="list-group-item">14. California Institute of Technology</li>
+                <li class="list-group-item">15. Cornell University</li>
+                <li class="list-group-item">16. UC San Diego</li>
+                <li class="list-group-item">17. University of Wisconsin, Madison</li>
+                <li class="list-group-item">18. Duke University</li>
+                <li class="list-group-item">19. University of Minnesota, Twin Cities</li>
+                <li class="list-group-item">20. Brown University</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
 
-    <h3>Additional Schools</h3>
-    <ul>
-      <li>University of California, Davis</li>
-      <li>University of California, Merced</li>
-      <li>University of California, Riverside</li>
-      <li>University of California, Irvine</li>
-    </ul>
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">Additional UC Schools</h3>
+        </div>
+        <div class="card-body">
+          <ul class="institution-list">
+            <li class="list-group-item">UC Davis</li>
+            <li class="list-group-item">UC Merced</li>
+            <li class="list-group-item">UC Riverside</li>
+            <li class="list-group-item">UC Irvine</li>
+          </ul>
+        </div>
+      </div>
 
-    <h3>Schools & Departments</h3>
-    <div class="table-responsive">
-      <table class="table table-striped table-bordered align-middle">
-        <thead class="table-dark">
-          <tr>
-            <th>University</th>
-            <th>Department</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Harvard University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Massachusetts Institute of Technology</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Stanford</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Princeton</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of California, Berkeley</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of California, Berkeley</td>
-            <td>HASS</td>
-          </tr>
-          <tr>
-            <td>University of California, Berkeley</td>
-            <td>ARE</td>
-          </tr>
-          <tr>
-            <td>University of Chicago</td>
-            <td>Business</td>
-          </tr>
-          <tr>
-            <td>University of Chicago</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Yale University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Northwestern</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Northwestern</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Columbia University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of Pennsylvania</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>New York Univiersity</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of California, Los Angeles</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of Michigan, Ann Arbor</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>California institue of Technology</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Cornell University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>UC San Diego</td>
-            <td>Business</td>
-          </tr>
-          <tr>
-            <td>UC San Diego</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>UC San Diego</td>
-            <td>Political Science</td>
-          </tr>
-          <tr>
-            <td>University of Wisconsin, Madison</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Duke University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>University of Minnesota, Twin Cities</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>Brown University</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>UC Merced</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>UC Merced</td>
-            <td>Political Science</td>
-          </tr>
-          <tr>
-            <td>UC Davis</td>
-            <td>Economics</td>
-          </tr>
-          <tr>
-            <td>UC Davis</td>
-            <td>Political Science</td>
-          </tr>
-        </tbody>
-      </table>
+      <h2 class="section-header mt-5 mb-4">Schools & Departments Analysis</h2>
+      <p class="lead-text mb-4">
+        While our initial target included all top economics programs, not every institution's website provided 
+        the necessary data for our analysis. The table below shows the specific schools and departments 
+        where we were able to gather comprehensive information about PhD candidates and their placements.
+      </p>
+
+      <div class="academic-card mb-4">
+        <div class="academic-card-header">
+          <h3 class="card-title">Analyzed Departments by Institution</h3>
+        </div>
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-special">
+              <thead class="table-dark">
+                <tr>
+                  <th>University</th>
+                  <th>Department</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Brown University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Columbia University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Cornell University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Duke University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Harvard University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Johns Hopkins University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>New York University</td>
+                  <td>Stern</td>
+                </tr>
+                <tr>
+                  <td>Stanford University</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>UC Berkeley</td>
+                  <td>HASS</td>
+                </tr>
+                <tr>
+                  <td>UC Davis</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>UC Riverside</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>UC San Diego</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>University of Michigan</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>University of Pennsylvania</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>University of Texas at Austin</td>
+                  <td>Economics</td>
+                </tr>
+                <tr>
+                  <td>Yale University</td>
+                  <td>Economics</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- FOOTER -->
-  <footer class="bg-light text-center text-secondary py-3 mt-5">
-    <p style="margin-bottom: 0;">
+  <footer class="academic-footer text-center">
+    <p class="mb-0">
       &copy; <span id="year"></span> Gender Inequality in Economics PhD.
       Created by Lea, Samantha, Amy, Chris, and Tracy.
     </p>
