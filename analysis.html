@@ -106,11 +106,7 @@
           </ul>
         </li>
         <li>
-          <a href="#gender-placements">Gender-specific Placements</a>
-          <ul>
-            <li><a href="#female-flow">Female Placement Flow</a></li>
-            <li><a href="#male-flow">Male Placement Flow</a></li>
-          </ul>
+          <a href="#answering-questions">Answering the Questions: Does Gender Distribution Exists in Economics PhD?</a>
         </li>
       </ul>
     </div>
@@ -124,6 +120,7 @@
         <h1 class="subsection-header"><i class="fas fa-users"></i> Candidate Demographics</h1>
         <p style="font-size: 1.3rem; padding-bottom: 1.5rem;">We begin our 
           analysis with the candidate demographics. We will look at the trend of the candidates over time, and the key insights from the candidate demographics.
+          The graph below shows the trend of the candidates and trend of the gender distribution over time. Through this we can also see the trend of gender distribution.
         </p>
         <div class="row g-4">
           <!-- Main Trend Visualization -->
@@ -132,7 +129,11 @@
               <h3 class="card-title" id="phd-trends">PhD Candidate Trends Over Time</h3>
               <iframe class="graph-iframe" style="--graph-height: 1300px;" src="source/output/graphs/candidates_trend.html"></iframe>
               <div class="trend-note">
-                <p>This visualization shows the overall trends in PhD candidate demographics over time. The graph illustrates the changing composition of economics PhD candidates, highlighting important patterns in gender distribution across years.</p>
+                <p>This visualization shows the overall trends in PhD candidate demographics over time. 
+                  The graph illustrates the changing composition of economics PhD candidates, highlighting important patterns in gender distribution across years.
+                Additional lines show the trend for individual schools, see the legend for more details.<br><br>
+               
+              </p>
               </div>
             </div>
           </div>
@@ -160,26 +161,38 @@
         <div class="row g-4 mt-2">
           <div class="col-md-6">
             <div class="analysis-card">
-              <h3 class="card-title">UCR Gender Distribution</h3>
-              <iframe class="graph-iframe" src="source/output/graphs/ucr_gender_distribution.html"></iframe>
+              <h3 class="card-title">Duke Gender Distribution</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/duke_gender_distribution.html"></iframe>
             </div>
           </div>
           <div class="col-md-6">
             <div class="analysis-card">
-              <h3 class="card-title">Yale Gender Distribution</h3>
-              <iframe class="graph-iframe" src="source/output/graphs/yale_gender_distribution.html"></iframe>
+              <h3 class="card-title">UT Austin Gender Distribution</h3>
+              <iframe class="graph-iframe" src="source/output/graphs/ut_gender_distribution.html"></iframe>
             </div>
           </div>
         </div>
         <div class="col-lg-12">
           <div class="analysis-card">
-            <h3 class="card-title">Key Insights from Gender Demographics</h3>
             <div class="graph-annotation">
-              <p>The placement analysis reveals interesting patterns in how PhD candidates transition into various roles after graduation. 
-                While academia remains the primary career trajectory for Economics PhDs, alternative career paths, particularly in the private sector, 
-                are becoming more common. The increasing share of private-sector employment may indicate a shifting landscape where economic expertise
-                 is increasingly valued outside of traditional academic institutions. Additionally, the relatively stable but smaller share of 
-                 government placements suggests a steady demand for economists in policy-making and public administration.</p>
+              <h4>Key Insights from Candidate Demographics</h4>
+              <p>The trend of Candidates shows expected result. As time progresses the overall numbe of candidate increase due to both the increase in 
+                PHD students and the increase in the number of schools offering this PHD program. 
+                The gender distribution shows that the percentage of female candidates is fluctuating between 20 to 40 percent with recent years average
+                around 30 percent. Overally there is a notable increase from the beginning of the data collection, with fluctuation througout the years.
+                This suggest that the gender distribution is not affected by the number of schools offering this PHD program.
+
+              </p>
+
+              <h4>Possible Explanation</h4>
+              <p>
+                A part of this fluctuatation is due to the increase in the number of schools offering this PHD program. 
+                The number of schools offering this PHD program has increasedover the years. Some programs are relatively new and have not yet 
+                collected enough data to show a trend while some other programs have more than 20 years of data. Yet, as we can see from the gender distribution
+                of Duke and UT Austin, the gender distribution is relatively stable over the years. This suggest that the increase in the number of schools 
+                offering this PHD program is not the main driver of the gender distribution.
+              </p>
+              </p>
             </div>
           </div>
         </div>
@@ -222,12 +235,27 @@
             </div>
           </div>
           <div class="col-lg-9">
+            <div class="analysis-card" style="--card-height: 650px;">
+              <iframe class="graph-iframe" style="--graph-height: 650px;" src="source/output/graphs/placement_liquid.html"></iframe>
+            </div>
+          
+        </div>
+
+        <p style="font-size: 1.3rem; padding-bottom: 1.5rem;"> Now we will look at the placment's affect on the gender distribution.</p>
+        <div class="col-lg-12">
             <div class="analysis-card">
-              <h3 class="card-title" id="placement-liquid">Placement Liquid Chart</h3>
-              <iframe class="graph-iframe" style="height: 600px; width: 100%;" src="source/output/graphs/placement_liquid.html"></iframe>
+              <h3 class="card-title" id="placement-liquid">Gender Placement</h3>
+              <iframe class="graph-iframe" style="height: 600px; width: 100%;" src="source/output/graphs/gender_placement_distribution.html"></iframe>
+            </div>
+            <div class="trend-note">
+              <p>
+                This visualization shows the placement composition of the candidates by gender. 
+                We can see that the placement composition is relatively similar between male and female candidates.
+                This suggest that the placement is not affected by the gender of the candidates.
+                This is a good news for the gender equality in the economics field.
+              </p>
             </div>
           </div>
-          
         </div>
       </section>
   
@@ -267,24 +295,33 @@
       </section>
   
       <!-- 4. Gender-specific Placement Section -->
-      <section class="analysis-section" id="gender-placements">
-        <h1 class="subsection-header"><i class="fas fa-venus-mars"></i> Gender-specific Placements</h1>
-      
-        <div class="row g-8">
-          <div class="col-lg-9">
-            <div class="analysis-card gender-card female"  style="--card-height: 700px;">
-              <h3 class="card-title" id="female-flow">Female Placement Flow</h3>
-              <iframe class="graph-iframe" style="--graph-height: 700px;" src="source/output/graphs/gender_placement_flow_female.html"></iframe>
-            </div>
-          </div>
-          
-          <div class="col-lg-9">
-            <div class="analysis-card gender-card male" style="--crad-height: 700px;">
-              <h3 class="card-title" id="male-flow">Male Placement Flow</h3>
-              <iframe class="graph-iframe" style="--graph-height: 700px;" src="source/output/graphs/gender_placement_flow_male.html"></iframe>
-            </div>
-          </div>
-  
+      <section class="analysis-section" id="answering-questions">
+        <h1 class="subsection-header"><i class="fas fa-venus-mars"></i> Answering the Questions: Does Gender Distribution Exists in Economics PhD?</h1>
+        <p style="font-size: 1.3rem; padding-bottom: 1.5rem;">
+          From the analysis above, we can see that the gender distribution is not affected by the number of schools offering this PHD program, 
+          the placement, or the ranking. This suggest that the gender distribution is not affected by the external factors, but rather by the internal factors.
+          This leads to the question: Does gender distribution exists in Economics PhD?
+        </p>
+
+        <p style="font-size: 1.3rem; padding-bottom: 1.5rem;">To answer this question, we will look at 
+the gender distribution in 2020.
+ According to <a href="https://www.brookings.edu/articles/who-earned-phds-in-economics-in-2020/" target="_blank">Brookings Institute</a>, 
+ the gender distribution for Economics PhD in 2020 is: 66% went to men and 34% to women. 
+ This gender gap appears to start early - <a href="https://www.insidehighered.com/news/students/academics/2023/07/12/uwe-challenge-recruit-women-economics-leaves-legacy" target="_blank">only about one-third of undergraduate economics students are women</a>, 
+ which closely mirrors the distribution we see at the PhD level.
+        </p>
+
+        <p style="font-size: 1.3rem; padding-bottom: 1.5rem;">
+          Based on our comprehensive analysis, we can confidently say that there is no evidence of systematic
+           gender discrimination within Economics PhD programs themselves. The gender gap we observe is largely inherited from earlier 
+           stages in the academic pipeline - particularly at the undergraduate level. Once women enter PhD programs, they experience 
+           similar placement outcomes and opportunities across all university rankings. The real challenge lies not in addressing 
+           discrimination within PhD programs, but in understanding and addressing why fewer women choose to pursue economics in the first place. 
+        </p>
+
+
+
+
           <!-- Add transition visualizations -->
         </div>
       </section>

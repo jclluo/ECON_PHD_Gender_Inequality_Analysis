@@ -795,15 +795,28 @@ pre {
 .trend-note {
   background: var(--paper-1);
   border-left: 4px solid var(--accent-coral);
-  padding: 1rem;
-  margin-top: 1rem;
+  padding: 1.5rem;
+  margin: 1rem 0;
 }
 
 .trend-note p {
-  margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: var(--slate-gray);
+  margin-bottom: 1rem; /* Space between paragraphs */
+}
+
+.trend-note p:last-child {
+  margin-bottom: 0; /* Remove margin from last paragraph */
+}
+
+.trend-note h3 {
+  color: var(--primary-dark);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.trend-note h4 {
+  color: var(--primary-dark);
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
 }
 
 .toc-container {
